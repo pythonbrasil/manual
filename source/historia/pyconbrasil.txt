@@ -1,0 +1,64 @@
+PyConDay / PyConBrasil
+========================
+
+Ficha Técnica
+----------------
++----------------------------------------------+
+|Informações gerais                            |
++==============================================+
+| Nome Oficial         | PyConBrasil           |
++----------------------+-----------------------+
+| Local                | Unicamp               |
+|                      | Campinas              |
+|                      | São Paulo             |
++----------------------+-----------------------+
+| Data                 | 28/04/2005         |
+|                      | 29/04/2005            |
++----------------------+-----------------------+
+| Organizador          | Rodrigo Senra         |
++----------------------+-----------------------+
+
++----------------------------------------------+
+|Números                                       |
++==============================================+
+| Palestras            | 14                    |
++----------------------+-----------------------+
+| Palestrantes         | N/D                   |
++----------------------+-----------------------+
+| Treinamentos         | 0                     |
++----------------------+-----------------------+
+| Inscritos            | ~ 90                  |
++----------------------+-----------------------+
+| Receita Inscrição    | R$1.380,00            |
++----------------------+-----------------------+
+| Patrocinadores       | 0                     |
++----------------------+-----------------------+
+| Apoiadores           | 1                    |
++----------------------+-----------------------+
+| Receita Patrocínio   | R$0,00                |
++----------------------+-----------------------+
+
+
+Resumo
+---------
+
+O PyConDay foi realizada no Centro de Computação da Unicamp, em 2005, sob a 
+organização do Rodrigo Senra e Rubens Queiroz (responsável pela dicas-l) e 
+contou com cerca de 90 participantes. 
+
+Planejada inicialmente para ser um encontro de um dia, foi denomindada 
+PyConDay, mas o evento se expandiu para dois dias de palestras e foi conhecido 
+como 1o. PyConBrasil.
+
+Ainda no mesmo ano, no dia 18 de outubro, houve um evento de um dia, 
+organizado pela equipe do SERPRO/RJ: Giuseppe Romagnoli, Maria-Prado Lima, 
+Luis Guilherme Aldabalde, entre outros. Este evento se chamou PyConDay e foi 
+realizado no Serpro RJ, mostrando o vigor da comunidade e a demanda por uma 
+conferência de Python periódica e de abrangência regional.
+
+Imagens
+---------
+
+.. image:: ../imagens/senra.jpg
+
+.. image:: ../imagens/pyconday.jpg

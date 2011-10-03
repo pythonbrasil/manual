@@ -1,0 +1,29 @@
+*********************
+Introdução
+*********************
+
+Sobre a PythonBrasil
+=======================
+
+A PythonBrasil é um evento anual da comunidade Python brasileira. Organizado 
+pela Associação Python Brasil desde sua terceira edição, ele já foi conhecido 
+como PyConDays (apenas na primeira edição, em Campinas, 2005), e como 
+PyConBrasil, nome utilizado até a quarta edição.
+
+O evento tem como objetivos:
+
+    * Ser o encontro da comunidade brasileira de Python
+    
+    * Ser a porta de entrada nesta comunidade
+    
+    * Financiar ações da APyB
+
+
+Sobre este documento
+=====================
+
+Este documento foi criado por Marco André Lopes Mendes, com modificações dos 
+membros da diretoria da Associação Python Brasil. O objetivo é auxiliar na 
+organização de eventos futuros da Associação Python Brasil, sobretudo das 
+edições futuras da PythonBrasil.
+
