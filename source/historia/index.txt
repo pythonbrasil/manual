@@ -4,5 +4,6 @@ História
 
 .. toctree::
    :maxdepth: 2
+   
    pyconbrasil
    pyconbrasil2
