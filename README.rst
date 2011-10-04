@@ -16,9 +16,6 @@ Contribuir
 Gerando a documentação
 ========================
 
-Requerimentos Básicos
------------------------
-
 Tenha os seguintes software instalados em seu ambiente:
 
     * Python
