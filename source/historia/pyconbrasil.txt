@@ -1,41 +1,42 @@
 PyConDay / PyConBrasil
 ========================
 
-Ficha Técnica
-----------------
-+----------------------------------------------+
-|Informações gerais                            |
-+======================+=======================+
-| Nome Oficial         | PyConBrasil           |
+Informações Gerais
+---------------------
+
 +----------------------+-----------------------+
-| Local                | Unicamp               |
-|                      | Campinas              |
-|                      | São Paulo             |
+| Nome Oficial         | * PyConBrasil         |
 +----------------------+-----------------------+
-| Data                 | 28/04/2005            |
-|                      | 29/04/2005            |
+| Local                | * Unicamp             |
+|                      | * Campinas            |
+|                      | * São Paulo           |
 +----------------------+-----------------------+
-| Organizador          | Rodrigo Senra         |
+| Data                 | * 28/04/2005          |
+|                      | * 29/04/2005          |
++----------------------+-----------------------+
+| Organizador          | * Rodrigo Senra       |
 +----------------------+-----------------------+
 
-+----------------------------------------------+
-|Números                                       |
-+======================+=======================+
-| Palestras            | 14                    |
+
+Números
+---------------------
+                                           
 +----------------------+-----------------------+
-| Palestrantes         | N/D                   |
+| Palestras            | * 14                  |
 +----------------------+-----------------------+
-| Treinamentos         | 0                     |
+| Palestrantes         | * N/D                 |
 +----------------------+-----------------------+
-| Inscritos            | ~ 90                  |
+| Treinamentos         | * 0                   |
 +----------------------+-----------------------+
-| Receita Inscrição    | R$1.380,00            |
+| Inscritos            | * ~ 90                |
 +----------------------+-----------------------+
-| Patrocinadores       | 0                     |
+| Receita Inscrição    | * R$1.380,00          |
 +----------------------+-----------------------+
-| Apoiadores           | 1                     |
+| Patrocinadores       | * 0                   |
 +----------------------+-----------------------+
-| Receita Patrocínio   | R$0,00                |
+| Apoiadores           | * 1                   |
++----------------------+-----------------------+
+| Receita Patrocínio   | * R$0,00              |
 +----------------------+-----------------------+
 
 
@@ -50,14 +51,21 @@ Planejada inicialmente para ser um encontro de um dia, foi denomindada
 PyConDay, mas o evento se expandiu para dois dias de palestras e foi conhecido 
 como 1o. PyConBrasil.
 
+O Outro PyConDay
+-------------------
+
 Ainda no mesmo ano, no dia 18 de outubro, houve um evento de um dia, 
 organizado pela equipe do SERPRO/RJ: Giuseppe Romagnoli, Maria-Prado Lima, 
 Luis Guilherme Aldabalde, entre outros. Este evento se chamou PyConDay e foi 
 realizado no Serpro RJ, mostrando o vigor da comunidade e a demanda por uma 
 conferência de Python periódica e de abrangência regional.
 
-Imagens
----------
+Este evento não é considerado **oficialmente** na contagem da PythonBrasil, mas
+faz é utilizado para a explicação do índice que parece começar em 1 no logotipo
+das edições mais recentes. -- ex: PythonBrasil[5] (deveria ser PythonBrasil[4]).
+
+Imagens do evento
+--------------------
 
 .. image:: ../imagens/senra.jpg
 

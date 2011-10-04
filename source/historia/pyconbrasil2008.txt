@@ -1,0 +1,102 @@
+PyConBrasil 2008
+========================
+
+Informações Gerais
+---------------------
+
++----------------------+-----------------------+
+| Nome Oficial         | * PyConBrasil 2008    |
++----------------------+-----------------------+
+| Local                | * UVA                 |
+|                      | * Rio de Janeiro      |
+|                      | * Rio de Janeiro      |
++----------------------+-----------------------+
+| Data                 | * 19/09/2008          |
+|                      | * 20/09/2008          |
+|                      | * 21/09/2008          |
++----------------------+-----------------------+
+| Organizador          | * Luis Gustavo Neves  |
++----------------------+-----------------------+
+
+Números
+---------------------
+                                           
++----------------------+-----------------------+
+| Palestras            | * 45                  |
++----------------------+-----------------------+
+| Palestrantes         | * N/D                 |
++----------------------+-----------------------+
+| Treinamentos         | * 4                   |
++----------------------+-----------------------+
+| Inscritos            | * 163                 |
++----------------------+-----------------------+
+| Receita Inscrição    | * N/D                 |
++----------------------+-----------------------+
+| Patrocinadores       | * 3                   |
++----------------------+-----------------------+
+| Apoiadores           | * 3                   |
++----------------------+-----------------------+
+| Receita Patrocínio   | * R$41.040,00         |
++----------------------+-----------------------+
+
+
+Resumo
+---------
+
+A PyConBrasil 2008 foi realizada no Rio de Janeiro, na Universidade Veiga de 
+Almeida.
+
+O evento foi organizado por Luis Gustavo Neves, com apoio de grande comissão
+organizadora.
+
+Seguindo a iniciativa do ano anterior, esta edição contou com palestrantes 
+internacionais: Bruce Eckel e Alexander Limi, que tiveram sua vinda ao evento
+paga pela APyB e pelo faturamento do próprio evento.
+
+Esta edição trouxe duas grandes inovações: Os Open Spaces, incentivados por
+Bruce Eckel, e o convite a um representante de outra linguagem de programação, 
+neste caso, Roberto Ierusalimschy, criador da linguagem Lua.
+
+O evento contou com 163 inscritos, ocorreram 45 palestras e 4 treinamentos em 
+paralelo às palestras. Os patrocinadores disponibilizaram também um *lounge* 
+junto a seus estandes, com internet disponível a todos.
+
+Foi realizada mais uma assembléia da APyB na qual foram eleitos novos 
+representantes e feitas modificações no estatuto.
+
+Comercialização
+------------------
+
+Diferentemente do que havia ocorrido em Campinas e em Brasília, esta edição do 
+evento contou com a presença de patrocinadores. 
+
+A comercialização foi realizada pela empresa Solucto, remunerada em 25% do valor
+total dos patrocínios.
+
+Patrocinadores
+------------------
+
++----------------------+-----------------------+
+| Serpro               | * R$20.000,00         |
++----------------------+-----------------------+
+| Globo.Com            | * R$10.000,00         |
++----------------------+-----------------------+
+| Locaweb              | * R$7.840,00          |
++----------------------+-----------------------+
+
+
+Apoiadores
+------------------
+
++----------------------+-----------------------+
+| Async                | * R$1.200,00          |
++----------------------+-----------------------+
+| Paradigma            | * R$1.000,00          |
++----------------------+-----------------------+
+| Softrent             | * R$1.000,00          |
++----------------------+-----------------------+
+
+Imagens
+---------
+
+#TODO

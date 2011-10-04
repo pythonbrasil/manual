@@ -23,7 +23,8 @@ Sobre este documento
 =====================
 
 Este documento foi criado por Marco André Lopes Mendes, com modificações dos 
-membros da diretoria da Associação Python Brasil. O objetivo é auxiliar na 
-organização de eventos futuros da Associação Python Brasil, sobretudo das 
+membros da diretoria da Associação Python Brasil. 
+
+O objetivo é auxiliar na organização de eventos futuros da APyB, sobretudo das 
 edições futuras da PythonBrasil.
 

@@ -1,0 +1,88 @@
+PyConBrasil[3]
+========================
+
+Informações Gerais
+---------------------
+
++----------------------+-----------------------+
+| Nome Oficial         | * PyConBrasil[3]      |
++----------------------+-----------------------+
+| Local                | * SOCIESC             |
+|                      | * Joinville           |
+|                      | * Santa Catarina      |
++----------------------+-----------------------+
+| Data                 | * 30/08/2007          |
+|                      | * 31/08/2007          |
+|                      | * 01/09/2007          |
++----------------------+-----------------------+
+| Organizador          | * Marco André Lopes   |
++----------------------+-----------------------+
+
+Números
+---------------------
+                                           
++----------------------+-----------------------+
+| Palestras            | * 30                  |
++----------------------+-----------------------+
+| Palestrantes         | * N/D                 |
++----------------------+-----------------------+
+| Treinamentos         | * 10                  |
++----------------------+-----------------------+
+| Inscritos            | * 235                 |
++----------------------+-----------------------+
+| Receita Inscrição    | * N/D                 |
++----------------------+-----------------------+
+| Patrocinadores       | * 5                   |
++----------------------+-----------------------+
+| Apoiadores           | * 0                   |
++----------------------+-----------------------+
+| Receita Patrocínio   | * R$51.500,00         |
++----------------------+-----------------------+
+
+
+Resumo
+---------
+
+A PyConBrasil[3] foi realizada em 2007, na SOCIESC, em Joinville/SC. 
+
+O evento foi organizado por Marco André Lopes Mendes, que liderou uma equipe de
+voluntários e contratados para a realização do evento.
+
+Foram três dias de evento, mais uma noite de pré-evento, quando foi 
+realizada a Assembléia da Associação Python Brasil para a eleição de uma 
+nova diretoria. O evento contou com de 235 inscritos.
+
+O programa continha 30 palestras (50 se contarmos as palestras-relâmpago que 
+faziam parte da grade) e 10 minicursos. 
+
+Esta edição foi a primeira a contar com um palestrante internacional, Nate Aune,
+e uma outra novidade foi a realização de uma feira de expositores.
+
+Comercialização
+------------------
+
+Diferentemente do que havia ocorrido em Campinas e em Brasília, esta edição do 
+evento contou com a presença de patrocinadores. 
+
+A comercialização foi realizada pela empresa Solucto, remunerada em 25% do valor
+total dos patrocínios.
+
+Patrocinadores
+------------------
+
++----------------------+-----------------------+
+| INdT                 | * R$20.000,00         |
++----------------------+-----------------------+
+| Intel                | * R$10.000,00         |
++----------------------+-----------------------+
+| PyTown               | * R$10.000,00         |
++----------------------+-----------------------+
+| Serpro               | * R$6.500,00          |
++----------------------+-----------------------+
+| Simples Consultoria  | * R$5.000,00          |
++----------------------+-----------------------+
+
+Imagens
+---------
+
+#TODO
