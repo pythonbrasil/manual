@@ -1,0 +1,87 @@
+PythonBrasil[5]
+========================
+
+Informações Gerais
+---------------------
+
++----------------------+-----------------------+
+| Nome Oficial         | * PythonBrasil[5]     |
++----------------------+-----------------------+
+| Local                | * UCS                 |
+|                      | * Caxias do Sul       |
+|                      | * Rio Grande do Sul   |
++----------------------+-----------------------+
+| Data                 | * 10/09/2009          |
+|                      | * 11/09/2009          |
+|                      | * 12/09/2009          |
++----------------------+-----------------------+
+| Organizador          | * Dorneles Treméa     |
++----------------------+-----------------------+
+
+Números
+---------------------
+                                           
++----------------------+-----------------------+
+| Palestras            | * 26                  |
++----------------------+-----------------------+
+| Palestrantes         | * N/D                 |
++----------------------+-----------------------+
+| Keynotes             | * 2                   |
++----------------------+-----------------------+
+| Treinamentos         | * 9                   |
++----------------------+-----------------------+
+| Inscritos            | * 132                 |
++----------------------+-----------------------+
+| Receita Inscrição    | * N/D                 |
++----------------------+-----------------------+
+| Patrocinadores       | * #TODO               |
++----------------------+-----------------------+
+| Apoiadores           | * #TODO               |
++----------------------+-----------------------+
+| Receita Patrocínio   | * R$16.250,00         |
++----------------------+-----------------------+
+
+
+Resumo
+---------
+
+Em 2009 o nome sofre alteração e temos a PythonBrasil [5], a quinta edição do 
+evento, realizada em Caxias do Sul, na UCS, Universidade de Caxias do Sul, 
+durante os dias 10, 11 e 12 de Setembro de 2009. 
+
+O Big Kahuna foi Dorneles Treméa, contando com o apoio da equipe da UCS. 
+
+Jacob Kaplan-Moss, co-fundador do Django, e Collin Winter, engenheiro do Google
+foram os palestrantes internacionais deste ano.
+
+Gustavo Niemeyer, desenvolvedor Python, e Rodrigo Bamboo de Oliveira, criador
+da linguagem Boo também estiveram presentes. 
+
+Neste ano as seções de OpenSpaces passaram a fazer parte da programação oficial 
+do evento.
+
+Foi realizada a assembléia geral da APyB e eleita a nova diretoria 
+para o biênio 2010-2011.
+
+Comercialização
+------------------
+
+Seguindo o modelo dos anos anteriores, para a edição de Caxias do Sul foi 
+contratada a Diaspar Serviços de Informações LTDA como empresa responsável 
+pela comercialização do evento.
+
+
+
+Patrocinadores
+------------------
+#TODO
+
+Apoiadores
+------------------
+
+#TODO
+
+Imagens
+---------
+
+#TODO

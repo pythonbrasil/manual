@@ -1,0 +1,137 @@
+PythonBrasil[7]
+========================
+
+Informações Gerais
+---------------------
+
++----------------------+-------------------------+
+| Nome Oficial         | * PythonBrasil[7]       |
++----------------------+-------------------------+
+| Local                | * AMCHAM Business Center|
+|                      | * São Paulo             |
+|                      | * São Paulo             |
++----------------------+-------------------------+
+| Data                 | * 21/10/2010            |
+|                      | * 22/10/2010            |
+|                      | * 23/10/2010            |
++----------------------+-------------------------+
+| Organizador          | * Érico Andrei          |
++----------------------+-------------------------+
+
+Números
+---------------------
+                                           
++----------------------+-----------------------+
+| Palestras            | * 80                  |
++----------------------+-----------------------+
+| Palestrantes         | * 65                  |
++----------------------+-----------------------+
+| Keynotes             | * 6                   |
++----------------------+-----------------------+
+| Treinamentos         | * 4                   |
++----------------------+-----------------------+
+| Inscritos            | * 340                 |
++----------------------+-----------------------+
+| Receita Inscrição    | * R$29.640,11         |
++----------------------+-----------------------+
+| Patrocinadores       | * 11                  |
++----------------------+-----------------------+
+| Apoiadores           | * 9                   |
++----------------------+-----------------------+
+| Receita Patrocínio   | * R$75.650,00         |
++----------------------+-----------------------+
+
+
+Resumo
+---------
+
+Para a edição de 2011 foi proposto um novo modelo de organização em que a APyB
+continuaria responsável pela gestão do temário do evento mas as receitas e 
+despesas da PythonBrasil seriam geridas pelo organizador, que repassaria 15%
+do valor arrecadado com as inscrições.
+
+O Big Kahuna da PythonBrasil[7] foi Érico Andrei que organizou o evento através
+da empresa Diaspar Serviços de Informações LTDA.
+
+Foram 6 keynotes speakers convidados para o evento:
+
+    * Wesley Chun (Google)
+
+    * Alan Runyan (Enfold Systems, Plone Foundation)
+    
+    * Steve Holden (Python Software Foundation / HoldenWeb)
+    
+    * Gustavo Niemeyer (Canonical, Python Core Developer)
+    
+    * Jim Fulton (Zope Corporation)
+    
+    * Maciej Fijalkowski (Pypy)
+
+E também contamos com a presença de David Edelsohn, mantenedor do GCC, que se
+inscreveu no evento como participante e nos brindou com uma palestra sobre
+comunidades.
+
+Plone Symposium South America
+--------------------------------
+
+Em conjunto com a PythonBrasil[7] foi realizada a terceira edição do Plone 
+Symposium South America.
+
+Inicialmente os dois eventos seriam realizados em sequência, com a PythonBrasil
+sucedendo o PSSA, mas objetivando a redução de custos da PythonBrasil a
+organização decidiu pela união dos eventos.
+
+Patrocinadores
+------------------
++----------------------+-----------------------+
+| Globo.com            | * R$30.000,00         |
++----------------------+-----------------------+
+| Simples Consultoria  | * R$20.000,00         |
++----------------------+-----------------------+
+| Liberiun             | * R$5.750,00          |
++----------------------+-----------------------+
+| SERPRO               | * R$5.000,00          |
++----------------------+-----------------------+
+| LZT                  | * R$4.800,00          |
++----------------------+-----------------------+
+| PyTown               | * R$2.800,00          |
++----------------------+-----------------------+
+| Globalcode           | * R$2.500,00          |
++----------------------+-----------------------+
+| Bitbucket            | * R$2.300,00          |
++----------------------+-----------------------+
+| GoNow                | * R$1.500,00          |
++----------------------+-----------------------+
+| Proge                | * R$1.000,00          |
++----------------------+-----------------------+
+
+Apoiadores
+------------------
+
++----------------------+-----------------------+
+| APyB                 | Organização / Temário |
++----------------------+-----------------------+
+| PSF                  | USD 1600 / Brindes    |
++----------------------+-----------------------+
+| Plone Foundation     | USD 2500              |
++----------------------+-----------------------+
+| Google               | Wesley Chun           |
++----------------------+-----------------------+
+| Mozilla              | Brindes               |
++----------------------+-----------------------+
+| PyAr                 | Apoio a Organização   |
++----------------------+-----------------------+
+| Menttes              | Apoio Plone Symposium |
++----------------------+-----------------------+
+| Editora Novatec      | Divulgação / Livros   |
++----------------------+-----------------------+
+| Rev. Espírito Livre  | Apoio Mídia           |
++----------------------+-----------------------+
+| Linux New Media      | Apoio Mídia           |
++----------------------+-----------------------+
+
+
+Imagens
+---------
+
+#TODO
