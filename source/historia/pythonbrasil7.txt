@@ -71,6 +71,14 @@ E também contamos com a presença de David Edelsohn, mantenedor do GCC, que se
 inscreveu no evento como participante e nos brindou com uma palestra sobre
 comunidades.
 
+Com o objetivo de reduzir os casos de palestrantes que não comparecem no
+evento para ministrarem suas apresentações foi instituída uma norma que para 
+esta edição também os palestrantes iriam ter que pagar a taxa de inscrição. O 
+resultado foi melhor que o esperado com apenas duas das palestras tendo que ser
+alteradas -- de palestrantes que estavam presentes ao evento e que cederam seu 
+espaço para outra pessoa ou por problemas de saúde -- e com a presença de todos
+os palestrantes inscritos.
+
 Plone Symposium South America
 --------------------------------
 
