@@ -1,0 +1,11 @@
+Profissional
+========================
+
+Descrição do modelo
+---------------------
+
+Modelo de gestão utilizado na edição 7 da PythonBrasil.
+
+A APyB fica com a responsabilidade pelo temário do evento, enquanto o restante
+da organização é realizada pelo Big Kahuna e/ou empresa que ficará responsável
+pelo resultado do evento.

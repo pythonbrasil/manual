@@ -1,0 +1,12 @@
+Misto
+========================
+
+Descrição do modelo
+---------------------
+
+Modelo de gestão mais utilizado na história da PythonBrasil.
+Foi adotado a partir da edição de Joinville até a edição de Curitiba.
+
+A organização fica a cargo do Big Kahuna, com apoio da APyB, mas a 
+comercialização do evento -- venda de patrocínios e apoios -- é realizada por 
+empresa especializada, em troca de participação no resultado.

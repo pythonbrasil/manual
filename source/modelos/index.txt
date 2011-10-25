@@ -1,0 +1,10 @@
+*************************
+Modelos de Organização
+*************************
+
+.. toctree::
+   :maxdepth: 1
+   
+   comunitario
+   misto
+   profissional

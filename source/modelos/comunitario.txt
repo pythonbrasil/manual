@@ -1,0 +1,11 @@
+Comunitário
+========================
+
+Descrição do modelo
+---------------------
+
+Modelo de gestão original da PythonBrasil. Foi adotado nas edições de Campinas 
+e de Brasília.
+
+A organização é realizada por voluntários com apoio de uma instituição -- que 
+provê o local e recursos para a realização do evento.
