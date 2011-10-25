@@ -23,8 +23,22 @@ Sobre este documento
 =====================
 
 Este documento foi criado por Marco André Lopes Mendes, com modificações dos 
-membros da diretoria da Associação Python Brasil. 
+membros da diretoria da Associação Python Brasil e dos organizadores da
+PythonBrasil. 
 
 O objetivo é auxiliar na organização de eventos futuros da APyB, sobretudo das 
 edições futuras da PythonBrasil.
 
+Sobre o Big Kahuna
+=====================
+
+Em todas as edições da PythonBrasil uma pessoa da comunidade fica responsável
+por coordenar e gerenciar todos os envolvidos na organização do evento.
+
+Essa pessoa recebe, por razões históricas (consulte o Rodrigo Senra para 
+maiores detalhes), o título de 'Big Kahuna'. O 'Big Kahuna' é o grande chefe,
+o maestro da organização, se ele trabalha bem o evento é um sucesso,
+se ele não trabalha bem o evento não sairá direito.
+
+Todavia, em todas as edições, o evento é fruto do trabalho de diversas pessoas,
+e é responsabilidade de todos o sucesso da empreitada.
