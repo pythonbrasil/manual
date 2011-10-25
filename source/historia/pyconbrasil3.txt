@@ -67,6 +67,19 @@ evento contou com a presença de patrocinadores.
 A comercialização foi realizada pela empresa Solucto, remunerada em 25% do valor
 total dos patrocínios.
 
+Inscrições
+----------------
+
++----------------------+------------------+
+| Categoria            |  Valor           |
++======================+==================+
+|  Estudantes          |      15,00       |
++----------------------+------------------+
+| SBC / Abraweb        |      20,00       |
++----------------------+------------------+
+| Individual           |      30,00       |
++----------------------+------------------+
+                                           
 Patrocinadores
 ------------------
 

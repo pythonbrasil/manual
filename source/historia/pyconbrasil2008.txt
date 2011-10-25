@@ -75,6 +75,19 @@ Para esta edição a empresa escolhida foi a ILTC -- Instituto de Lógica,
 Filosofia e Teoria da Ciência -- remunerada em 10% dos recursos obtidos durante
 o evento.
 
+Inscrições
+----------------
+
++----------------------+------------------+
+| Categoria            |  Valor           |
++======================+==================+
+| APyB / Estudantes    |      25,00       |
++----------------------+------------------+
+| SBC / Abraweb        |      35,00       |
++----------------------+------------------+
+| Individual           |      45,00       |
++----------------------+------------------+
+
 Patrocinadores
 ------------------
 
