@@ -70,10 +70,23 @@ Comercialização
 Assim como a edição de Caxias do Sul, a comercialização do evento foi realizada
 pela Diaspar Serviços de Informações LTDA.
 
+A remuneração da empresa foi de 25% sobre o faturamento proveniente de cotas de 
+patrocínio
+
 
 Patrocinadores
 ------------------
-#TODO
++----------------------+-----------------------+
+| Globo.Com            | * R$10.000,00         |
++----------------------+-----------------------+
+| SERPRO               | * R$5.000,00          |
++----------------------+-----------------------+
+| Liberiun             | * R$3.900,00          |
++----------------------+-----------------------+
+| LZT                  | * R$2.000,00          |
++----------------------+-----------------------+
+| Caelum               | * R$1.000,00          |
++----------------------+-----------------------+
 
 Apoiadores
 ------------------
