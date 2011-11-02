@@ -20,13 +20,13 @@ Informações Gerais
 
 Números
 ---------------------
-                                           
+
 +----------------------+-----------------------+
 | Palestras            | * 55                  |
 +----------------------+-----------------------+
 | Palestrantes         | * N/D                 |
 +----------------------+-----------------------+
-| Keynotes             | 2                     |
+| Keynotes             | * 2                   |
 +----------------------+-----------------------+
 | Treinamentos         | * 6                   |
 +----------------------+-----------------------+
@@ -51,9 +51,9 @@ campus da UFPR -- Universidade Federal do Paraná -- em Curitibá, Paraná.
 O Big Kahuna foi Ramiro Batista, contando com apoio de uma comissão formada por
 Osvaldo Santana, Arthur Furlan e Paulo Henrique Santana.
 
-Como keynotes do evento foram convidados Leah Culver, co-fundadora e principal 
+Como keynotes do evento foram convidados Leah Culver, co-fundadora e principal
 desenvolvedora da rede social e site de micro-blogging Pownce, e Facundo
-Batista, um dos líderes da PyAr, Core-Developer do Python e membro da Python 
+Batista, um dos líderes da PyAr, Core-Developer do Python e membro da Python
 Software Foundation.
 
 Inicialmente estava prevista a participação de Ian Bicking, membro conhecido da
@@ -61,7 +61,7 @@ comunidade Python, mas que por motivos familiares teve que declinar do convite.
 
 O representante de outra linguagem foi Fábio Akita que discorreu sobre Ruby.
 
-Durante o evento foi realizada a assembléia geral da APyB onde foram eleitos 
+Durante o evento foi realizada a assembléia geral da APyB onde foram eleitos
 novos conselheiros e foi definida a sede da edição seguinte da PythonBrasil.
 
 Comercialização

@@ -5,7 +5,7 @@ Informações Gerais
 ---------------------
 
 +----------------------+-----------------------+
-| Nome Oficial         | * PyConBrasil         |
+| Nome Oficial         | * PyConDay            |
 +----------------------+-----------------------+
 | Local                | * Unicamp             |
 |                      | * Campinas            |
@@ -20,7 +20,7 @@ Informações Gerais
 
 Números
 ---------------------
-                                           
+
 +----------------------+-----------------------+
 | Palestras            | * 14                  |
 +----------------------+-----------------------+
@@ -43,26 +43,26 @@ Números
 Resumo
 ---------
 
-O PyConDay foi realizada no Centro de Computação da Unicamp, em 2005, sob a 
-organização do Rodrigo Senra e Rubens Queiroz (responsável pela dicas-l) e 
-contou com cerca de 90 participantes. 
+O PyConDay foi realizada no Centro de Computação da Unicamp, em 2005, sob a
+organização do Rodrigo Senra e Rubens Queiroz (responsável pela dicas-l) e
+contou com cerca de 90 participantes.
 
-Planejada inicialmente para ser um encontro de um dia, foi denomindada 
-PyConDay, mas o evento se expandiu para dois dias de palestras e foi conhecido 
+Planejada inicialmente para ser um encontro de um dia, foi denomindada
+PyConDay, mas o evento se expandiu para dois dias de palestras e foi conhecido
 como 1o. PyConBrasil.
 
 O Outro PyConDay
 -------------------
 
-Ainda no mesmo ano, no dia 18 de outubro, houve um evento de um dia, 
-organizado pela equipe do SERPRO/RJ: Giuseppe Romagnoli, Maria-Prado Lima, 
-Luis Guilherme Aldabalde, entre outros. Este evento se chamou PyConDay e foi 
-realizado no Serpro RJ, mostrando o vigor da comunidade e a demanda por uma 
+Ainda no mesmo ano, no dia 18 de outubro, houve um evento de um dia,
+organizado pela equipe do SERPRO/RJ: Giuseppe Romagnoli, Maria-Prado Lima,
+Luis Guilherme Aldabalde, entre outros. Este evento se chamou PyConDay e foi
+realizado no Serpro RJ, mostrando o vigor da comunidade e a demanda por uma
 conferência de Python periódica e de abrangência regional.
 
 Este evento não é considerado **oficialmente** na contagem da PythonBrasil, mas
-faz é utilizado para a explicação do índice que parece começar em 1 no logotipo
-das edições mais recentes. -- ex: PythonBrasil[5] (deveria ser PythonBrasil[4]).
+é utilizado para a explicação do índice que parece começar em 1 no logotipo das
+edições mais recentes. -- ex: PythonBrasil[5] (deveria ser PythonBrasil[4]).
 
 Inscrições
 ----------------

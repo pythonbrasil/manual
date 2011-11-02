@@ -19,7 +19,7 @@ Informações Gerais
 
 Números
 ---------------------
-                                           
+
 +----------------------+-----------------------+
 | Palestras            | * 16                  |
 +----------------------+-----------------------+
@@ -42,14 +42,13 @@ Números
 Resumo
 ---------
 
-A PyConBrasil 2006 foi realizada no Interlegis, em Brasília, sob organização de 
-Jean Rodrigo Ferri e sua equipe. 
-Foram cerca de 180 participantes. 
+A PyConBrasil 2006 foi realizada no Interlegis, em Brasília, sob organização de
+Jean Rodrigo Ferri e sua equipe. Foram cerca de 180 participantes.
 
-Nessa edição foram incluídos os minicursos de quatro horas de duração em 
-paralelo às palestras. 
+Nessa edição foram incluídos os minicursos de quatro horas de duração em
+paralelo às palestras.
 
-Outra novidade foram as palestras-relâmpago, com cinco minutos de duração, 
+Outra novidade foram as palestras-relâmpago, com cinco minutos de duração,
 que são tradicionais em eventos da comunidade Python ao redor do mundo.
 
 
@@ -63,7 +62,8 @@ Inscrições
 +----------------------+------------------+
 
 
-.. note:: As normas do Interlegis impedem a cobrança pelas inscrições.
+.. note:: As normas do Interlegis impedem a cobrança pelas inscrições bem como
+          a comercialização de produtos.
 
 Imagens
 ---------

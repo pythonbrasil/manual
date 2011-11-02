@@ -20,7 +20,7 @@ Informações Gerais
 
 Números
 ---------------------
-                                           
+
 +----------------------+-----------------------+
 | Palestras            | * 80                  |
 +----------------------+-----------------------+
@@ -46,7 +46,7 @@ Resumo
 ---------
 
 Para a edição de 2011 foi proposto um novo modelo de organização em que a APyB
-continuaria responsável pela gestão do temário do evento mas as receitas e 
+continuaria responsável pela gestão do temário do evento mas as receitas e
 despesas da PythonBrasil seriam geridas pelo organizador, que repassaria 15%
 do valor arrecadado com as inscrições.
 
@@ -58,31 +58,31 @@ Foram 6 keynotes speakers convidados para o evento:
     * Wesley Chun (Google)
 
     * Alan Runyan (Enfold Systems, Plone Foundation)
-    
+
     * Steve Holden (Python Software Foundation / HoldenWeb)
-    
+
     * Gustavo Niemeyer (Canonical, Python Core Developer)
-    
+
     * Jim Fulton (Zope Corporation)
-    
+
     * Maciej Fijalkowski (Pypy)
 
 E também contamos com a presença de David Edelsohn, mantenedor do GCC, que se
 inscreveu no evento como participante e nos brindou com uma palestra sobre
 comunidades.
 
-Com o objetivo de reduzir os casos de palestrantes que não comparecem no
-evento para ministrarem suas apresentações foi instituída uma norma que para 
-esta edição também os palestrantes iriam ter que pagar a taxa de inscrição. O 
-resultado foi melhor que o esperado com apenas duas das palestras tendo que ser
-alteradas -- de palestrantes que estavam presentes ao evento e que cederam seu 
-espaço para outra pessoa ou por problemas de saúde -- e com a presença de todos
-os palestrantes inscritos.
+Com o objetivo de reduzir os casos de palestrantes que não compareciam no
+evento para ministrarem suas apresentações foi instituída a cobrança da taxa de
+inscrição para os palestrantes. O resultado foi melhor que o esperado com
+apenas duas das palestras tendo que ser alteradas -- de palestrantes que
+estavam presentes ao evento e que cederam seu espaço para outra pessoa ou por
+problemas de saúde -- e com a presença de todos os palestrantes inscritos.
+
 
 Plone Symposium South America
 --------------------------------
 
-Em conjunto com a PythonBrasil[7] foi realizada a terceira edição do Plone 
+Em conjunto com a PythonBrasil[7] foi realizada a terceira edição do Plone
 Symposium South America.
 
 Inicialmente os dois eventos seriam realizados em sequência, com a PythonBrasil
@@ -110,6 +110,7 @@ Inscrições
 
 Patrocinadores
 ------------------
+
 +----------------------+-----------------------+
 | Globo.com            | * R$30.000,00         |
 +----------------------+-----------------------+

@@ -20,7 +20,7 @@ Informações Gerais
 
 Números
 ---------------------
-                                           
+
 +----------------------+-----------------------+
 | Palestras            | * 26                  |
 +----------------------+-----------------------+
@@ -45,29 +45,29 @@ Números
 Resumo
 ---------
 
-Em 2009 o nome sofre alteração e temos a PythonBrasil [5], a quinta edição do 
-evento, realizada em Caxias do Sul, na UCS, Universidade de Caxias do Sul, 
-durante os dias 10, 11 e 12 de Setembro de 2009. 
+Em 2009 o nome sofre alteração e temos a PythonBrasil [5], a quinta edição do
+evento, realizada em Caxias do Sul, na UCS, Universidade de Caxias do Sul,
+durante os dias 10, 11 e 12 de Setembro de 2009.
 
-O Big Kahuna foi Dorneles Treméa, contando com o apoio da equipe da UCS. 
+O Big Kahuna foi Dorneles Treméa, contando com o apoio da equipe da UCS.
 
-Jacob Kaplan-Moss, co-fundador do Django, e Collin Winter, engenheiro do Google
+Jacob Kaplan-Moss, co-criador do Django, e Collin Winter, engenheiro do Google
 foram os palestrantes internacionais deste ano.
 
 Gustavo Niemeyer, desenvolvedor Python, e Rodrigo Bamboo de Oliveira, criador
-da linguagem Boo também estiveram presentes. 
+da linguagem Boo também estiveram presentes.
 
-Neste ano as seções de OpenSpaces passaram a fazer parte da programação oficial 
+Neste ano as seções de OpenSpaces passaram a fazer parte da programação oficial
 do evento.
 
-Foi realizada a assembléia geral da APyB e eleita a nova diretoria 
+Foi realizada a assembléia geral da APyB e eleita a nova diretoria
 para o biênio 2010-2011.
 
 Comercialização
 ------------------
 
-Seguindo o modelo dos anos anteriores, para a edição de Caxias do Sul foi 
-contratada a Diaspar Serviços de Informações LTDA como empresa responsável 
+Seguindo o modelo dos anos anteriores, para a edição de Caxias do Sul foi
+contratada a Diaspar Serviços de Informações LTDA como empresa responsável
 pela comercialização do evento.
 
 A remuneração da empresa foi de 15% sobre o faturamento proveniente de cotas de 
