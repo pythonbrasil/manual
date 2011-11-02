@@ -64,6 +64,19 @@ Este evento não é considerado **oficialmente** na contagem da PythonBrasil, ma
 faz é utilizado para a explicação do índice que parece começar em 1 no logotipo
 das edições mais recentes. -- ex: PythonBrasil[5] (deveria ser PythonBrasil[4]).
 
+Inscrições
+----------------
+
++----------------------+------------------+------------------+------------------+------------------+
+| Categoria            |  Até 11/04/2005  |  Até 18/04/2005  |  Até 25/04/2005  | Depois de 26/04  |
++======================+==================+==================+==================+==================+
+| Individual           |      15,00       |       20,00      |       25,00      |       30,00      |
++----------------------+------------------+------------------+------------------+------------------+
+
+.. note:: Todo o faturamento com inscrições foi revertido para a Casa de
+          Repouso Bom Pastor.
+
+
 Imagens do evento
 --------------------
 

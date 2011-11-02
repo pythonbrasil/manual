@@ -86,6 +86,11 @@ Inscrições
 | Individual           |      45,00       |       58,00      |       72,00      |       85,00      |
 +----------------------+------------------+------------------+------------------+------------------+
 
+.. note:: Parte da receita de cada ingresso (R$5,00) comercializado 
+          foi revertido para a ONG 'Lar São Francisco de Assis', entidade de 
+          auxílio à terceira idade, da cidade de Caxias do Sul.
+
+
 Patrocinadores
 ------------------
 

@@ -52,6 +52,19 @@ paralelo às palestras.
 Outra novidade foram as palestras-relâmpago, com cinco minutos de duração, 
 que são tradicionais em eventos da comunidade Python ao redor do mundo.
 
+
+Inscrições
+----------------
+
++----------------------+------------------+
+| Categoria            |  Até o evento    |
++======================+==================+
+| Individual           |      N/A         |
++----------------------+------------------+
+
+
+.. note:: As normas do Interlegis impedem a cobrança pelas inscrições.
+
 Imagens
 ---------
 
