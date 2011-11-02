@@ -161,4 +161,4 @@ Apoiadores
 Imagens
 ---------
 
-#TODO
+.. image:: ../imagens/pythonbrasil7.jpg
