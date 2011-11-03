@@ -52,6 +52,12 @@ A PythonBrasil é o evento anual da comunidade Python brasileira e tem como obje
 Qualquer proposta submetida **deve** endereçar este objetivos de maneira clara e
 objetiva para que seja avaliada durante o processo de escolha.
 
+.. note:: Estamos avaliando a possibilidade de escolher a sede próximos 2 anos
+          (2012 e 2013) para otimizar processo de organização do evento, 
+          portanto, se houver interesse em sediar o evento por mais de um ano é
+          importante colocar isso na proposta.
+
+
 Detalhamento dos números
 --------------------------
 
@@ -86,10 +92,17 @@ na mesma cidade pode siginificar uma redução significativa nas opções de
 hospedagem e de deslocamento -- isto sem falar no custo para os membros da
 comunidade.
 
-Modelos
---------------------------
+Exemplos e modelos
+====================
 
 Como exemplo deixamos um modelo de proposta de candidatura, bem como uma
 planilha -- com dados falsos -- para que você baseie sua proposta.
 
+    * :doc:`modelo`.
+    
+    * :download:`Planilha exemplo -- candidatura fictícia
+      <./planilhas/saopaulo-2010.ods>`.
+    
+Caso queria, também temos uma planilha em branco, para ser preenchida:
 
+    * :download:`Planilha base <./planilhas/base.ods>`.
