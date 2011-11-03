@@ -1,0 +1,95 @@
+O processo de escolha
+========================
+
+O processo de escolha da sede da PythonBrasil segue um calendário que começa com
+a chamada de candidaturas, passa pela análise das propostas e culmina no 
+anúncio do local.
+
+Chamada de candidaturas
+--------------------------
+
+Realizada pela diretoria da APyB, dá início ao processo de escolha com a 
+publicação das datas e critérios relativos a escolha da nova sede da 
+PythonBrasil.
+
+Durante este período a diretoria da APyB define qual o grupo de pessoas será
+responsável pela análise das propostas.
+
+Análise das propostas
+--------------------------
+
+Ao final deste período inicia-se o processo de escolha propriamente dito com a
+análise das propostas enviadas. A análise se dará com base na apresentação 
+de cada proposta e em sua respectiva planilha de estimativas.
+
+Caso existam dúvidas, os responsáveis por cada uma das propostas serão
+contatados diretamente e o esclarecimento será anexado aos documentos
+enviados.
+
+A definição da proposta vencedora se dará dentro do grupo.
+
+Anúncio do local
+--------------------------
+
+Com uma proposta vencedora, o local e (idealmente) a data serão anunciados para
+a comunidade.
+
+
+Elaboração da proposta
+==========================
+
+Objetivos do evento
+--------------------------
+
+A PythonBrasil é o evento anual da comunidade Python brasileira e tem como objetivos:
+
+    * Ser o encontro da comunidade brasileira de Python
+    
+    * Ser a porta de entrada nesta comunidade
+    
+    * Financiar ações da APyB
+
+Qualquer proposta submetida **deve** endereçar este objetivos de maneira clara e
+objetiva para que seja avaliada durante o processo de escolha.
+
+Detalhamento dos números
+--------------------------
+
+Seja muito criterioso no detalhamento de custos e de fornecedores relativos ao
+evento incluindo explicações onde os valores divirjam do praticado no mercado --
+ex.: Caso o evento não contemple custo de filmagem, descreva a razão pela
+qual isto ocorrerá.
+
+Restrições às restrições
+--------------------------
+
+Não serão aceitas propostas que imponham restrições a exposição de marcas de
+patrocinadores, cobrança de ingresso ou à venda de produtos dentro do
+local onde o evento estiver sendo realizado.
+
+Escolha de datas
+--------------------------
+
+A PythonBrasil ocorre no segundo semestre do ano. A definição da data do evento
+fica a critério do organizador, que deve considerar os seguintes fatores:
+
+    * Feriados nacionais e locais
+    
+    * Datas religiosas
+    
+    * Conflito com outros eventos de TI
+    
+    * Conflito com outros eventos na cidade
+
+Considere, por exemplo, que a coincidência da PythonBrasil com um outro evento
+na mesma cidade pode siginificar uma redução significativa nas opções de
+hospedagem e de deslocamento -- isto sem falar no custo para os membros da
+comunidade.
+
+Modelos
+--------------------------
+
+Como exemplo deixamos um modelo de proposta de candidatura, bem como uma
+planilha -- com dados falsos -- para que você baseie sua proposta.
+
+
