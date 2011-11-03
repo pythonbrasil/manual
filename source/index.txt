@@ -8,3 +8,4 @@ Manual do Big Kahuna
    introducao
    historia/index
    modelos/index
+   proposta/index
