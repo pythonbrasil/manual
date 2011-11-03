@@ -5,7 +5,7 @@ Introdução
 Sobre a PythonBrasil
 =======================
 
-A PythonBrasil é um evento anual da comunidade Python brasileira. Organizado 
+A PythonBrasil é o evento anual da comunidade Python brasileira. Organizado 
 pela Associação Python Brasil desde sua terceira edição, ele já foi conhecido 
 como PyConDays (apenas na primeira edição, em Campinas, 2005), e como 
 PyConBrasil, nome utilizado até a quarta edição.
