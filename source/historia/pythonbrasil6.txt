@@ -4,19 +4,19 @@ PythonBrasil[6]
 Informações Gerais
 ---------------------
 
-+----------------------+-----------------------+
-| Nome Oficial         | * PythonBrasil[6]     |
-+----------------------+-----------------------+
-| Local                | * UFPR                |
-|                      | * Curitiba            |
-|                      | * Paraná              |
-+----------------------+-----------------------+
-| Data                 | * 21/10/2010          |
-|                      | * 22/10/2010          |
-|                      | * 23/10/2010          |
-+----------------------+-----------------------+
-| Organizador          | * Ramiro Batista      |
-+----------------------+-----------------------+
++----------------------+-------------------------+
+| Nome Oficial         | * PythonBrasil[6]       |
++----------------------+-------------------------+
+| Local                | * UFPR                  |
+|                      | * Curitiba              |
+|                      | * Paraná                |
++----------------------+-------------------------+
+| Data                 | * 21/10/2010            |
+|                      | * 22/10/2010            |
+|                      | * 23/10/2010            |
++----------------------+-------------------------+
+| Organizador          | * Ramiro Batista da Luz |
++----------------------+-------------------------+
 
 Números
 ---------------------
@@ -24,7 +24,7 @@ Números
 +----------------------+-----------------------+
 | Palestras            | * 55                  |
 +----------------------+-----------------------+
-| Palestrantes         | * N/D                 |
+| Palestrantes         | * 52                  |
 +----------------------+-----------------------+
 | Keynotes             | * 2                   |
 +----------------------+-----------------------+
@@ -34,9 +34,9 @@ Números
 +----------------------+-----------------------+
 | Receita Inscrição    | * N/D                 |
 +----------------------+-----------------------+
-| Patrocinadores       | * #TODO               |
+| Patrocinadores       | * 5                   |
 +----------------------+-----------------------+
-| Apoiadores           | * #TODO               |
+| Apoiadores           | * 9                   |
 +----------------------+-----------------------+
 | Receita Patrocínio   | * R$21.900,00         |
 +----------------------+-----------------------+
@@ -45,11 +45,20 @@ Números
 Resumo
 ---------
 
-Em 2010 o evento foi realizado entre os dias 21 e 23 de outubro de 2010 no
-campus da UFPR -- Universidade Federal do Paraná -- em Curitibá, Paraná.
+A Associação Python Brasil promoveu entre os dias 21 e 23 de outubro, na
+Universidade Federal do Paraná (UFPR) em Curitiba (PR), a 6a edição da 
+Python Brasil, Encontro Brasileiro da Comunidade Python.
 
-O Big Kahuna foi Ramiro Batista, contando com apoio de uma comissão formada por
+O Big Kahuna foi Ramiro Batista da Luz, contando com apoio de uma comissão formada por
 Osvaldo Santana, Arthur Furlan e Paulo Henrique Santana.
+
+A cerimônia de abertura foi realizada no dia 21 de outubro de 2010, com a
+participação Dorneles Treméa presidente da Associação Python Brasil à época
+do evento, Ramiro Batista da Luz e Luis Carlos Erpen de Bona representante
+do Departamento de Informática da UFPR.
+
+Ao todo foram 49 palestras divididas em 2 auditórios, além de 6 mini-cursos
+e diversas palestras relâmpagos durante os 3 dias de evento.
 
 Como keynotes do evento foram convidados Leah Culver, co-fundadora e principal
 desenvolvedora da rede social e site de micro-blogging Pownce, e Facundo
@@ -63,6 +72,7 @@ O representante de outra linguagem foi Fábio Akita que discorreu sobre Ruby.
 
 Durante o evento foi realizada a assembléia geral da APyB onde foram eleitos
 novos conselheiros e foi definida a sede da edição seguinte da PythonBrasil.
+
 
 Comercialização
 ------------------
@@ -103,9 +113,29 @@ Patrocinadores
 Apoiadores
 ------------------
 
-#TODO
++----------------------+-----------------------+
+| APyB                 | Organização / Temário |
++----------------------+-----------------------+
+| Simples Consultoria  | Web site do evento    |
++----------------------+-----------------------+
+| Tríveos              | Divulgação e brindes  |
++----------------------+-----------------------+
+| Elaborata            | Divulgação e banners  |
++----------------------+-----------------------+
+| UFPR                 | Apoio institucional   |
++----------------------+-----------------------+
+| CEI - UFPR           | Apoio à organização   |
++----------------------+-----------------------+
+| Rev. Espírito Livre  | Apoio Mídia           |
++----------------------+-----------------------+
+| Linux New Media      | Apoio Mídia           |
++----------------------+-----------------------+
+| 91 Radio Rock        | Apoio Mídia           |
++----------------------+-----------------------+
+
+
 
 Imagens
 ---------
 
-#TODO
+.. image:: ../imagens/pythonbrasil6.jpg
