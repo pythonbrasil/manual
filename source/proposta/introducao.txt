@@ -2,14 +2,14 @@ O processo de escolha
 ========================
 
 O processo de escolha da sede da PythonBrasil segue um calendário que começa com
-a chamada de candidaturas, passa pela análise das propostas e culmina no 
+a chamada de candidaturas, passa pela análise das propostas e culmina no
 anúncio do local.
 
 Chamada de candidaturas
 --------------------------
 
-Realizada pela diretoria da APyB, dá início ao processo de escolha com a 
-publicação das datas e critérios relativos a escolha da nova sede da 
+Realizada pela diretoria da APyB, dá início ao processo de escolha com a
+publicação das datas e critérios relativos a escolha da nova sede da
 PythonBrasil.
 
 Durante este período a diretoria da APyB define qual o grupo de pessoas será
@@ -19,7 +19,7 @@ Análise das propostas
 --------------------------
 
 Ao final deste período inicia-se o processo de escolha propriamente dito com a
-análise das propostas enviadas. A análise se dará com base na apresentação 
+análise das propostas enviadas. A análise se dará com base na apresentação
 de cada proposta e em sua respectiva planilha de estimativas.
 
 Caso existam dúvidas, os responsáveis por cada uma das propostas serão
@@ -44,16 +44,16 @@ Objetivos do evento
 A PythonBrasil é o evento anual da comunidade Python brasileira e tem como objetivos:
 
     * Ser o encontro da comunidade brasileira de Python
-    
+
     * Ser a porta de entrada nesta comunidade
-    
+
     * Financiar ações da APyB
 
 Qualquer proposta submetida **deve** endereçar este objetivos de maneira clara e
 objetiva para que seja avaliada durante o processo de escolha.
 
 .. note:: Estamos avaliando a possibilidade de escolher a sede próximos 2 anos
-          (2012 e 2013) para otimizar processo de organização do evento, 
+          (2012 e 2013) para otimizar processo de organização do evento,
           portanto, se houver interesse em sediar o evento por mais de um ano é
           importante colocar isso na proposta.
 
@@ -80,17 +80,25 @@ A PythonBrasil ocorre no segundo semestre do ano. A definição da data do event
 fica a critério do organizador, que deve considerar os seguintes fatores:
 
     * Feriados nacionais e locais
-    
+
     * Datas religiosas
-    
+
     * Conflito com outros eventos de TI
-    
+
     * Conflito com outros eventos na cidade
+
+    * Possibilidade de organização conjunta com eventos de Python em países
+      vizinhos [#]_
+
+.. [#] Nos últimos anos a PythonBrasil vem se beneficiando da organização
+   conjunta do evento com a comunidade argentina. Esse trabalho permite trazer
+   palestrantes internacionais que se apresentam nos dois países à um custo menor.
 
 Considere, por exemplo, que a coincidência da PythonBrasil com um outro evento
 na mesma cidade pode siginificar uma redução significativa nas opções de
 hospedagem e de deslocamento -- isto sem falar no custo para os membros da
 comunidade.
+
 
 Exemplos e modelos
 ====================
@@ -99,10 +107,10 @@ Como exemplo deixamos um modelo de proposta de candidatura, bem como uma
 planilha -- com dados falsos -- para que você baseie sua proposta.
 
     * :doc:`modelo`.
-    
+
     * :download:`Planilha exemplo -- candidatura fictícia
       <./planilhas/saopaulo-2010.ods>`.
-    
+
 Caso queria, também temos uma planilha em branco, para ser preenchida:
 
     * :download:`Planilha base <./planilhas/base.ods>`.
