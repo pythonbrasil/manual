@@ -4,7 +4,7 @@ História
 
 .. toctree::
    :maxdepth: 1
-   
+
    pyconbrasil
    pyconbrasil2
    pyconbrasil3
@@ -12,3 +12,4 @@ História
    pythonbrasil5
    pythonbrasil6
    pythonbrasil7
+   pythonbrasil8
