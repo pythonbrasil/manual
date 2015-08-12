@@ -1,0 +1,139 @@
+PythonBrasil[10]
+========================
+
+Informações Gerais
+---------------------
+
++----------------------+-------------------------+
+| Nome Oficial         | * PythonBrasil[10]      |
++----------------------+-------------------------+
+| Local                | * Hotel Armação         |
+|                      | * Porto de Galinhas     |
+|                      | * Recife                |
++----------------------+-------------------------+
+| Data                 | * 04/11/2014            |
+|                      | * 05/11/2014            |
+|                      | * 06/11/2014            |
+|                      | * 07/11/2014            |
+|                      | * 08/11/2014            |
+|                      | * 09/11/2014            |
++----------------------+-------------------------+
+| Organizador          | * Renato Oliveira       |
++----------------------+-------------------------+
+
+Números
+---------------------
+
++----------------------+-----------------------+
+| Palestras            | * 33                  |
++----------------------+-----------------------+
+| Palestrantes         | * ~34                 |
++----------------------+-----------------------+
+| Keynotes             | * 5                   |
++----------------------+-----------------------+
+| Treinamentos         | * 10                  |
++----------------------+-----------------------+
+| Inscritos            | * ~350                |
++----------------------+-----------------------+
+| Receita Inscrição    | * NDA                 |
++----------------------+-----------------------+
+| Patrocinadores       | * 12                  |
++----------------------+-----------------------+
+| Apoiadores           | * 10                  |
++----------------------+-----------------------+
+| Receita Patrocínio   | * NDA                 |
++----------------------+-----------------------+
+
+
+Resumo
+---------
+
+Foi a primeira vez que uma Python Brasil acontece na região Nordeste, e especialmente foi feita em uma das mais belas praias do Brasil, em Porto de Galinhas.
+
+Os tutoriais foram feitos em Recife, na Porto Mídia.
+A conferência aconteceu no Hotel Armação, onde ocorreu o Sprint, que também ocorreu a confraternização dos participantes pós-evento.
+
+No último dia houve um tour programado de atividades, inclusos passeio de Jangada, Mergulho com cilindro, passeio de buggy e standup paddle.
+
+Tivemos keynotes muito importantes como:
+
+- Fernando Perez, criador do Ipython, falando sobre como funciona a ferramenta, as novidades e o que ela pode fazer;
+
+- Lynn Root, engenheira do Spotify, falando um pouco sobre como Python é utilizado dentro da empresa;
+
+- Daniel Greenfield, o Pydanny, comentando sobre suas experiências em trabalhar em grandes projetos, como na NASA e no Eventbrite, empresa atual em que trabalha;
+
+- Alex Gaynor, engenheiro do Rackspace, comentando de suas experiências em colaborar em projetos open source, o interior do Python e diversas coisas mais;
+
+- José Valim, palestrante convidado de outra linguagem, falando um pouco sobre o Elixir, uma linguagem de programação funcional que o próprio criou, comentando sobre o que levou a criação da linguagem, o futuro dela e também o que ela pode oferecer aos desenvolvedores.
+
+O ganhador do prêmio Dorneles Treméa foi o Osvaldo Santana Neto.
+
+Site da conferência: http://2014.pythonbrasil.org.br/index.html
+
+Inscrições
+----------------
+NDA
+
+Patrocinadores
+------------------
+
++----------------------+-----------------------+
+| Google               | * Diamante            |
++----------------------+-----------------------+
+| Nic.br - CGI.br      | * Platina             |
++----------------------+-----------------------+
+| LuizaLabs            | * Ouro                |
++----------------------+-----------------------+
+| Evolux               | * Ouro                |
++----------------------+-----------------------+
+| Globo.com            | * Ouro                |
++----------------------+-----------------------+
+| PSF                  | * Ouro                |
++----------------------+-----------------------+
+| Rackspace            | * Prata               |
++----------------------+-----------------------+
+| ZNC Sistemas         | * Prata               |
++----------------------+-----------------------+
+| Python.pro           | * Prata               |
++----------------------+-----------------------+
+| Serpro               | * Bronze              |
++----------------------+-----------------------+
+| Github               | * Bronze              |
++----------------------+-----------------------+
+
+
+Apoiadores
+------------------
+
++----------------------+-----------------------+
+| Welcome to the Django | NDA                  |
++----------------------+-----------------------+
+| Pycharm              | NDA                   |
++----------------------+-----------------------+
+| Two Scoops of Django | NDA                   |
++----------------------+-----------------------+
+| Eventbrite           | NDA                   |
++----------------------+-----------------------+
+| Porto Digital        | NDA                   |
++----------------------+-----------------------+
+| Porto Mídia          | NDA                   |
++----------------------+-----------------------+
+| Open Mining          | NDA                   |
++----------------------+-----------------------+
+| O'Reilly             | NDA                   |
++----------------------+-----------------------+
+| Editora Novatec      | NDA                   |
++----------------------+-----------------------+
+| Citi                 | NDA                   |
++----------------------+-----------------------+
+
+Imagens
+---------
+
+https://www.flickr.com/photos/pythonbrasil/
+
+Vídeos
+---------
+
+https://www.youtube.com/user/pythonbrazil
