@@ -7,15 +7,18 @@ Informações Gerais
 +----------------------+-------------------------+
 | Nome Oficial         | * PythonBrasil[8]       |
 +----------------------+-------------------------+
-| Local                | * UVA - Tijuca          |
-|                      | * Tijuca                |
+| Local                | * Centro de convenções  |
+|                      |   SulAmérica            |
+|                      | * Cidade Nova           |
 |                      | * Rio de Janeiro        |
 +----------------------+-------------------------+
-| Data                 | * 21/10/2011            |
-|                      | * 22/10/2011            |
-|                      | * 23/10/2011            |
+| Data                 | * 21/11/2012            |
+|                      | * 22/11/2012            |
+|                      | * 23/11/2012            |
+|                      | * 24/11/2012            |
 +----------------------+-------------------------+
-| Organizador          | * Tatiana Al-Chueyr e Álvaro Justen|
+| Organizador          | * Tatiana Al-Chueyr     |
+|                      |   e Álvaro Justen       |
 +----------------------+-------------------------+
 
 Números
@@ -24,7 +27,7 @@ Números
 +----------------------+-----------------------+
 | Palestras            | * 48                  |
 +----------------------+-----------------------+
-| Palestrantes         | * 45                  |
+| Palestrantes         | * 40                  |
 +----------------------+-----------------------+
 | Keynotes             | * 6                   |
 +----------------------+-----------------------+
@@ -44,7 +47,16 @@ Números
 
 Resumo
 ---------
-NDA
+A Python Brasil é recebida pelo Rio de Janeiro pela segunda vez, dessa vez organizado pela Tatiana Al-Chueyr e Álvaro Justen "Turicas", acontecendo os tutoriais na FGV (Faculdade Getúlio Vargas) e as palestras no Centro de convenções SulAmérica.
+
+Tivemos como Keynotes:
+
+- web2py: Web Development Should be Easy (Massimo Di Pierro)
+- Python Packaging (Tarek Ziade)
+- Optimize Performance and Scalability with Parallelism and Concurrency (Bob Hancock)
+- Stepping Through CPython (Larry Hastings)
+- “import wx”: a Tale of Neverending GUI Power (Andrea Gavana)
+- Clojure - em busca da simplicidade (Pedro Teixeira)
 
 Inscrições
 ----------------
@@ -54,25 +66,68 @@ Patrocinadores
 ------------------
 
 +----------------------+-----------------------+
-| Serpro               | * Diamante            |
+| Globo.com            | * Diamante            |
 +----------------------+-----------------------+
-| Locaweb              | * Ouro                |
+| Python Software Foundation| * Ouro           |
 +----------------------+-----------------------+
-| Globo.com            | * Ouro                |
+| R18 Tecnologia e Comunicação| * Ouro         |
++----------------------+-----------------------+
+| Serpro               | * Ouro                |
++----------------------+-----------------------+
+| Titans Group         | * Ouro                |
++----------------------+-----------------------+
+| Loogica              | * Prata               |
++----------------------+-----------------------+
+| Dekode               | * Prata               |
++----------------------+-----------------------+
+| Web2py               | * Prata               |
++----------------------+-----------------------+
+| Simples Consultoria  | * Prata               |
++----------------------+-----------------------+
+|Enthought             | * Prata               |
++----------------------+-----------------------+
+| Curto Café           | * Prata               |
++----------------------+-----------------------+
+| ZNC                  | * Prata               |
 +----------------------+-----------------------+
 
 Apoiadores
 ------------------
 
 +----------------------+-----------------------+
-| Async                | NDA                   |
+| EMAp/FGV             | NDA                   |
 +----------------------+-----------------------+
-| Paradigma            | NDA                   |
+| Novatec Editora      | NDA                   |
 +----------------------+-----------------------+
-| Simples Consultoria  | NDA                   |
+| O'Reilly Media       | NDA                   |
 +----------------------+-----------------------+
-| Softrent             | NDA                   |
+| Pearson              | NDA                   |
 +----------------------+-----------------------+
+| Maersk Oil           | NDA                   |
++----------------------+-----------------------+
+| Guidebook            | NDA                   |
++----------------------+-----------------------+
+| Casa do código       | NDA                   |
++----------------------+-----------------------+
+| Futura Soluções Ambientais| NDA              |
++----------------------+-----------------------+
+| Mozilla              | NDA                   |
++----------------------+-----------------------+
+| Pycursos             | NDA                   |
++----------------------+-----------------------+
+| APyB                 | NDA                   |
++----------------------+-----------------------+
+| CobraTeam            | NDA                   |
++----------------------+-----------------------+
+| PythOnRio            | NDA                   |
++----------------------+-----------------------+
+| Grupython UFLA       | NDA                   |
++----------------------+-----------------------+
+| GrUPy-DF             | NDA                   |
++----------------------+-----------------------+
+| Pyladies             | NDA                   |
++----------------------+-----------------------+
+
 
 Imagens
 ---------
@@ -85,3 +140,5 @@ Slideshare
 --------------
 
 http://pt.slideshare.net/pythonbrasil
+
+https://web.archive.org/web/20121204012708/http://2012.pythonbrasil.org.br/
