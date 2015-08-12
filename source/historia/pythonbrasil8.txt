@@ -58,6 +58,8 @@ Tivemos como Keynotes:
 - “import wx”: a Tale of Neverending GUI Power (Andrea Gavana)
 - Clojure - em busca da simplicidade (Pedro Teixeira)
 
+E tivemos como ganhadores do Prêmio Dorneles Trémea o Érico Andrei e Marcel Caraciolo
+
 Inscrições
 ----------------
 NDA
