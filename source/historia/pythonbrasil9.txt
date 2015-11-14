@@ -8,7 +8,7 @@ Nome oficial do evento: PythonBrasil[9] / Plone Conference 2013
 Organizadora: Tânia Andrea
 
 +-----------------------------+--------------------------+---------------------------------------------------------------------+
-| **O que?**                  | **Quando?**              | **Onde?**                                                           |
+| O que?                      | Quando?                  | Onde?                                                               |
 +=============================+==========================+=====================================================================+
 | **Treinamentos**            | 30/09 e 01/10/2013       | Escola de Administração Fazendária (ESAF) - Brasília/DF             |
 +-----------------------------+--------------------------+---------------------------------------------------------------------+
@@ -60,6 +60,7 @@ Resumo
 A Big Kahuna da PythonBrasil[9] / Plone Conference 2013 foi Tânia Andrea
 que organizou o evento voluntariamente com a ajuda dos membros da comunidade PloneGov-BR
 e apoio de outros membros da comunidade Python, sem qualquer fim lucrativo.
+
 
 **Foram 7 keynotes speakers convidados para o evento:**
 
@@ -174,7 +175,7 @@ Como não foi possível manter esse acordo, abrimos as inscrições com o valor 
 (R$ 25 para estudantes ou membros da APyB), depois aumentamos a cada slot (como é feito tradicionalmente).
 
 +-------------+-----------------------+---------------------------------------------------+
-| **Valor**   | **Data da Inscrição** | **Observação**                                    |
+| Valor       | Data da Inscrição     | Observação                                        |
 +=============+=======================+===================================================+
 | R$ 50,00    | até 09/08             | R$ 25,00 para estudantes ou associados da APyB    |
 +-------------+-----------------------+---------------------------------------------------+
@@ -293,6 +294,40 @@ Logo, tivemos lucro de: R$ 24.712 ou USD 10,427.01.
 
 Sendo que $ 5,000 USD foram para a Plone Foundation e
 $ 5,427.02 USD ficaram com a Associação Python Brasil.
+
+
+**Detalhamento:**
+
+**_Receitas_		R$ 215.460**
+	* Doações	R$ 6.470 
+	* Empenhos	R$ 20.113 
+	* Inscrições – Conferência	R$ 19.730 
+	* Inscrições – Treinamento	R$ 4.600 
+	* Patrocínios	R$ 164.546 
+		
+**_Despesas_		R$ 185.674**
+	* Alimentação	R$ 8.823 
+	* Filmagem	R$ 14.997 
+	* Foto	R$ 1.800 
+	* Geradores	R$ 10.008 
+	* Gráfica/Estrutura	R$ 19.691 
+	* Homenagens	R$ 1.238 
+	* Hospedagens	R$ 7.420 
+	* Infraestrutura – Conferência	R$ 55.130 
+	* Infraestrutura – Treinamento	R$ 164 
+	* Kit dos Participantes	R$ 10.702 
+	* Link Internet	R$ 19.785 
+	* Local – Conferência	R$ 16.140 
+	* Local – Festa	R$ 1.498 
+	* Marketing	R$ 850
+	* Seguro de Terceiros para Participantes	R$ 474 
+	* Limpeza	R$ 6.048 
+	* Segurança	R$ 849 
+	* Passagens	R$ 3.775 
+	* Outros Serviços (M.O.)	R$ 6.282 
+		
+_Taxas_		R$ 5.073 
+
 
 Palestrantes convidados e outros tantos foram hospedados sem custo.
 
