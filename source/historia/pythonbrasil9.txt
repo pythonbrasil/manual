@@ -10,17 +10,17 @@ Organizadora: Tânia Andrea
 +-----------------------------+--------------------------+---------------------------------------------------------------------+
 | **O que?**                  | **Quando?**              | **Onde?**                                                           |
 +=============================+==========================+=====================================================================+
-| **Treinamentos**            | * 30/09 e 01/10/2013     | * Escola de Administração Fazendária (ESAF) - Brasília/DF           |
+| **Treinamentos**            | 30/09 e 01/10/2013       | Escola de Administração Fazendária (ESAF) - Brasília/DF             |
 +-----------------------------+--------------------------+---------------------------------------------------------------------+
-| **Conferências**            | * 02 a 04/10/2013        | * Centro de Convenções Ulysses Guimarães (CCUG) - Brasília/DF       |
+| **Conferências**            | 02 a 04/10/2013          | Centro de Convenções Ulysses Guimarães (CCUG) - Brasília/DF         |
 +-----------------------------+--------------------------+---------------------------------------------------------------------+
-| **Festa**                   | * 03/10/2013             | * Clube Naval - Brasília/DF                                         |
+| **Festa**                   | 03/10/2013               | Clube Naval - Brasília/DF                                           |
 +-----------------------------+--------------------------+---------------------------------------------------------------------+
-| **Job Fair**                | * 04/10/2013             | * Centro de Convenções Ulysses Guimarães (CCUG) - Brasília/DF       |
+| **Job Fair**                | 04/10/2013               | Centro de Convenções Ulysses Guimarães (CCUG) - Brasília/DF         |
 +-----------------------------+--------------------------+---------------------------------------------------------------------+
-| **Sprint da Conferência**   | * 05 e 06/10/2013        | * Nova Central Sindical de Trabalhadores (NCST) - Brasília/DF       |
+| **Sprint da Conferência**   | 05 e 06/10/2013          | Nova Central Sindical de Trabalhadores (NCST) - Brasília/DF         |
 +-----------------------------+--------------------------+---------------------------------------------------------------------+
-| **Caipirinha Sprint         | * 08 a 11/10/2013        | * Hotel Xenius - João Pessoa/PB                                     |
+| **Caipirinha Sprint**   | 08 a 11/10/2013          | Hotel Xenius - João Pessoa/PB                                       |
 +-----------------------------+--------------------------+---------------------------------------------------------------------+
 
 
@@ -54,14 +54,14 @@ Números
 +--------------------------------+-----------------------+
 
 
-RESUMO
+Resumo
 ---------
 
 A Big Kahuna da PythonBrasil[9] / Plone Conference 2013 foi Tânia Andrea
 que organizou o evento voluntariamente com a ajuda dos membros da comunidade PloneGov-BR
 e apoio de outros membros da comunidade Python, sem qualquer fim lucrativo.
 
-**Foram 7 keynotes speakers convidados para o evento:
+**Foram 7 keynotes speakers convidados para o evento:**
 
     * Eric Steele (Plone 5)
 
@@ -78,7 +78,7 @@ e apoio de outros membros da comunidade Python, sem qualquer fim lucrativo.
     * Rodrigo Senra (Show Pyrotécnico)
 
 
-**Tivemos:
+**Tivemos:**
 
     * Open Spaces
     * Keynotes Speakers
@@ -99,7 +99,7 @@ e apoio de outros membros da comunidade Python, sem qualquer fim lucrativo.
 Rodada de Negócios foi cancelado por não ter a participação do Sebrae.
 
 
-**Alimentação:
+**Alimentação:**
 
 Por não ter locais próximos ao CCUG para almoço e para viabilizar a logística
 de palestras próximas ao horário de almoço, oferecemos almoço gratuitamente aos participantes
@@ -112,14 +112,14 @@ No hall de exposição, que fica na entrada do auditório Master do CCUG,
 houve venda de sushi e outros produtos de lanchonete.
 
 
-** Hall de exposição:
+**Hall de exposição:**
 
 Além da lanchonete e loja de sushi, tivemos no hall de exposição os stands dos patrocinadores,
 suporte da agência de turismo (Bancorbrás),
 venda de livros Novatec, souvenirs de Brasília e outros produtos artesanais.
 
 
-**Código de conduta:
+**Código de conduta:**
 
 Pela primeira vez instituímos o código de conduta como termo de conhecimento obrigatório de
 participantes, palestrantes e expositores da Python Brasil. Essa foi uma exigência da PSF
@@ -127,27 +127,27 @@ para conceder o patrocínio e tem prática semelhante sendo adotada por exposito
 Plone Foundation e pela organização da PyCon US.
 
 
-**Prêmios:
+**Prêmios:**
 
 Neste ano o Prêmio Dorneles Treméa foi para...
 
-* Fernando Masanori - Docente da FATEC São José dos Campos, adora dar aulas, graduado em
-Computação pelo IME-USP, mestrado pelo ITA. Desenvolveu projetos para a Cobra Tecnologia,
-Credicard Mastercard, PriceWaterhouse&Coopers e Itaú Bankboston. Interesses: Python,
-Data Warehouse, NoSQL, Pentaho, Google Technology, Facebook. Voluntário em projetos sociais
-voltados para a educação infantil nos finais de semana.
+* Fernando Masanori - Docente da FATEC São José dos Campos, adora dar aulas, graduado em 
+  Computação pelo IME-USP, mestrado pelo ITA. Desenvolveu projetos para a Cobra Tecnologia,
+  Credicard Mastercard, PriceWaterhouse&Coopers e Itaú Bankboston. Interesses: Python,
+  Data Warehouse, NoSQL, Pentaho, Google Technology, Facebook. Voluntário em projetos sociais
+  voltados para a educação infantil nos finais de semana.
 
-* Henrique Bastos - Apaixonado por desenvolvimento de software! Trabalha aplicando
-tecnologias livres como Python, Django e Métodos Ágeis promovendo economia para seus clientes
-e parceiros. É membro da Associação Python Brasil e da Python Software Foundation, além de
-atuar constantemente nas comunidades de software organizando eventos e encontros,
-ministrando palestras, cursos e evangelizando o desenvolvimento sustentável de software,
-no Brasil e no exterior.
+* Henrique Bastos - Apaixonado por desenvolvimento de software! 
+  Trabalha aplicando tecnologias livres como Python, Django e Métodos Ágeis promovendo economia para seus clientes
+  e parceiros. É membro da Associação Python Brasil e da Python Software Foundation, além de
+  atuar constantemente nas comunidades de software organizando eventos e encontros,
+  ministrando palestras, cursos e evangelizando o desenvolvimento sustentável de software,
+  no Brasil e no exterior.
 
 E o Plone Awards foi para...
 
-* Asko Soukka - Que não pode comparecer ao evento, mas recebeu $ 1500 USD como prêmio pelas importantes
-contribuições ao Plone.
+* Asko Soukka - Que não pode comparecer ao evento, mas recebeu $ 1500 USD como prêmio 
+  pelas importantes contribuições ao Plone.
 
 
 Plone Conference 2013
@@ -290,6 +290,7 @@ o PayPal e o PagSeguro pelos extratos fornecidos pela APyB. Em resumo:
 * Total de Taxas = R$ 5.073
 
 Logo, tivemos lucro de: R$ 24.712 ou USD 10,427.01.
+
 Sendo que $ 5,000 USD foram para a Plone Foundation e
 $ 5,427.02 USD ficaram com a Associação Python Brasil.
 
@@ -301,15 +302,16 @@ A Festa teve receita e despesa à parte paga com a compra de ingresso individual
 Apenas a reserva do local da festa (R$ 1.500,00) foi feito com o dinheiro da organização.
 
 
-Foto oficial
+Foto Oficial
 ---------
 
 .. image:: ../imagens/pybr9_fotooficial.jpg
 
+
 Outras fotos podem ser vistas no `Flickr da Python Brasil <http://www.flickr.com/photos/pythonbrasil/>`
 
 
-Agradecimentos especiais
+Agradecimentos Especiais
 ------------------------
 
 * Excelentíssimo Senhor Alexandre Motta (Subsecretário de Planejamento, Orçamento e Administração do Ministério da Fazenda) por disponibilizar o local dos treinamentos na ESAF.
@@ -343,7 +345,7 @@ Agradecimentos especiais
 * Amigos Giuseppe Romagnoli e Rafahela Bazzanella por dividir sem medir esforços os árduos desafios diários.
 
 
-Feedback dos participantes
+Feedback dos Participantes
 ------------------------
 
 "PythonBrasil! It was awesome, now I am just messing around here."
