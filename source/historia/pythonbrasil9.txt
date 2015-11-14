@@ -1,0 +1,431 @@
+PythonBrasil[9]
+=======================================
+
+Informações Gerais
+---------------------
+
+Nome oficial do evento: PythonBrasil[9] / Plone Conference 2013
+Organizadora: Tânia Andrea
+
++-----------------------------+--------------------------+---------------------------------------------------------------------+
+| **O que?**                  | **Quando?**              | **Onde?**                                                           |
++=============================+==========================+=====================================================================+
+| **Treinamentos**            | * 30/09 e 01/10/2013     | * Escola de Administração Fazendária (ESAF) - Brasília/DF           |
++-----------------------------+--------------------------+---------------------------------------------------------------------+
+| **Conferências**            | * 02 a 04/10/2013        | * Centro de Convenções Ulysses Guimarães (CCUG) - Brasília/DF       |
++-----------------------------+--------------------------+---------------------------------------------------------------------+
+| **Festa**                   | * 03/10/2013             | * Clube Naval - Brasília/DF                                         |
++-----------------------------+--------------------------+---------------------------------------------------------------------+
+| **Job Fair**                | * 04/10/2013             | * Centro de Convenções Ulysses Guimarães (CCUG) - Brasília/DF       |
++-----------------------------+--------------------------+---------------------------------------------------------------------+
+| **Sprint da Conferência**   | * 05 e 06/10/2013        | * Nova Central Sindical de Trabalhadores (NCST) - Brasília/DF       |
++-----------------------------+--------------------------+---------------------------------------------------------------------+
+| **Caipirinha Sprint         | * 08 a 11/10/2013        | * Hotel Xenius - João Pessoa/PB                                     |
++-----------------------------+--------------------------+---------------------------------------------------------------------+
+
+
+Números
+---------------------
+
++--------------------------------+-----------------------+
+| Inscritos no evento            | * 584                 |
++--------------------------------+-----------------------+
+| Palestras                      | * +144                |
++--------------------------------+-----------------------+
+| Palestrantes internacionais    | * +30                 |
++--------------------------------+-----------------------+
+| Keynotes                       | * 7                   |
++--------------------------------+-----------------------+
+| Treinamentos                   | * 16                  |
++--------------------------------+-----------------------+
+| Estados representados (Brasil) | * 21                  |
++ -------------------------------+-----------------------+
+| Países representados           | * 19                  |
++--------------------------------+-----------------------+
+| Continentes representados      | * Todos               |
++--------------------------------+-----------------------+
+| Mulheres no evento             | * ~10%                |
++--------------------------------+-----------------------+
+| Inscritos no treinamento       | * ~150                |
++--------------------------------+-----------------------+
+| Patrocinadores                 | * 15                  |
++--------------------------------+-----------------------+
+| Apoiadores                     | * 18                  |
++--------------------------------+-----------------------+
+
+
+RESUMO
+---------
+
+A Big Kahuna da PythonBrasil[9] / Plone Conference 2013 foi Tânia Andrea
+que organizou o evento voluntariamente com a ajuda dos membros da comunidade PloneGov-BR
+e apoio de outros membros da comunidade Python, sem qualquer fim lucrativo.
+
+**Foram 7 keynotes speakers convidados para o evento:
+
+    * Eric Steele (Plone 5)
+
+    * Fábio Costa (linguagem convidada, JavaScript)
+
+    * Karin Breitman (Big Data)
+
+    * Paul Everitt (Pyramid)
+
+    * Paul Hildebrandt (Walt Disney)
+
+    * Paul Roeland (State of Plone)
+
+    * Rodrigo Senra (Show Pyrotécnico)
+
+
+**Tivemos:
+
+    * Open Spaces
+    * Keynotes Speakers
+    * Palestra da linguagem convidada (JavaScript)
+    * Palestras Relâmpago
+    * Job Fair (novidade)
+    * Prêmios (Prêmio Dorneles Treméa e Plone Awards)
+    * Foto Oficial
+    * Filmagem (todas no `YouTube da Python Brasil <https://www.youtube.com/user/pythonbrazil>`
+    * Tradução simultânea
+    * Agência Oficial (Bancorbrás)
+    * A Festa
+    * Sprint da conferência
+    * Sprint pós-conferência na praia (novidade)
+    * Hall de exposição (6 m2)
+    * Kit do participante com camiseta, ecobag, caneta, cordão da Mozilla, crédito de $ 35 USD no Amazon AWS, dentre outros
+
+Rodada de Negócios foi cancelado por não ter a participação do Sebrae.
+
+
+**Alimentação:
+
+Por não ter locais próximos ao CCUG para almoço e para viabilizar a logística
+de palestras próximas ao horário de almoço, oferecemos almoço gratuitamente aos participantes
+e funcionários.
+
+Na área do Open Space havia uma copeira para preparação do café expresso.
+Foram servidos XXX cafés \o/
+
+No hall de exposição, que fica na entrada do auditório Master do CCUG,
+houve venda de sushi e outros produtos de lanchonete.
+
+
+** Hall de exposição:
+
+Além da lanchonete e loja de sushi, tivemos no hall de exposição os stands dos patrocinadores,
+suporte da agência de turismo (Bancorbrás),
+venda de livros Novatec, souvenirs de Brasília e outros produtos artesanais.
+
+
+**Código de conduta:
+
+Pela primeira vez instituímos o código de conduta como termo de conhecimento obrigatório de
+participantes, palestrantes e expositores da Python Brasil. Essa foi uma exigência da PSF
+para conceder o patrocínio e tem prática semelhante sendo adotada por expositores do FISL,
+Plone Foundation e pela organização da PyCon US.
+
+
+**Prêmios:
+
+Neste ano o Prêmio Dorneles Treméa foi para...
+
+* Fernando Masanori - Docente da FATEC São José dos Campos, adora dar aulas, graduado em
+Computação pelo IME-USP, mestrado pelo ITA. Desenvolveu projetos para a Cobra Tecnologia,
+Credicard Mastercard, PriceWaterhouse&Coopers e Itaú Bankboston. Interesses: Python,
+Data Warehouse, NoSQL, Pentaho, Google Technology, Facebook. Voluntário em projetos sociais
+voltados para a educação infantil nos finais de semana.
+
+* Henrique Bastos - Apaixonado por desenvolvimento de software! Trabalha aplicando
+tecnologias livres como Python, Django e Métodos Ágeis promovendo economia para seus clientes
+e parceiros. É membro da Associação Python Brasil e da Python Software Foundation, além de
+atuar constantemente nas comunidades de software organizando eventos e encontros,
+ministrando palestras, cursos e evangelizando o desenvolvimento sustentável de software,
+no Brasil e no exterior.
+
+E o Plone Awards foi para...
+
+* Asko Soukka - Que não pode comparecer ao evento, mas recebeu $ 1500 USD como prêmio pelas importantes
+contribuições ao Plone.
+
+
+Plone Conference 2013
+--------------------------------
+
+Em conjunto com a PythonBrasil[9] foi realizada a décima primeira edição da Plone
+Conference, pela primeira vez na América Latina.
+
+As edições anteriores foram em Arnhem (2012), São Francisco (2011), Bristol (2010),
+Budapeste (2009), Washington DC (2008), Nápoles (2007), Seattle (2006), Viena (2005),
+Viena (2004) e Nova Orleans (2003).
+
+Inicialmente a comunidade PloneGov-BR fez uma proposta para sediar somente a PloneConf no Brasil,
+depois a organização decidiu pela união dos eventos objetivando a redução de custos.
+Por serem duas conferências internacionais e sem fins lucrativos, conseguimos o apoio do GDF.
+
+
+Inscrições
+----------------
+
+Inicialmente a inscrição seria gratuita, porque o Secretário de Turismo do Distrito Federal
+ofereceria desconto de 100% no aluguel de algumas salas e auditório master do CCUG.
+Como não foi possível manter esse acordo, abrimos as inscrições com o valor simbólico de R$ 50
+(R$ 25 para estudantes ou membros da APyB), depois aumentamos a cada slot (como é feito tradicionalmente).
+
++-------------+-----------------------+---------------------------------------------------+
+| **Valor**   | **Data da Inscrição** | **Observação**                                    |
++=============+=======================+===================================================+
+| R$ 50,00    | até 09/08             | R$ 25,00 para estudantes ou associados da APyB    |
++-------------+-----------------------+---------------------------------------------------+
+| R$ 100,00   | de 10/08 a 02/09      | R$ 50,00 para estudantes ou associados da APyB    |
++-------------+-----------------------+---------------------------------------------------+
+| R$ 150,00   | de 03/09 a 17/09      | R$ 75,00 para estudantes ou associados da APyB    |
++-------------+-----------------------+---------------------------------------------------+
+| R$ 300,00   | de 18/9 a 01/10       | R$ 150,00 para estudantes ou associados da APyB   |
++-------------+-----------------------+---------------------------------------------------+
+| R$ 400,00   | no dia do evento      | R$ 200,00 para estudantes ou associados da APyB   |
++-------------+-----------------------+---------------------------------------------------+
+
+Obs: Organizações de governo pagam R$ 400,00 porque o empenho só e efetuado no final do evento
+e tem impostos envolvidos, além de custos adicionais pela emissão de Nota Fiscal
+e trabalho com comprovações para seus participantes.
+
+
+Patrocinadores
+------------------
+
++----------------------------------+-----------------------+
+| Serpro                           | * Diamante            |
++----------------------------------+-----------------------+
+| NIC.br / CGI.br                  | * Diamante            |
++----------------------------------+-----------------------+
+| Liberiun                         | * Platina             |
++----------------------------------+-----------------------+
+| Simples Consultoria              | * Platina             |
++----------------------------------+-----------------------+
+| Globo.com                        | * Ouro                |
++----------------------------------+-----------------------+
+| Four Digits                      | * Ouro                |
++----------------------------------+-----------------------+
+| Titans Group                     | * Ouro                |
++----------------------------------+-----------------------+
+| Python Software Foundation (PSF) | * Ouro                |
++----------------------------------+-----------------------+
+| Interlegis                       | * Ouro                |
++----------------------------------+-----------------------+
+| Evolux                           | * Bronze              |
++----------------------------------+-----------------------+
+| Amazon                           | * Bronze              |
++----------------------------------+-----------------------+
+| CMS COM -- do Japão \o/          | * Bronze              |
++----------------------------------+-----------------------+
+| PyCursos                         | * Bronze              |
++----------------------------------+-----------------------+
+| ZNC Sistemas                     | * Bronze              |
++----------------------------------+-----------------------+
+| Agência Click Isobar             | * Bronze              |
++----------------------------------+-----------------------+
+
+.. image:: ../imagens/pybr9_patrocinadores.jpg
+
+
+Apoiadores
+------------------
+
++----------------------------------+----------------------------------------+
+| GDF                              | * Desconto no espaço das conferências  |
++----------------------------------+----------------------------------------+
+| Câmara dos Deputados             | * Apoio com organização                |
++----------------------------------+----------------------------------------+
+| ESAF                             | * Espaço dos treinamentos              |
++----------------------------------+----------------------------------------+
+| Novatec                          | * Doação de livros                     |
++----------------------------------+----------------------------------------+
+| PyTown                           | * Hospegam do site                     |
++----------------------------------+----------------------------------------+
+| ASL.org                          | * Apoio de Mídia                       |
++----------------------------------+----------------------------------------+
+| Disney Animation Studios         | * Keynote internacional                |
++----------------------------------+----------------------------------------+
+| DZA eventos                      | * Auxílio com organização              |
++----------------------------------+----------------------------------------+
+| Assessoria Internacional / GDF   | * Tradutores                           |
++----------------------------------+----------------------------------------+
+| Mozilla                          | * Cordões e outros brindes             |
++----------------------------------+----------------------------------------+
+| LightBase                        | * Camisetas                            |
++----------------------------------+----------------------------------------+
+| PloneGov-BR                      | * Organização                          |
++----------------------------------+----------------------------------------+
+| Associação PythonBrasil (APyB)   | * Temário                              |
++----------------------------------+----------------------------------------+
+| Plone Foundation                 | * USD 2500 para stand no FISL          |
++----------------------------------+----------------------------------------+
+| Bancorbrás                       | * Apoio Turístico                      |
++----------------------------------+----------------------------------------+
+| Revista Espírito Livre           | * Apoio de Mídia                       |
++----------------------------------+----------------------------------------+
+| Linux New Media                  | * Apoio de Mídia                       |
++----------------------------------+----------------------------------------+
+| Dicas-L                          | * Apoio de Mídia                       |
++----------------------------------+----------------------------------------+
+| DigNow                           | * Apoio de Mídia                       |
++----------------------------------+----------------------------------------+
+
+
+Receitas e Despesas
+---------------------
+
+Para a edição de 2013 não havia caixa na APyB. Contamos com o empréstimo de amigos
+para as primeiras divulgações e outras ações emergenciais, até conseguir os primeiros
+patrocínios.
+
+A gestão das receitas e despesas foram feitas pela Big Kahuna Tânia Andrea
+com um fluxo de caixa (planilha) e frequentemente consultando o Banco do Brasil,
+o PayPal e o PagSeguro pelos extratos fornecidos pela APyB. Em resumo:
+
+* Total de Receitas = R$ 215.460
+* Total de Despesas = R$ 185.674
+* Total de Taxas = R$ 5.073
+
+Logo, tivemos lucro de: R$ 24.712 ou USD 10,427.01.
+Sendo que $ 5,000 USD foram para a Plone Foundation e
+$ 5,427.02 USD ficaram com a Associação Python Brasil.
+
+Palestrantes convidados e outros tantos foram hospedados sem custo.
+
+O almoço, café e água nos três dias de conferência foram pagos pela organização.
+
+A Festa teve receita e despesa à parte paga com a compra de ingresso individual.
+Apenas a reserva do local da festa (R$ 1.500,00) foi feito com o dinheiro da organização.
+
+
+Foto oficial
+---------
+
+.. image:: ../imagens/pybr9_fotooficial.jpg
+
+Outras fotos podem ser vistas no `Flickr da Python Brasil <http://www.flickr.com/photos/pythonbrasil/>`
+
+
+Agradecimentos especiais
+------------------------
+
+* Excelentíssimo Senhor Alexandre Motta (Subsecretário de Planejamento, Orçamento e Administração do Ministério da Fazenda) por disponibilizar o local dos treinamentos na ESAF.
+
+* Embaixatriz Ana Amorim (Serpro) sem ela muitas portas não seriam abertas .
+
+* Excelentíssimo Embaixador Benedicto Fonseca (Ministério das Relações Exteriores) por dar suporte a vinda dos palestrantes e participantes internacionais ao evento.
+
+* Excelentíssimo Senhor Luís Otávio (Secretário de Turismo do Distrito Federal) pelo necessário suporte em fornecer o local do evento no coração de Brasília.*
+
+* Excelentíssimo Senhor Marcos Mazoni (presidente do Serpro) pelo apoio dado aos eventos software livre e pelo patrocínio.
+
+* Excelentíssimo Senhor Odilon Frazão (Chefe da Assessoria Internacional do Distrito Federal) pelo apoio com a tradução simultânea do evento.
+
+* Fábio Surrage (Câmara dos Deputados) pelas manutenções no sistema de inscrições das conferências.
+
+* Fernanda Guedes Diogo pelo projeto de layout do evento no Centro de Convenções Ulysses Guimarães.
+
+* Gouveia (Interlegis) por todos os voluntários que ajudaram no credenciamento e outros itens emergentes da coferência.
+
+* Hector Velarde, Cléber Santos e Thiago Tamošauskas (Simples Consultoria) pela disponibilização do site Plone Awards com seu sistema de votação.
+
+* Liberiun pelo design da proposta, dos folders e de todos materiais impressos.
+
+* Márcio Mazza e Érico Andrei pela implantação e manutenções no sistema de inscrições.
+
+* Rudá Moura (APyB) pela primeira hospedagem e manutenção da infraestrutura do site do evento.
+
+* André Nogueira (Simples Consultoria) pelo design do site.
+
+* Amigos Giuseppe Romagnoli e Rafahela Bazzanella por dividir sem medir esforços os árduos desafios diários.
+
+
+Feedback dos participantes
+------------------------
+
+"PythonBrasil! It was awesome, now I am just messing around here."
+(Paul Hildebrandt, no Twitter @paulhildebrandt) em 6 de outubro de 2013
+
+"Obrigado por ter ajudado a proporcionar esse evento excelente!"
+(Fábio Miranda Costa, por e-mail) em 7 de outubro de 2013
+
+"A PythonBrasil [9] foi sensacional. Muito grato a todos que fizeram acontecer: público, palestrantes e organizadores."
+(Luciano Ramalho, no Facebook) em 11 de outubro de 2013
+
+"#ploneconf #pythonbrasil sprint 2013-10-05: excellent location, thank you organizers and #ncst pic.twitter.com/VbL021sZ7O"
+(Luciano Ramalho, no Twitter @ramalhoorg) em 6 de outubro de 2013
+
+"Plone Conferences are great. Those who missed 2013 don't need to be reminded of that. But you might like to hear more about the post-conference sprint, which felt different than any I remember."
+(Steve MacMahon) em 13 de outubro de 2013
+Fonte: http://www.stevemcmahon.com/steves-blog/ploneconf-2013-the-sprint
+
+“Training and talks, meeting old friends, Plone getting a new burst of momentum.”
+(Paul Everitt) em 8 de outubro de 2013
+Fonte: https://agendaless.com/blog/plpycon-brasilia/
+
+"Open Source — It works [...] I'm going to write a longer post about the fantastic Plone Conference 2013"
+(Matt Hamilton) em 10 de outubro de 2013
+Fonte: http://www.netsight.co.uk/blog/open-source-2014-it-works?utm_source=twitterfeed&utm_medium=twitter
+
+"Parabéns pela organização do evento!"
+(Mário Sérgio Oliveira de Queiroz, por e-mail) em 7 de outubro de 2013
+
+"On my way to Brazil. Because I'm a programmer. Of free software."
+(Eric Steele, no Twitter @esteele) em 29 de setembro de 2013
+
+"Parabéns pela organização do PythonBrasil9/PloneConf 2013!!! O evento estava muito bom! Fluiu tudo muito bem!"
+(Elizabeth de C. Wanderley Ramos, do Tribunal Superior Eleitoral, por e-mail) em 9 de outubro de 2013
+
+"Muito obrigado. A conferência foi ótima!!!"
+(Igor Tadeu S. V. Stemler, do Departamento de Pesquisas Judiciárias - CNJ, por e-mail) em 9 de outubro de 2013
+
+"Parabéns por organizar a #pythonbrasil em conjunto com a Ploneconf, foi tudo muito legal! [...] Foi um casamento bonito, foi um evento pra lembrar em outras oportunidades."
+(Rudá Moura, no Twitter @__ruda__) em 9 de outubro de 2013
+
+"A @pythonbrasil foi sensacional. Parabéns. #pythonbrasil"
+(Denis Costa, no Twitter @deniscostadsc) em 5 de outubro de 2013
+
+"Me dei de presente de aniversário a oportunidade de participar da @PythonBrasil! \o/ #python #pythonbrasil"
+(Fernando Macedo, no Twitter @fgmacedo) em 2 de outubro de 2013
+
+"O evento foi show!!! pic.twitter.com/Wbw8rGCr8Z"
+(Bruno Barbosa, no Twitter @brunobbbs) em 4 de outubro de 2013
+
+"O melhor da @pythonbrasil são as pessoas. Se não fosse essa comunidade fenomenal eu não teria entrado no ecossistema."
+(Vinicius Assef, no Twitter @viniciusban) em 2 de outubro de 2013
+
+"Uma das coisas mais legais dessa @pythonbrasil é a diversidade de comunidade. Minas Gerias, Pernambuco, Piaui, Rio de Janeiro, São Paulo, etc"
+(Cassio Botaro, no Twitter @cassiobotaro) em 3 de outubro de 2013
+
+"Rodrigo Senra recordando toda a história da @pythonbrasil, no Show Pyrotécnico."
+(Renato Lipi, no Twitter @renatolipi) em 4 de outubro de 2013
+
+"So long and thanks for all the meat. #ploneconf #pythonbrasil . See you again in Bristol and Recife pic.twitter.com/HT9gYBwahF"
+(Érico Andrei, no Twitter @ericof) em 5 de outubro de 2013
+
+"Back in .nl after a great #ploneconf. Such a nice community! See you all next year, in Sorrento and Bristol and who knows where..."
+(Guido Stevens, no Twitter <200f>@GuidoStevens) em 7 de outubro de 2013
+
+"#ploneconf is over == sad. Caipirinha-sprint about to start == consoling. Thanks for a great conference!"
+(Philip Bauer, no Twitter @StarzelDe) em 6 de outubro de 2013
+
+"@ploneconf sprint was awsome, hope to more of those."
+(Winston, no Twitter <200f>@winstonf88) em 6 de outubro de 2013
+
+"Brazil Plone & Python community, Obrigado! #ploneconf was excelente!"
+(Steve McMahon, no Twitter @shmcmahon) em 6 de outubro de 2013
+
+"@ploneconf thanks for all your hard work hosting us! It was a fantastic conference."
+(David Glick, no Twitter @davisagli) em 6 de outubro de 2013
+
+"The sad sign that this is the last day of the #ploneconf sprint. pic.twitter.com/bVjcKdJc5G"
+(Steve McMahon <200f>@shmcmahon) em 6 de outubro de 2013
+
+"It's the end of @PloneConf 2013 and @PythonBrasil 9, was amazing time! See you… pic.twitter.com/1WcJeqzTUF"
+(Jean Ferri, no Twitter <200f>@JeanFerri) em 4 de outubro de 2013
+
+"Números o cifras resultantes del @pythonbrasil y del @ploneconf 2013 #pythonbrasil #ploneconf pic.twitter.com/vbEbzAu0Rv"
+(Plone Venezuela, no Twitter <200f>@PloneVe) em 4 de outubro de 2013
