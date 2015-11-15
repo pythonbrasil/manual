@@ -355,8 +355,8 @@ $ 5,427.02 USD ficaram com a Associação Python Brasil.
 +--------------------------------+-------------------+
 	
 +--------------------------------+-------------------+
-| Taxas                          | R$ 5.073          |
-+================================+===================+
+| **Taxas**                      | **R$ 5.073**      |
++--------------------------------+-------------------+
 
 Palestrantes convidados e outros tantos foram hospedados sem custo 
 no hotel e nos quartos da ESAF.
