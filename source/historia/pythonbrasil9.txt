@@ -7,21 +7,21 @@ Informações Gerais
 Nome oficial do evento: PythonBrasil[9] / Plone Conference 2013
 Organizadora: Tânia Andrea
 
-+-----------------------------+--------------------------+---------------------------------------------------------------------+
-| O que?                      | Quando?                  | Onde?                                                               |
-+=============================+==========================+=====================================================================+
-| **Treinamentos**            | 30/09 e 01/10/2013       | Escola de Administração Fazendária (ESAF) - Brasília/DF             |
-+-----------------------------+--------------------------+---------------------------------------------------------------------+
-| **Conferências**            | 02 a 04/10/2013          | Centro de Convenções Ulysses Guimarães (CCUG) - Brasília/DF         |
-+-----------------------------+--------------------------+---------------------------------------------------------------------+
-| **Festa**                   | 03/10/2013               | Clube Naval - Brasília/DF                                           |
-+-----------------------------+--------------------------+---------------------------------------------------------------------+
-| **Job Fair**                | 04/10/2013               | Centro de Convenções Ulysses Guimarães (CCUG) - Brasília/DF         |
-+-----------------------------+--------------------------+---------------------------------------------------------------------+
-| **Sprint da Conferência**   | 05 e 06/10/2013          | Nova Central Sindical de Trabalhadores (NCST) - Brasília/DF         |
-+-----------------------------+--------------------------+---------------------------------------------------------------------+
-| **Caipirinha Sprint**       | 08 a 11/10/2013          | Hotel Xenius - João Pessoa/PB                                       |
-+-----------------------------+--------------------------+---------------------------------------------------------------------+
++-----------------------------+------------------------+---------------------------------------------------------------------+
+| O que?                      | Quando?                | Onde?                                                               |
++=============================+========================+=====================================================================+
+| **Treinamentos**            | 30/09 e 01/10/2013     | Escola de Administração Fazendária (ESAF) - Brasília/DF             |
++-----------------------------+------------------------+---------------------------------------------------------------------+
+| **Conferências**            | 02 a 04/10/2013        | Centro de Convenções Ulysses Guimarães (CCUG) - Brasília/DF         |
++-----------------------------+------------------------+---------------------------------------------------------------------+
+| **Festa**                   | 03/10/2013             | Clube Naval - Brasília/DF                                           |
++-----------------------------+------------------------+---------------------------------------------------------------------+
+| **Job Fair**                | 04/10/2013             | Centro de Convenções Ulysses Guimarães (CCUG) - Brasília/DF         |
++-----------------------------+------------------------+---------------------------------------------------------------------+
+| **Sprint da Conferência**   | 05 e 06/10/2013        | Nova Central Sindical de Trabalhadores (NCST) - Brasília/DF         |
++-----------------------------+------------------------+---------------------------------------------------------------------+
+| **Caipirinha Sprint**       | 08 a 11/10/2013        | Hotel Xenius - João Pessoa/PB                                       |
++-----------------------------+------------------------+---------------------------------------------------------------------+
 
 
 Números
@@ -62,7 +62,9 @@ que organizou o evento voluntariamente com a ajuda dos membros da comunidade Plo
 e apoio de outros membros da comunidade Python, sem qualquer fim lucrativo.
 
 
-**Foram 7 keynotes speakers convidados para o evento:**
+**Keynotes speakers:**
+
+Contamos com 7 keynotes speakers convidados para o evento:
 
     * Eric Steele (Plone 5)
 
@@ -88,7 +90,7 @@ e apoio de outros membros da comunidade Python, sem qualquer fim lucrativo.
     * Job Fair (novidade)
     * Prêmios (Prêmio Dorneles Treméa e Plone Awards)
     * Foto Oficial
-    * Filmagem (todas no `YouTube da Python Brasil <https://www.youtube.com/user/pythonbrazil>`
+    * Filmagem (todas no YouTube da Python Brasil: https://www.youtube.com/user/pythonbrazil)
     * Tradução simultânea
     * Agência Oficial (Bancorbrás)
     * A Festa
@@ -132,13 +134,13 @@ Plone Foundation e pela organização da PyCon US.
 
 Neste ano o Prêmio Dorneles Treméa foi para...
 
-* **__Fernando Masanori__** - Docente da FATEC São José dos Campos, adora dar aulas, graduado em 
+* **`Fernando Masanori`** - Docente da FATEC São José dos Campos, adora dar aulas, graduado em 
   Computação pelo IME-USP, mestrado pelo ITA. Desenvolveu projetos para a Cobra Tecnologia,
   Credicard Mastercard, PriceWaterhouse&Coopers e Itaú Bankboston. Interesses: Python,
   Data Warehouse, NoSQL, Pentaho, Google Technology, Facebook. Voluntário em projetos sociais
   voltados para a educação infantil nos finais de semana.
 
-* **__Henrique Bastos__** - Apaixonado por desenvolvimento de software! 
+* **`Henrique Bastos`** - Apaixonado por desenvolvimento de software! 
   Trabalha aplicando tecnologias livres como Python, Django e Métodos Ágeis promovendo economia para seus clientes
   e parceiros. É membro da Associação Python Brasil e da Python Software Foundation, além de
   atuar constantemente nas comunidades de software organizando eventos e encontros,
@@ -147,7 +149,7 @@ Neste ano o Prêmio Dorneles Treméa foi para...
 
 E o Plone Awards foi para...
 
-* **__Asko Soukka__** - Que não pode comparecer ao evento, mas recebeu $ 1500 USD como prêmio 
+* **`Asko Soukka`** - Que não pode comparecer ao evento, mas recebeu $ 1500 USD como prêmio 
   pelas importantes contribuições ao Plone.
 
 
@@ -177,18 +179,18 @@ Como não foi possível manter esse acordo, abrimos as inscrições com o valor 
 +-------------+-----------------------+---------------------------------------------------+
 | Valor       | Data da Inscrição     | Observação                                        |
 +=============+=======================+===================================================+
-| R$ 50,00    | até 09/08             | R$ 25,00 para estudantes ou associados da APyB    |
+| R$ 50       | até 09/08             | R$ 25 para estudantes ou associados da APyB       |
 +-------------+-----------------------+---------------------------------------------------+
-| R$ 100,00   | de 10/08 a 02/09      | R$ 50,00 para estudantes ou associados da APyB    |
+| R$ 100      | de 10/08 a 02/09      | R$ 50 para estudantes ou associados da APyB       |
 +-------------+-----------------------+---------------------------------------------------+
-| R$ 150,00   | de 03/09 a 17/09      | R$ 75,00 para estudantes ou associados da APyB    |
+| R$ 150      | de 03/09 a 17/09      | R$ 75 para estudantes ou associados da APyB       |
 +-------------+-----------------------+---------------------------------------------------+
-| R$ 300,00   | de 18/9 a 01/10       | R$ 150,00 para estudantes ou associados da APyB   |
+| R$ 300      | de 18/9 a 01/10       | R$ 150 para estudantes ou associados da APyB      |
 +-------------+-----------------------+---------------------------------------------------+
-| R$ 400,00   | no dia do evento      | R$ 200,00 para estudantes ou associados da APyB   |
+| R$ 400      | no dia do evento      | R$ 200 para estudantes ou associados da APyB      |
 +-------------+-----------------------+---------------------------------------------------+
 
-Obs: Organizações de governo pagam R$ 400,00 porque o empenho só e efetuado no final do evento
+Obs: Organizações de governo pagam R$ 400 porque o empenho só e efetuado no final do evento
 e tem impostos envolvidos, além de custos adicionais pela emissão de Nota Fiscal
 e trabalho com comprovações para seus participantes.
 
@@ -293,7 +295,7 @@ o PayPal e o PagSeguro pelos extratos fornecidos pela APyB. Em resumo:
 Logo, tivemos lucro de: R$ 24.712 ou USD 10,427.01.
 
 Sendo que $ 5,000 USD foram para a Plone Foundation e
-$ 5,427.02 USD ficaram com a Associação Python Brasil.
+$ 5,427 USD ficaram com a Associação Python Brasil.
 
 
 **Detalhamento:**
@@ -364,16 +366,17 @@ no hotel e nos quartos da ESAF.
 O almoço, café e água nos três dias de conferência foram pagos pela organização.
 
 A Festa teve receita e despesa à parte paga com a compra de ingresso individual.
-Apenas a reserva do local da festa (R$ 1.500,00) foi feito com o dinheiro da organização.
+Apenas a reserva do local da festa (R$ 1.500) foi feito com o dinheiro da organização.
 
 
 Foto Oficial
 ---------
 
+Todas fotos podem ser vistas no Flickr 
+da Python Brasil: http://www.flickr.com/photos/pythonbrasil/
+
 .. image:: ../imagens/pybr9_fotooficial.jpg
 
-
-Outras fotos podem ser vistas no `Flickr da Python Brasil <http://www.flickr.com/photos/pythonbrasil/>`
 
 
 Agradecimentos Especiais
@@ -381,11 +384,11 @@ Agradecimentos Especiais
 
 * Excelentíssimo Senhor Alexandre Motta (Subsecretário de Planejamento, Orçamento e Administração do Ministério da Fazenda) por disponibilizar o local dos treinamentos na ESAF.
 
-* Embaixatriz Ana Amorim (Serpro) sem ela muitas portas não seriam abertas .
+* Embaixatriz Ana Amorim (Serpro) sem ela muitas portas não seriam abertas.
 
 * Excelentíssimo Embaixador Benedicto Fonseca (Ministério das Relações Exteriores) por dar suporte a vinda dos palestrantes e participantes internacionais ao evento.
 
-* Excelentíssimo Senhor Luís Otávio (Secretário de Turismo do Distrito Federal) pelo necessário suporte em fornecer o local do evento no coração de Brasília.*
+* Excelentíssimo Senhor Luís Otávio (Secretário de Turismo do Distrito Federal) pelo necessário suporte em fornecer o local do evento no coração de Brasília.
 
 * Excelentíssimo Senhor Marcos Mazoni (presidente do Serpro) pelo apoio dado aos eventos software livre e pelo patrocínio.
 
@@ -426,12 +429,10 @@ Feedback dos Participantes
 (Luciano Ramalho, no Twitter @ramalhoorg) em 6 de outubro de 2013
 
 "Plone Conferences are great. Those who missed 2013 don't need to be reminded of that. But you might like to hear more about the post-conference sprint, which felt different than any I remember."
-(Steve MacMahon) em 13 de outubro de 2013
-Fonte: http://www.stevemcmahon.com/steves-blog/ploneconf-2013-the-sprint
+(Steve MacMahon) em 13 de outubro de 2013. Fonte: http://www.stevemcmahon.com/steves-blog/ploneconf-2013-the-sprint
 
 “Training and talks, meeting old friends, Plone getting a new burst of momentum.”
-(Paul Everitt) em 8 de outubro de 2013
-Fonte: https://agendaless.com/blog/plpycon-brasilia/
+(Paul Everitt) em 8 de outubro de 2013. Fonte: https://agendaless.com/blog/plpycon-brasilia/
 
 "Open Source — It works [...] I'm going to write a longer post about the fantastic Plone Conference 2013"
 (Matt Hamilton) em 10 de outubro de 2013
