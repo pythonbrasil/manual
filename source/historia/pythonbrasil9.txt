@@ -10,17 +10,17 @@ Organizadora: Tânia Andrea
 +-----------------------------+------------------------+---------------------------------------------------------------------+
 | O que?                      | Quando?                | Onde?                                                               |
 +=============================+========================+=====================================================================+
-| **Treinamentos**            | 30/09 e 01/10/2013     | Escola de Administração Fazendária (ESAF) - Brasília/DF             |
+| **Treinamentos**            | 30/9 e 1/10/2013       | Escola de Administração Fazendária (ESAF) - Brasília/DF             |
 +-----------------------------+------------------------+---------------------------------------------------------------------+
-| **Conferências**            | 02 a 04/10/2013        | Centro de Convenções Ulysses Guimarães (CCUG) - Brasília/DF         |
+| **Conferências**            | 2 a 4/10/2013          | Centro de Convenções Ulysses Guimarães (CCUG) - Brasília/DF         |
 +-----------------------------+------------------------+---------------------------------------------------------------------+
-| **Festa**                   | 03/10/2013             | Clube Naval - Brasília/DF                                           |
+| **Festa**                   | 3/10/2013              | Clube Naval - Brasília/DF                                           |
 +-----------------------------+------------------------+---------------------------------------------------------------------+
-| **Job Fair**                | 04/10/2013             | Centro de Convenções Ulysses Guimarães (CCUG) - Brasília/DF         |
+| **Job Fair**                | 4/10/2013              | Centro de Convenções Ulysses Guimarães (CCUG) - Brasília/DF         |
 +-----------------------------+------------------------+---------------------------------------------------------------------+
-| **Sprint da Conferência**   | 05 e 06/10/2013        | Nova Central Sindical de Trabalhadores (NCST) - Brasília/DF         |
+| **Sprint da Conferência**   | 5 e 6/10/2013          | Nova Central Sindical de Trabalhadores (NCST) - Brasília/DF         |
 +-----------------------------+------------------------+---------------------------------------------------------------------+
-| **Caipirinha Sprint**       | 08 a 11/10/2013        | Hotel Xenius - João Pessoa/PB                                       |
+| **Caipirinha Sprint**       | 8 a 11/10/2013         | Hotel Xenius - João Pessoa/PB                                       |
 +-----------------------------+------------------------+---------------------------------------------------------------------+
 
 
@@ -105,7 +105,7 @@ Rodada de Negócios foi cancelado por não ter a participação do Sebrae.
 **Alimentação:**
 
 Por não ter locais próximos ao CCUG para almoço e para viabilizar a logística
-de palestras próximas ao horário de almoço, oferecemos almoço gratuitamente aos participantes
+de palestras próximas dest horário, oferecemos almoço gratuitamente aos participantes
 e funcionários.
 
 Na área do Open Space havia uma copeira para preparação do café expresso.
@@ -134,13 +134,13 @@ Plone Foundation e pela organização da PyCon US.
 
 Neste ano o Prêmio Dorneles Treméa foi para...
 
-* **`Fernando Masanori`** - Docente da FATEC São José dos Campos, adora dar aulas, graduado em 
+* **Fernando Masanori** - Docente da FATEC São José dos Campos, adora dar aulas, graduado em 
   Computação pelo IME-USP, mestrado pelo ITA. Desenvolveu projetos para a Cobra Tecnologia,
   Credicard Mastercard, PriceWaterhouse&Coopers e Itaú Bankboston. Interesses: Python,
   Data Warehouse, NoSQL, Pentaho, Google Technology, Facebook. Voluntário em projetos sociais
   voltados para a educação infantil nos finais de semana.
 
-* **`Henrique Bastos`** - Apaixonado por desenvolvimento de software! 
+* **Henrique Bastos** - Apaixonado por desenvolvimento de software! 
   Trabalha aplicando tecnologias livres como Python, Django e Métodos Ágeis promovendo economia para seus clientes
   e parceiros. É membro da Associação Python Brasil e da Python Software Foundation, além de
   atuar constantemente nas comunidades de software organizando eventos e encontros,
@@ -149,7 +149,7 @@ Neste ano o Prêmio Dorneles Treméa foi para...
 
 E o Plone Awards foi para...
 
-* **`Asko Soukka`** - Que não pode comparecer ao evento, mas recebeu $ 1500 USD como prêmio 
+* **Asko Soukka** - Que não pode comparecer ao evento, mas recebeu $ 1,500 USD como prêmio 
   pelas importantes contribuições ao Plone.
 
 
@@ -179,20 +179,18 @@ Como não foi possível manter esse acordo, abrimos as inscrições com o valor 
 +-------------+-----------------------+---------------------------------------------------+
 | Valor       | Data da Inscrição     | Observação                                        |
 +=============+=======================+===================================================+
-| R$ 50       | até 09/08             | R$ 25 para estudantes ou associados da APyB       |
+| R$ 50       | até 9/8/2013          | R$ 25 para estudantes ou associados da APyB       |
 +-------------+-----------------------+---------------------------------------------------+
-| R$ 100      | de 10/08 a 02/09      | R$ 50 para estudantes ou associados da APyB       |
+| R$ 100      | de 10/8 a 24/9/2013   | R$ 50 para estudantes ou associados da APyB       |
 +-------------+-----------------------+---------------------------------------------------+
-| R$ 150      | de 03/09 a 17/09      | R$ 75 para estudantes ou associados da APyB       |
+| R$ 150      | de 25/9 a 1/10/2013   | R$ 75 para estudantes ou associados da APyB       |
 +-------------+-----------------------+---------------------------------------------------+
-| R$ 300      | de 18/9 a 01/10       | R$ 150 para estudantes ou associados da APyB      |
-+-------------+-----------------------+---------------------------------------------------+
-| R$ 400      | no dia do evento      | R$ 200 para estudantes ou associados da APyB      |
+| R$ 200      | no dia do evento      | R$ 100 para estudantes ou associados da APyB      |
 +-------------+-----------------------+---------------------------------------------------+
 
-Obs: Organizações de governo pagam R$ 400 porque o empenho só e efetuado no final do evento
+Obs: Organizações de governo pagam R$ 400 porque o empenho só é efetuado no final do evento
 e tem impostos envolvidos, além de custos adicionais pela emissão de Nota Fiscal
-e trabalho com comprovações para seus participantes.
+e trabalho com comprovações para os participantes do governo.
 
 
 Patrocinadores
@@ -263,7 +261,7 @@ Apoiadores
 +----------------------------------+----------------------------------------+
 | Associação PythonBrasil (APyB)   | * Temário                              |
 +----------------------------------+----------------------------------------+
-| Plone Foundation                 | * USD 2500 para stand no FISL          |
+| Plone Foundation                 | * USD 2,500 para stand no FISL         |
 +----------------------------------+----------------------------------------+
 | Bancorbrás                       | * Apoio Turístico                      |
 +----------------------------------+----------------------------------------+
@@ -292,7 +290,7 @@ o PayPal e o PagSeguro pelos extratos fornecidos pela APyB. Em resumo:
 * Total de Despesas = R$ 185.674
 * Total de Taxas = R$ 5.073
 
-Logo, tivemos lucro de: R$ 24.712 ou USD 10,427.01.
+Logo, tivemos lucro de: R$ 24.712 ou USD 10,427.
 
 Sendo que $ 5,000 USD foram para a Plone Foundation e
 $ 5,427 USD ficaram com a Associação Python Brasil.
