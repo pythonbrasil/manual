@@ -155,17 +155,17 @@ E o Plone Awards foi para...
 
 **Redes Sociais utilizadas:**
 
-Twitter
-* https://twitter.com/pythonbrasil
-* https://twitter.com/ploneconf
+Twitter:
+  * https://twitter.com/pythonbrasil
+  * https://twitter.com/ploneconf
 
-Facebook
-* https://www.facebook.com/pythonbrasil
-* https://www.facebook.com/PloneConf
+Facebook:
+  * https://www.facebook.com/pythonbrasil
+  * https://www.facebook.com/PloneConf
 
-Google+
-* https://plus.google.com/u/0/109784293046561922302/posts
-* https://plus.google.com/u/0/110598996082644033939/posts
+Google+:
+  * https://plus.google.com/u/0/109784293046561922302/posts
+  * https://plus.google.com/u/0/110598996082644033939/posts
 
 
 Plone Conference 2013
