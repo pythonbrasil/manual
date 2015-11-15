@@ -153,6 +153,21 @@ E o Plone Awards foi para...
   pelas importantes contribuições ao Plone.
 
 
+**Redes Sociais utilizadas:**
+
+Twitter
+* https://twitter.com/pythonbrasil
+* https://twitter.com/ploneconf
+
+Facebook
+* https://www.facebook.com/pythonbrasil
+* https://www.facebook.com/PloneConf
+
+Google+
+* https://plus.google.com/u/0/109784293046561922302/posts
+* https://plus.google.com/u/0/110598996082644033939/posts
+
+
 Plone Conference 2013
 --------------------------------
 
@@ -227,8 +242,6 @@ Patrocinadores
 +----------------------------------+-----------------------+
 | Agência Click Isobar             | * Bronze              |
 +----------------------------------+-----------------------+
-
-.. image:: ../imagens/pybr9_patrocinadores.jpg
 
 
 Apoiadores
@@ -367,14 +380,23 @@ A Festa teve receita e despesa à parte paga com a compra de ingresso individual
 Apenas a reserva do local da festa (R$ 1.500) foi feito com o dinheiro da organização.
 
 
-Foto Oficial
+Fotos
 ---------
 
 Todas fotos podem ser vistas no Flickr 
 da Python Brasil: http://www.flickr.com/photos/pythonbrasil/
 
+**Foto Oficial:**
 .. image:: ../imagens/pybr9_fotooficial.jpg
 
+**Organizadores:**
+.. image:: ../imagens/pybr9_organizadores.jpg
+
+**Painel dos Patrocinadores na abertura:**
+.. image:: ../imagens/pybr9_patrocinadores.jpg
+
+**Kit dos Participantes:**
+.. image:: ../imagens/pybr9_kitparticipantes.jpg
 
 
 Agradecimentos Especiais
