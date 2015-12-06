@@ -12,7 +12,11 @@ História
    pythonbrasil5
    pythonbrasil6
    pythonbrasil7
+<<<<<<< HEAD
    pythonbrasil8
    pythonbrasil9
    pythonbrasil10
    pythonbrasil11
+=======
+   pythonbrasil9
+>>>>>>> upstream/master
