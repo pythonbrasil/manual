@@ -30,17 +30,17 @@ Números
 +----------------------+-----------------------+
 | Keynotes             | * 5                   |
 +----------------------+-----------------------+
-| Treinamentos         | * NDA                 |
+| Treinamentos         | * 26                  |
 +----------------------+-----------------------+
-| Inscritos            | * NDA                 |
+| Inscritos            | * 395                 |
 +----------------------+-----------------------+
-| Receita Inscrição    | * NDA                 |
+| Receita Inscrição    | * 18.000,00           |
 +----------------------+-----------------------+
-| Patrocinadores       | * 8                   |
+| Patrocinadores       | * 16                  |
 +----------------------+-----------------------+
-| Apoiadores           | * NDA                 |
+| Apoiadores           | * 3                   |
 +----------------------+-----------------------+
-| Receita Patrocínio   | * NDA                 |
+| Receita Patrocínio   | * ~73.600,00          |
 +----------------------+-----------------------+
 
 
@@ -58,38 +58,85 @@ NDA
 Patrocinadores
 ------------------
 
-+----------------------+-----------------------+
-| LuizaLabs            | * Diamante            |
-+----------------------+-----------------------+
-| Globo.com            | * Ouro                |
-+----------------------+-----------------------+
-| Thoughtworks         | * Silver              |
-+----------------------+-----------------------+
-| Toptal               | * Prata               |
-+----------------------+-----------------------+
-| Evolux               | * Prata               |
-+----------------------+-----------------------+
-| Axado                | * Prata               |
-+----------------------+-----------------------+
-| Designa              | * Prata               |
-+----------------------+-----------------------+
-| Django               | * Bronze              |
-+----------------------+-----------------------+
++----------------------------+-----------------------+
+| LuizaLabs                  | * Diamante            |
++----------------------------+-----------------------+
+| Globo.com                  | * Ouro                |
++----------------------------+-----------------------+
+| IBM                        | * Ouro                |
++----------------------------+-----------------------+
+| Scrapinghub                | * Ouro                |
++----------------------------+-----------------------+
+| Loggi                      | * Ouro                |
++----------------------------+-----------------------+
+| Thoughtworks               | * Silver              |
++----------------------------+-----------------------+
+| Toptal                     | * Prata               |
++----------------------------+-----------------------+
+| Evolux                     | * Prata               |
++----------------------------+-----------------------+
+| Axado                      | * Prata               |
++----------------------------+-----------------------+
+| Imax                       | * Prata               |
++----------------------------+-----------------------+
+| Designa                    | * Prata               |
++----------------------------+-----------------------+
+| ZNC Sistemas               | * Prata               |
++----------------------------+-----------------------+
+| Pythonpro                  | * Prata               |
++----------------------------+-----------------------+
+| Continuum Analytics        | * Prata               |
++----------------------------+-----------------------+
+| Python Software Foundation | * Prata               |
++----------------------------+-----------------------+
+| Django                     | * Bronze              |
++----------------------------+-----------------------+      
 
 
 Apoiadores
 ------------------
 
-+----------------------+-----------------------+
-| NDA                  | NDA                   |
-+----------------------+-----------------------+
++------------------------------------------------+-------------------------------+
+| Fatec São José dos Campos - Prof. Jessen Vidal | Apoio com os tutoriais        | 
++------------------------------------------------+-------------------------------+
+| Thoughtworks                                   | Doação de livros para sorteio |
++------------------------------------------------+-------------------------------+
+| Novatec                                        | Doação de livros para sorteio |
++------------------------------------------------+-------------------------------+
+
 
 Imagens
 ---------
 
-https://www.flickr.com/photos/pythonbrasil/
+**Fotos do primeiro dia** - https://drive.google.com/folderview?id=0B5BSRajJ1TiTWlgwejRIbEtjYTQ&usp=sharing&tid=0B5BSRajJ1TiTcFVVTnJ3bGhoZVU  
+
+**Fotos do segundo dia** - https://drive.google.com/folderview?id=0B5BSRajJ1TiTb29NSFdqNy0wN1k&usp=sharing&tid=0B5BSRajJ1TiTcFVVTnJ3bGhoZVU  
+
+**Feedback dos participantes pela hashtag #pybr11** - https://twitter.com/search?f=tweets&vertical=default&q=%23pybr11&src=tyah
 
 Vídeos
 ---------
 
-https://www.youtube.com/user/pythonbrazil
+**Vídeos oficiais** - https://www.youtube.com/user/pythonbrazil  
+
+**Fatos e fotos - Primeiro dia** - https://www.youtube.com/watch?v=jq9rVXorG_w  
+
+**Fatos e fotos - Segundo dia** -https://www.youtube.com/watch?v=6Joe6JS9sBM  
+
+**Vídeo chamada do Big Kahuna Renzo Nuccitelli** - https://www.youtube.com/watch?v=zoCAGHTybGQ  
+
+**Vídeo chamada do Luciano Ramalho sobre patrocínio** - https://www.youtube.com/watch?v=2-zeQukmDI4
+
+
+Feedback dos Participantes
+--------------------------
+
+**Linux pro** - http://www.linuxpro.com.br/2015/11/moments-pycon-brasil-11.html  
+
+**Programe em Python** - http://programeempython.blog.br/blog/python-brasil-2015/  
+
+**Programando Ciência** - http://programandociencia.com/2015/11/27/evento-programando-ciencia-na-python-brasil-11/  
+
+**Marcus Beckenkamp** - http://mbeck.com.br/blog/papo/sobre-python-brasil-2015  
+
+**Pequena aprendiz Geek** - https://pequenaaprendizgeek.wordpress.com/2015/11/22/djangogirls-workshop-com-from-djangogirls-import-surpresinhas/
