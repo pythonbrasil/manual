@@ -4,44 +4,49 @@ PythonBrasil[11]
 Informações Gerais
 ---------------------
 
-+----------------------+-------------------------+
-| Nome Oficial         | * PythonBrasil[11]      |
-+----------------------+-------------------------+
-| Local                | * Novotel               |
-|                      | * São José dos Campos   |
-|                      | * São Paulo             |
-+----------------------+-------------------------+
-| Data                 | * 07/11/2015            |
-|                      | * 08/11/2015            |
-|                      | * 09/11/2015            |
-|                      | * 10/11/2015            |
-|                      | * 11/11/2015            |
-+----------------------+-------------------------+
-| Organizador          | * Renzo Nuccitelli      |
-+----------------------+-------------------------+
++-----------------------------+------------------------+---------------------------------------------------------------------+
+| O que?                      | Quando?                | Onde?                                                               |
++=============================+========================+=====================================================================+
+| **PythonBrasil[11]**        | 07/11 a 11/11/2015     | Novotel - São José dos Campos                                       |
++-----------------------------+------------------------+---------------------------------------------------------------------+
+| **Treinamentos**            | 07/11 e 08/11/2015     | Fatec São José dos Campos - Prof. Jessen Vidal                      |
++-----------------------------+------------------------+---------------------------------------------------------------------+
+| **Conferências**            | 09/11 a 10/11/2015     | Novotel - São José dos Campos                                       |
++-----------------------------+------------------------+---------------------------------------------------------------------+
+| **Festa**                   | 09/11/2015             | Kart Center                                                         |
++-----------------------------+------------------------+---------------------------------------------------------------------+
+| **Sprint da Conferência**   | 11/11/2015             | Parque tecnológico - São José dos Campos                            |
++-----------------------------+------------------------+---------------------------------------------------------------------+
+| **Organizador**             | 07/11 a 11/11/2015     | Renzo Nuccitelli                                                    |
++-----------------------------+------------------------+---------------------------------------------------------------------+
+
 
 Números
 ---------------------
 
-+----------------------+-----------------------+
-| Palestras            | * ~38                 |
-+----------------------+-----------------------+
-| Palestrantes         | * ~38                 |
-+----------------------+-----------------------+
-| Keynotes             | * 5                   |
-+----------------------+-----------------------+
-| Treinamentos         | * 26                  |
-+----------------------+-----------------------+
-| Inscritos            | * 395                 |
-+----------------------+-----------------------+
-| Receita Inscrição    | * 18.000,00           |
-+----------------------+-----------------------+
-| Patrocinadores       | * 16                  |
-+----------------------+-----------------------+
-| Apoiadores           | * 3                   |
-+----------------------+-----------------------+
-| Receita Patrocínio   | * ~73.600,00          |
-+----------------------+-----------------------+
++--------------------------------+-----------------------+
+| Palestras                      | * 36                  |
++--------------------------------+-----------------------+
+| Palestrantes                   | * ~38                 |
++--------------------------------+-----------------------+
+| Keynotes                       | * 5                   |
++--------------------------------+-----------------------+
+| Treinamentos                   | * 26                  |
++--------------------------------+-----------------------+
+| Inscritos                      |  * 395                |
++--------------------------------+-----------------------+
+| Receita Inscrição              | * 18.000,00           |
++--------------------------------+-----------------------+
+| Mulheres no evento             | * ~12%                |
++--------------------------------+-----------------------+
+| Inscritos no treinamento       | * ~200                |
++--------------------------------+-----------------------+
+| Patrocinadores                 | * 16                  |
++--------------------------------+-----------------------+
+| Apoiadores                     | * 3                   |
++--------------------------------+-----------------------+
+| Receita Patrocínio             | * ~73.600,00          |
++--------------------------------+-----------------------+          
 
 
 Resumo
@@ -51,9 +56,98 @@ O evento da Python Brasil volta ao Estado de São Paulo, só que dessa vez organ
 
 Site da conferência: http://pythonbrasil.github.io/pythonbrasil11-site/
 
-Inscrições
-----------------
-NDA
+Foi organizada por uma equipe de voluntários, tais como:
+
+* Eric Hideki (Sampa)
+* Marina Ribeiro (Rio)  
+* Renzo Nuccitelli (SJC)  
+* Cláudio Berrondo (Rio)
+* Júlio Melanda (SJC)
+* Carlos Eduardo de Oliveira (Hacker Clube/SJC)
+* Carlos Eduardo Leite [cadu]  (SJC)
+* Renato Oliveira (Recife)
+* Felipe Ximenes [Xima]  (Recife)
+* Luiz Vital (SJC)
+* Thiago Avelino [XXXLinus] (Sampa)
+* Fábio Barrionuevo (Palmas)
+* Denis Costa (SJC)
+* Michel Amaral (Designa / Pinda)
+* Junior (Viva Real / Sampa)
+* Fábio Luis (Hacker Clube/SJC)
+* Verônica (Django Girls/SJC)
+* Lidiane (Recife)
+* Ricardo Savii (SJC)
+* Roger (SJC)
+* João Mateus Scarpa (Designa / Taubaté)
+* Josiane (SJC)
+* José Thomazini [Thomaz]  (SJC)
+* Marcelo Tambalo (SJC)
+* Guto Maia (Salvador)
+* Luciano Ramalho (Sampa)
+* Arakaki (Fatec/SJC)
+* Sakawe (Fatec/SJC)
+* Massanori (SJC)
+* Marcelo Nunes (CECOMPI/SJC)
+* Diego Nicolau (SJC)
+* Mauro Assis [Maurão]  (Hacker Clube/SJC)
+* Alex Porto (Hacker Clube/SJC)
+* Paula Granjeiro (DjangoGirls/Rio)
+* Tânia Andrea (Brasília)
+* Estefânia (Django Girls / SJC)
+* Erico Andrei (Sampa)
+* Joao Bueno [JS]  (Campinas)
+
+**Tutoriais:**
+
+Os tutoriais foram realizados na Fatec SJC, onde foram gratuítos, com inscrições separadas dos participantes da conferência. Dessa forma, quem não pudesse comparecer a conferência poderia ir aos tutoriais. O Coffee break dos dois dias do evento foram arcados pelos valores arrecadados para a conferência.
+
+Tivemos uma média de 200 pessoas (Tutorial Django Girls e outros) durante os dois dias. As fotos dos tutoriais podem ser vistos na página oficial da comunidade (pythonbrasil), e as fotos do tutorial das Django Girls - https://www.flickr.com/photos/djangogirlssjc/
+
+**Conferência:**
+
+A conferência foi realizada no Novotel - São José dos Campos. Local bem localizado ao lado da Dutra, de fácil acesso de carro, com diversas opções de hospedagem ao redor para quem desejava uma opção mais econômica de estadia.
+
+Tivemos o open space, um espaço aberto (sala) onde as pessoas puderam se reunir seja para trabalho, discussões, descanço, etc. 
+
+Houveram 36 palestras, divididas em 4 trilhas: Iniciantes (Zumbis), Cloud/Web, Carreira/Lifestyle/Casos de sucesso e Big data, onde cada trilha foi coordenada por um responsável. Tais como: Denis Costa, Eric Hideki, Julio Melanda, Ricardo Savii.
+
+Fecharam um local próximo ao evento para a confraternização do primeiro dia, um Kart/Karaokê/Bar, onde foi paga a comida a todos os presentes, sendo as bebidas a parte. A pé dava o tempo de 5 minutos de distância do hotel da conferência.
+
+Nas ligthning talks, foi oferecido espaço aos patrocinadores poderem falar rapidamente sobre suas empresas, o que estão fazendo e oferecendo oportunidades.
+
+**Os Keynotes:**
+
+* **Bryan Van de Ven** - Bryan is a senior software engineer at Continuum Analytics, and is the project lead for the Open Source Bokeh visualization system.
+* **David Beazley** - Author of the Python Essential Reference and Python Cookbook. He is an independent software developer, teacher, and book author living in the city of Chicago.
+* **Luiza Nunes** - Joseense, graduated at FATEC SJC, Luiza nurtures Agile and SW development with her experience as Quality Advocate Consultant at ThoughtWorks Brazil.She has worked with several domains and team sizes in different ThoughtWorks offices around the world.
+* **Rafael Gonçalves** - Rafael Gonçalves fez Engenharia Mecatrônica e Mestrado na Poli/USP. Trabalhou no Fraunhofer Institute. É fundador da Tegris e do FieldLink.me. Em 2014 assumiu a coordenação do escritório de desenvolvimento de sistemas digitais da FDTE.
+* **Tânia Andrea** - Gerente de projetos na ZNC Sistemas. Formada em Ciência da Computação com Pós em Software Livre e Gestão de Projetos. Organizou a PythonBrasil[9] / PloneConf 2013. Atuou na Polícia Federal, Presidência, MJ, MRE, Apex-Brasil, Codevasf e é consultora externa de TI.
+
+**Tivemos:**
+
+    * Open Spaces
+    * Keynotes Speakers
+    * Palestra convidada retirada para Assembléia da Apyb
+    * Palestras Relâmpago
+    * Prêmios (Prêmio Dorneles Treméa)
+    * Foto Oficial
+    * Filmagem (todas no YouTube da Python Brasil: https://www.youtube.com/user/pythonbrazil)
+    * Tradução simultânea
+    * A Festa
+    * Sprint da conferência
+    * Hall de exposição (6 m2)
+    * Kit do participante com camiseta, pasta, caneta, adesivos, grade do evento, dentre outros
+
+
+**Hall de exposição:**
+
+Stands dos patrocinadores (IBM, Luizalabs, Scrapinghub, Glogo.com), venda de livros Novatec e realização dos coffee-breaks.
+
+**Prêmios:**
+
+Neste ano o Prêmio Dorneles Treméa foi para...
+
+* **Tania Andréa** - Gerente de projetos na ZNC Sistemas. Formada em Ciência da Computação com Pós em Software Livre e Gestão de Projetos. Organizou a PythonBrasil[9] / PloneConf 2013. Atuou na Polícia Federal, Presidência, MJ, MRE, Apex-Brasil, Codevasf e é consultora externa de TI.
 
 Patrocinadores
 ------------------
