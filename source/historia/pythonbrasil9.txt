@@ -1,9 +1,10 @@
 PythonBrasil[9]
+=======================================
 
 Informações Gerais
 ---------------------
-Nome oficial do evento: PythonBrasil[9] / Plone Conference 2013
 
+Nome oficial do evento: PythonBrasil[9] / Plone Conference 2013
 Organizadora: Tânia Andrea
 
 +-----------------------------+------------------------+---------------------------------------------------------------------+
@@ -25,6 +26,7 @@ Organizadora: Tânia Andrea
 
 Números
 ---------------------
+
 +--------------------------------+-----------------------+
 | Inscritos no evento            | * 584                 |
 +--------------------------------+-----------------------+
@@ -138,7 +140,6 @@ Neste ano o Prêmio Dorneles Treméa foi para...
   Data Warehouse, NoSQL, Pentaho, Google Technology, Facebook. Voluntário em projetos sociais
   voltados para a educação infantil nos finais de semana.
 
-
 * **Henrique Bastos** - Apaixonado por desenvolvimento de software! 
   Trabalha aplicando tecnologias livres como Python, Django e Métodos Ágeis promovendo economia para seus clientes
   e parceiros. É membro da Associação Python Brasil e da Python Software Foundation, além de
@@ -241,6 +242,7 @@ Patrocinadores
 +----------------------------------+-----------------------+
 | Agência Click Isobar             | * Bronze              |
 +----------------------------------+-----------------------+
+
 
 Apoiadores
 ------------------
@@ -364,7 +366,7 @@ $ 5,427 USD ficaram com a Associação Python Brasil.
 +--------------------------------+-------------------+
 | Outros Serviços (M.O.)         | R$ 6.282          |
 +--------------------------------+-------------------+
-	
+  
 +--------------------------------+-------------------+
 | **Taxas**                      | **R$ 5.073**      |
 +--------------------------------+-------------------+
@@ -515,4 +517,3 @@ Fonte: http://www.netsight.co.uk/blog/open-source-2014-it-works?utm_source=twitt
 
 "Números o cifras resultantes del @pythonbrasil y del @ploneconf 2013 #pythonbrasil #ploneconf pic.twitter.com/vbEbzAu0Rv"
 (Plone Venezuela, no Twitter <200f>@PloneVe) em 4 de outubro de 2013
->>>>>>> upstream/master
