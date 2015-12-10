@@ -12,4 +12,10 @@ História
    pythonbrasil5
    pythonbrasil6
    pythonbrasil7
+   pythonbrasil8
    pythonbrasil9
+   pythonbrasil10
+   pythonbrasil11
+   pythonbrasil12
+   pythonbrasil13
+   video-explicacao
