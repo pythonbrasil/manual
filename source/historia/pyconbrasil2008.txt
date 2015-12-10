@@ -4,6 +4,9 @@ PyConBrasil 2008
 Informações Gerais
 ---------------------
 
+Nome oficial do evento: PyConBrasil 2008
+Organizador: Luis Gustavo Neves
+
 +----------------------+-----------------------+
 | Nome Oficial         | * PyConBrasil 2008    |
 +----------------------+-----------------------+
@@ -28,7 +31,11 @@ Números
 +----------------------+-----------------------+
 | Treinamentos         | * 4                   |
 +----------------------+-----------------------+
-| Inscritos            | * 163                 |
+| Inscritos            | * ~350                |
++----------------------+-----------------------+
+| Tutoriais            | * 2                   |
++----------------------+-----------------------+
+| Mini-cursos          | * 2                   |
 +----------------------+-----------------------+
 | Receita Inscrição    | * N/D                 |
 +----------------------+-----------------------+
@@ -111,7 +118,17 @@ Apoiadores
 | Softrent             | * R$1.000,00          |
 +----------------------+-----------------------+
 
+
+Site do evento
+----------------
+
+http://plone.python.org.br:8120/pycon/2008
+
+Detalhes finais do evento - http://plone.python.org.br:8120/pycon/2008/saiba-mais/noticias/encerramento-da-pyconbrasil-2008
+
 Imagens
 ---------
 
-#TODO
+http://plone.python.org.br:8120/pycon/2008/sobre-o-evento/fotos/pyconbrasil2008/
+
+.. image:: ../imagens/pyconbrasil8-oficial.jpg
