@@ -14,28 +14,24 @@ Organizador: Luis Gustavo Neves
 |                      | * Rio de Janeiro      |
 |                      | * Rio de Janeiro      |
 +----------------------+-----------------------+
-| Data                 | * 19/09/2008          |
+| Data                 | * 18/09/2008          |
+|                      | * 19/09/2008          |
 |                      | * 20/09/2008          |
-|                      | * 21/09/2008          |
 +----------------------+-----------------------+
 | Organizador          | * Luis Gustavo Neves  |
 +----------------------+-----------------------+
 
 Números
 ---------------------
-                                           
+
 +----------------------+-----------------------+
 | Palestras            | * 45                  |
 +----------------------+-----------------------+
-| Palestrantes         | * N/D                 |
+| Palestrantes         | * 35                  |
 +----------------------+-----------------------+
-| Treinamentos         | * 4                   |
+| Treinamentos (3h)    | * 4                   |
 +----------------------+-----------------------+
 | Inscritos            | * ~350                |
-+----------------------+-----------------------+
-| Tutoriais            | * 2                   |
-+----------------------+-----------------------+
-| Mini-cursos          | * 2                   |
 +----------------------+-----------------------+
 | Receita Inscrição    | * N/D                 |
 +----------------------+-----------------------+
@@ -43,7 +39,7 @@ Números
 +----------------------+-----------------------+
 | Apoiadores           | * 3                   |
 +----------------------+-----------------------+
-| Receita Patrocínio   | * R$41.040,00         |
+| Receita Patrocínio   | * R$ 41.040           |
 +----------------------+-----------------------+
 
 
@@ -51,34 +47,68 @@ Resumo
 ---------
 
 A PyConBrasil 2008 foi realizada no Rio de Janeiro, na Universidade Veiga de 
-Almeida.
+Almeida (UVA).
 
-O evento foi organizado por Luis Gustavo Neves, com apoio de grande comissão
-organizadora.
+O evento foi organizado por Luis Gustavo Neves com o apoio de uma grande comissão
+organizadora para execução:
 
-Seguindo a iniciativa do ano anterior, esta edição contou com palestrantes 
-internacionais: Bruce Eckel e Alexander Limi, que tiveram sua vinda ao evento
+* Carlos Ferreira (Serpro) 
+* Cláudio Berrondo (INPI)
+* Flávio Coelho (Fiocruz)
+* Giuseppe Romagnolli (Serpro)
+* John Edson (Gama Filho)
+* Luiz Guilherme Aldabalde (Serpro)
+* Mônica Teresa Aragon e Anderson Namen (UVA)
+
+Esta edição contou com palestrantes internacionais convidados 
+como Keynote Speaker: Bruce Eckel e Alexander Limi, que tiveram sua vinda ao evento
 paga pela APyB e pelo faturamento do próprio evento.
 
-Esta edição trouxe duas grandes inovações: Os Open Spaces, incentivados por
+Esta edição trouxe duas grandes inovações: os Open Spaces, incentivados por
 Bruce Eckel, e o convite a um representante de outra linguagem de programação, 
 neste caso, Roberto Ierusalimschy, criador da linguagem Lua.
 
-O evento contou com 163 inscritos, ocorreram 45 palestras e 4 treinamentos em 
+O evento contou com 350 inscritos e teve transmissão simultânea 
+com média de 300 participantes online e
+pico de 500 participantes na palestra do Bruce Eckel. 
+Ocorreram 45 palestras e 4 treinamentos em 
 paralelo às palestras. Os patrocinadores disponibilizaram também um *lounge* 
 junto a seus estandes, com internet disponível a todos.
 
-Foi realizada mais uma assembléia da APyB na qual foram eleitos novos 
+Foi realizada mais uma assembleia da APyB na qual foram eleitos novos 
 representantes e feitas modificações no estatuto.
+
+**Programação:**
+
+As palestras e treinamentos ocorreram em três dias, conforme grade abaixo:
+http://plone.python.org.br:8120/pycon/2008/sobre-o-evento/programacao
+
+**Keynotes speakers:**
+
+* Alexander Limi 
+* Bruce Eckel
+
+**Tivemos:**
+
+* Open Spaces (novidade)
+* Keynotes Speakers (novidade)
+* Palestra da linguagem convidada (novidade)
+* Dojo (novidade)
+* Transmissão simultânea
+* Foto Oficial (http://plone.python.org.br:8120/pycon/2008/sobre-o-evento/fotos/pyconbrasil2008/)
+* Filmagem (todas no YouTube da Python Brasil: https://www.youtube.com/results?search_query=pyconbrasil+2008)
+* Tradução simultânea
+* Agência Oficial (Nativa Brasil - travel & consulting)
+* Lounge e stand de patrocinadores
+* Kit do participante com camiseta, ecobag, caneta, cordão da Mozilla, crédito de $ 35 USD no Amazon AWS, dentre outros
 
 Comercialização
 ------------------
 
-Após o sucesso da comercialização realizada pela Solucto em Joinville, a APyB
-decidiu continuar o modelo de contratação de uma empresa para a gestão da parte
-comercial do evento.
+A APyB decidiu continuar com o modelo de contratação de uma empresa 
+para a gestão da parte comercial do evento.
 
-Para esta edição a empresa escolhida foi a ILTC -- Instituto de Lógica, 
+Para esta edição a empresa escolhida foi o ILTC -- Instituto de Lógica, 
 Filosofia e Teoria da Ciência -- remunerada em 10% dos recursos obtidos durante
 o evento.
 
@@ -88,35 +118,44 @@ Inscrições
 +----------------------+------------------+
 | Categoria            |  Valor           |
 +======================+==================+
-| APyB / Estudantes    |      25,00       |
+| APyB / Estudantes    |      R$ 25       |
 +----------------------+------------------+
-| SBC / Abraweb        |      35,00       |
+| SBC / Abraweb        |      R$ 35       |
 +----------------------+------------------+
-| Individual           |      45,00       |
+| Individual           |      R$ 45       |
 +----------------------+------------------+
 
 Patrocinadores
 ------------------
 
-+----------------------+-----------------------+
-| Serpro               | * R$20.000,00         |
-+----------------------+-----------------------+
-| Globo.Com            | * R$10.000,00         |
-+----------------------+-----------------------+
-| Locaweb              | * R$7.840,00          |
-+----------------------+-----------------------+
-
++----------------------+------------------------+
+| Serpro               | * R$ 20.000            |
++----------------------+------------------------+
+| Globo.Com            | * R$ 10.000            |
++----------------------+------------------------+
+| Locaweb              | * R$ 7.840             |
++----------------------+------------------------+
 
 Apoiadores
 ------------------
 
-+----------------------+-----------------------+
-| Async                | * R$1.200,00          |
-+----------------------+-----------------------+
-| Paradigma            | * R$1.000,00          |
-+----------------------+-----------------------+
-| Softrent             | * R$1.000,00          |
-+----------------------+-----------------------+
++----------------------+-------------------------+
+| UVA                  | * local do evento       |
+|                      | * infraestrutura        |
+|                      | * logística operacional |
+|                      | * segurança             |
+|                      | * limpeza               |
+|                      | * apoio turístico       |
+|                      | * apoio de mídia        |
++----------------------+-------------------------+
+| Simples Consultoria  | * Site do evento        |
++----------------------+-------------------------+
+| Async                | * R$ 1.200              |
++----------------------+-------------------------+
+| Paradigma            | * R$ 1.000              |
++----------------------+-------------------------+
+| Softrent             | * R$ 1.000              |
++----------------------+-------------------------+
 
 
 Site do evento
@@ -132,3 +171,22 @@ Imagens
 http://plone.python.org.br:8120/pycon/2008/sobre-o-evento/fotos/pyconbrasil2008/
 
 .. image:: ../imagens/pyconbrasil8-oficial.jpg
+
+
+Feedback dos participantes
+---------------------------
+**"Não sou um Programador/Desenvolvedor mas usando Python fiz coisas que jamais faria em outras linguagens (...)
+Me senti em casa no evento, o pessoal da comunidade está de parabéns!"**
+(Alan Porto)
+
+Observação: esse é parte do depoimento de Alan Porto, redator e revisor da revista Fedora Brasil que trouxe na edição seguinte uma matéria sobre a PyConBrasil 2008. A revista tem o objetivo de apresentar e divulgar o Fedora (GNU/Linux), além de desenvolver matérias e tutorias para ajudar os usuários mais leigos com a finalidade de quebrar o paradigma de que Linux é difícil.
+
+**"Brazilians are very warm and friendly, and PyConBrasil in Rio de Janeiro had over 300 very enthusiastic and committed Python programmers."**
+(Bruce Eckel)
+
+Observação: texto retirado do blog de Bruce Eckel (www.BruceEckel.com), autor de Thinking in Java (Prentice-Hall, 1998, 2nd Edition, 2000, 3rd Edition, 2003, 4th Edition, 2005), the Hands-On Java Seminar CD ROM, Thinking in C++ (PH 1995; 2nd edition 2000, Volume 2 with Chuck Allison, 2003), C++ Inside & Out (Osborne/McGraw-Hill 1993), entre outros. Ele já fez centenas de apresentações pelo mundo, publicou em torno de 150 artigos em diversas revistas, é um membro fundador do comitê ANSI/ISO C++ e fala regularmente em conferências.
+
+**"Creio que Python deve ser utilizada como a primeira linguagem de programação a ser aprendida por estudantes de Ciência da Computação. É uma linguagem contemporânea, com uma sintaxe enxuta e um conjunto muito bem definido de estruturas de dados, de mecanismos de controle e de modularização, que facilitam em muito a utilização de metodologias de programação ágeis, muito importantes nas etapas iniciais da aprendizagem da programação. Python conta também com uma ampla coleção de módulos
+(bibliotecas) com interfaces sempre definidas de modo bem intuitivo, o que estimula em muito os alunos iniciantes a se aventurarem com segurança na pesquisa de novas aplicações."**
+
+(Antônio Carlos da Rocha Costa - Escola de Informática - Coord. Prog. de Pós-grad. Informática na Universidade Católica de Pelotas)
