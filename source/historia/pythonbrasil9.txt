@@ -5,6 +5,7 @@ Informações Gerais
 ---------------------
 
 Nome oficial do evento: PythonBrasil[9] / Plone Conference 2013
+
 Organizadora: Tânia Andrea
 
 +-----------------------------+------------------------+---------------------------------------------------------------------+
@@ -62,42 +63,38 @@ que organizou o evento voluntariamente com a ajuda dos membros da comunidade Plo
 e apoio de outros membros da comunidade Python, sem qualquer fim lucrativo.
 
 
-**Keynotes speakers:**
+**Keynotes Speakers:**
 
-Contamos com 7 keynotes speakers convidados para o evento:
+Contamos com 7 Keynotes Speakers convidados para o evento:
 
-    * Eric Steele (Plone 5)
-
-    * Fábio Costa (linguagem convidada, JavaScript)
-
-    * Karin Breitman (Big Data)
-
-    * Paul Everitt (Pyramid)
-
-    * Paul Hildebrandt (Walt Disney)
-
-    * Paul Roeland (State of Plone)
-
-    * Rodrigo Senra (Show Pyrotécnico)
+* Eric Steele (Plone 5)
+* Fábio Costa (linguagem convidada, JavaScript)
+* Karin Breitman (Big Data)
+* Paul Everitt (Pyramid)
+* Paul Hildebrandt (Walt Disney)
+* Paul Roeland (State of Plone)
+* Rodrigo Senra (Show Pyrotécnico)
 
 
 **Tivemos:**
 
-    * Open Spaces
-    * Keynotes Speakers
-    * Palestra da linguagem convidada (JavaScript)
-    * Palestras Relâmpago
-    * Job Fair (novidade)
-    * Prêmios (Prêmio Dorneles Treméa e Plone Awards)
-    * Foto Oficial
-    * Filmagem (todas no YouTube da Python Brasil: https://www.youtube.com/user/pythonbrazil)
-    * Tradução simultânea
-    * Agência Oficial (Bancorbrás)
-    * A Festa
-    * Sprint da conferência
-    * Sprint pós-conferência na praia (novidade)
-    * Hall de exposição (6 m2)
-    * Kit do participante com camiseta, ecobag, caneta, cordão da Mozilla, crédito de $ 35 USD no Amazon AWS, dentre outros
+* Open Spaces
+* Keynotes Speakers
+* Palestra da linguagem convidada (JavaScript)
+* Palestras Relâmpago
+* Dojo
+* Job Fair (novidade)
+* Prêmios (Prêmio Dorneles Treméa e Plone Awards)
+* Foto Oficial (http://www.flickr.com/photos/pythonbrasil/)
+* Filmagem (todas no YouTube da Python Brasil: https://www.youtube.com/user/pythonbrazil)
+* Tradução Simultânea
+* Agência Oficial (Bancorbrás)
+* A Festa (novidade)
+* Sprint da Conferência
+* Sprint Pós-Conferência na Praia (novidade)
+* Lounge e Hall de exposição (6 m2)
+* Código de Conduta (novidade)
+* Kit do participante com camiseta, ecobag, caneta, cordão da Mozilla, crédito de $ 35 USD no Amazon AWS, dentre outros
 
 Rodada de Negócios foi cancelado por não ter a participação do Sebrae.
 
@@ -105,8 +102,8 @@ Rodada de Negócios foi cancelado por não ter a participação do Sebrae.
 **Alimentação:**
 
 Por não ter locais próximos ao CCUG para almoço e para viabilizar a logística
-de palestras próximas dest horário, oferecemos almoço gratuitamente aos participantes
-e funcionários.
+de palestras próximas deste horário, oferecemos almoço gratuitamente 
+aos participantes e funcionários.
 
 Na área do Open Space havia uma copeira para preparação do café expresso.
 Foram servidos mais de 600 copos de café! \o/
@@ -124,10 +121,10 @@ venda de livros Novatec, souvenirs de Brasília e outros produtos artesanais.
 
 **Código de conduta:**
 
-Pela primeira vez instituímos o código de conduta como termo de conhecimento obrigatório de
-participantes, palestrantes e expositores da Python Brasil. Essa foi uma exigência da PSF
-para conceder o patrocínio e tem prática semelhante sendo adotada por expositores do FISL,
-Plone Foundation e pela organização da PyCon US.
+Pela primeira vez instituímos o código de conduta como termo de conhecimento obrigatório 
+dos participantes, palestrantes e expositores da Python Brasil. Essa foi uma exigência 
+da PSF para conceder o patrocínio e tem prática semelhante sendo adotada 
+por expositores do FISL, Plone Foundation e pela organização da PyCon US.
 
 
 **Prêmios:**
@@ -203,7 +200,7 @@ Como não foi possível manter esse acordo, abrimos as inscrições com o valor 
 | R$ 200      | no dia do evento      | R$ 100 para estudantes ou associados da APyB      |
 +-------------+-----------------------+---------------------------------------------------+
 
-Obs: Organizações de governo pagam R$ 400 porque o empenho só é efetuado no final do evento
+**Observação:** organizações de governo pagam R$ 400 porque o empenho só é efetuado no final do evento
 e tem impostos envolvidos, além de custos adicionais pela emissão de Nota Fiscal
 e trabalho com comprovações para os participantes do governo.
 
@@ -372,7 +369,7 @@ $ 5,427 USD ficaram com a Associação Python Brasil.
 +--------------------------------+-------------------+
 
 Palestrantes convidados e outros tantos foram hospedados sem custo 
-no hotel e nos quartos da ESAF.
+no hotel ou nos quartos da ESAF.
 
 O almoço, café e água nos três dias de conferência foram pagos pela organização.
 
@@ -402,25 +399,32 @@ da Python Brasil: http://www.flickr.com/photos/pythonbrasil/
 Agradecimentos Especiais
 ------------------------
 
-* Excelentíssimo Senhor Alexandre Motta (Subsecretário de Planejamento, Orçamento e Administração do Ministério da Fazenda) por disponibilizar o local dos treinamentos na ESAF.
+* Excelentíssimo Senhor Alexandre Motta (Subsecretário de Planejamento, Orçamento e 
+  Administração do Ministério da Fazenda) por disponibilizar o local dos treinamentos na ESAF.
 
 * Embaixatriz Ana Amorim (Serpro) sem ela muitas portas não seriam abertas.
 
-* Excelentíssimo Embaixador Benedicto Fonseca (Ministério das Relações Exteriores) por dar suporte a vinda dos palestrantes e participantes internacionais ao evento.
+* Excelentíssimo Embaixador Benedicto Fonseca (Ministério das Relações Exteriores) 
+  por dar suporte a vinda dos palestrantes e participantes internacionais ao evento.
 
-* Excelentíssimo Senhor Luís Otávio (Secretário de Turismo do Distrito Federal) pelo necessário suporte em fornecer o local do evento no coração de Brasília.
+* Excelentíssimo Senhor Luís Otávio (Secretário de Turismo do Distrito Federal) 
+  pelo necessário suporte em fornecer o local do evento no coração de Brasília.
 
-* Excelentíssimo Senhor Marcos Mazoni (presidente do Serpro) pelo apoio dado aos eventos software livre e pelo patrocínio.
+* Excelentíssimo Senhor Marcos Mazoni (presidente do Serpro) pelo apoio dado 
+  aos eventos software livre e pelo patrocínio.
 
-* Excelentíssimo Senhor Odilon Frazão (Chefe da Assessoria Internacional do Distrito Federal) pelo apoio com a tradução simultânea do evento.
+* Excelentíssimo Senhor Odilon Frazão (Chefe da Assessoria Internacional do 
+  Distrito Federal) pelo apoio com a tradução simultânea do evento.
 
 * Fábio Surrage (Câmara dos Deputados) pelas manutenções no sistema de inscrições das conferências.
 
-* Fernanda Guedes Diogo pelo projeto de layout do evento no Centro de Convenções Ulysses Guimarães.
+* Fernanda Guedes Diogo pelo projeto de layout do local do evento no Centro de Convenções Ulysses Guimarães.
 
-* Gouveia (Interlegis) por todos os voluntários que ajudaram no credenciamento e outros itens emergentes da coferência.
+* João Gouveia e Jean Ferri (Interlegis) por todos os voluntários que ajudaram no 
+  credenciamento e outros itens emergentes da conferência.
 
-* Hector Velarde, Cléber Santos e Thiago Tamošauskas (Simples Consultoria) pela disponibilização do site Plone Awards com seu sistema de votação.
+* Hector Velarde, Cléber Santos e Thiago Tamošauskas (Simples Consultoria) pela disponibilização 
+  do site Plone Awards com seu sistema de votação.
 
 * Liberiun pelo design da proposta, dos folders e de todos materiais impressos.
 
