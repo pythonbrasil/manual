@@ -5,6 +5,7 @@ Informações Gerais
 ---------------------
 
 Nome oficial do evento: PyConBrasil 2008
+
 Organizador: Luis Gustavo Neves
 
 +----------------------+-----------------------+
@@ -18,8 +19,7 @@ Organizador: Luis Gustavo Neves
 |                      | * 19/09/2008          |
 |                      | * 20/09/2008          |
 +----------------------+-----------------------+
-| Organizador          | * Luis Gustavo Neves  |
-+----------------------+-----------------------+
+
 
 Números
 ---------------------
@@ -100,7 +100,8 @@ http://plone.python.org.br:8120/pycon/2008/sobre-o-evento/programacao
 * Tradução simultânea
 * Agência Oficial (Nativa Brasil - travel & consulting)
 * Lounge e stand de patrocinadores
-* Kit do participante com camiseta, ecobag, caneta, cordão da Mozilla, crédito de $ 35 USD no Amazon AWS, dentre outros
+* Kit do participante com bolsa de nylon, bloco, caneta, DVD (tutoriais de Python), 
+  camiseta e grade impressa
 
 Comercialização
 ------------------
@@ -179,14 +180,31 @@ Feedback dos participantes
 Me senti em casa no evento, o pessoal da comunidade está de parabéns!"**
 (Alan Porto)
 
-Observação: esse é parte do depoimento de Alan Porto, redator e revisor da revista Fedora Brasil que trouxe na edição seguinte uma matéria sobre a PyConBrasil 2008. A revista tem o objetivo de apresentar e divulgar o Fedora (GNU/Linux), além de desenvolver matérias e tutorias para ajudar os usuários mais leigos com a finalidade de quebrar o paradigma de que Linux é difícil.
+Observação: esse é parte do depoimento de Alan Porto, redator e revisor da revista Fedora Brasil 
+que trouxe na edição seguinte uma matéria sobre a PyConBrasil 2008. A revista tem o objetivo de 
+apresentar e divulgar o Fedora (GNU/Linux), além de desenvolver matérias e tutorias para ajudar 
+os usuários mais leigos com a finalidade de quebrar o paradigma de que Linux é difícil.
 
-**"Brazilians are very warm and friendly, and PyConBrasil in Rio de Janeiro had over 300 very enthusiastic and committed Python programmers."**
+**"Brazilians are very warm and friendly, and PyConBrasil in Rio de Janeiro had over 300 very 
+enthusiastic and committed Python programmers."**
 (Bruce Eckel)
 
-Observação: texto retirado do blog de Bruce Eckel (www.BruceEckel.com), autor de Thinking in Java (Prentice-Hall, 1998, 2nd Edition, 2000, 3rd Edition, 2003, 4th Edition, 2005), the Hands-On Java Seminar CD ROM, Thinking in C++ (PH 1995; 2nd edition 2000, Volume 2 with Chuck Allison, 2003), C++ Inside & Out (Osborne/McGraw-Hill 1993), entre outros. Ele já fez centenas de apresentações pelo mundo, publicou em torno de 150 artigos em diversas revistas, é um membro fundador do comitê ANSI/ISO C++ e fala regularmente em conferências.
+Observação: texto retirado do blog de Bruce Eckel (www.BruceEckel.com), autor 
+de Thinking in Java (Prentice-Hall, 1998, 2nd Edition, 2000, 3rd Edition, 
+2003, 4th Edition, 2005), the Hands-On Java Seminar CD ROM, Thinking in C++ 
+(PH 1995; 2nd edition 2000, Volume 2 with Chuck Allison, 2003), C++ Inside & Out 
+(Osborne/McGraw-Hill 1993), entre outros. Ele já fez centenas de apresentações 
+pelo mundo, publicou em torno de 150 artigos em diversas revistas, é um membro 
+fundador do comitê ANSI/ISO C++ e fala regularmente em conferências.
 
-**"Creio que Python deve ser utilizada como a primeira linguagem de programação a ser aprendida por estudantes de Ciência da Computação. É uma linguagem contemporânea, com uma sintaxe enxuta e um conjunto muito bem definido de estruturas de dados, de mecanismos de controle e de modularização, que facilitam em muito a utilização de metodologias de programação ágeis, muito importantes nas etapas iniciais da aprendizagem da programação. Python conta também com uma ampla coleção de módulos
-(bibliotecas) com interfaces sempre definidas de modo bem intuitivo, o que estimula em muito os alunos iniciantes a se aventurarem com segurança na pesquisa de novas aplicações."**
+**"Creio que Python deve ser utilizada como a primeira linguagem de programação 
+a ser aprendida por estudantes de Ciência da Computação. É uma linguagem contemporânea, 
+com uma sintaxe enxuta e um conjunto muito bem definido de estruturas de dados, 
+de mecanismos de controle e de modularização, que facilitam em muito a utilização 
+de metodologias de programação ágeis, muito importantes nas etapas iniciais da 
+aprendizagem da programação. Python conta também com uma ampla coleção de módulos
+(bibliotecas) com interfaces sempre definidas de modo bem intuitivo, o que estimula 
+em muito os alunos iniciantes a se aventurarem com segurança na pesquisa de novas aplicações."**
 
-(Antônio Carlos da Rocha Costa - Escola de Informática - Coord. Prog. de Pós-grad. Informática na Universidade Católica de Pelotas)
+(Antônio Carlos da Rocha Costa - Escola de Informática - Coord. Prog. de Pós-grad. 
+Informática na Universidade Católica de Pelotas)
