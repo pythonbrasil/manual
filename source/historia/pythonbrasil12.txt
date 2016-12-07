@@ -5,7 +5,7 @@ Informações Gerais
 ---------------------
 
 +----------------------+------------------------------------------+
-| Nome Oficial         | * PythonBrasil[12]                       |
+| Nome Oficial         | * Python Brasil[12]                      |
 +----------------------+------------------------------------------+
 | Local                | * Centro de Convenções CentroSul         |
 +----------------------+------------------------------------------+
@@ -18,27 +18,32 @@ Números
 ---------------------
 
 +----------------------+-----------------------+
-| Palestras            | * NDA                 |
+| Palestras            | 45                    |
 +----------------------+-----------------------+
-| Palestrantes         | * NDA                 |
+| Palestrantes         | 51                    |
 +----------------------+-----------------------+
-| Keynotes             | * NDA                 |
+| Keynotes             | 5                     |
 +----------------------+-----------------------+
-| Treinamentos         | * NDA                 |
+| Tutoriais            | 19                    |
 +----------------------+-----------------------+
-| Inscritos            | * NDA                 |
+| Inscritos            | 520                   |
 +----------------------+-----------------------+
-| Receita Inscrição    | * NDA                 |
+| Receita Inscrição    | R$ 52.144,40          |
 +----------------------+-----------------------+
-| Patrocinadores       | * NDA                 |
+| Patrocinadores       | 10                    |
 +----------------------+-----------------------+
-| Apoiadores           | * NDA                 |
+| Parceiros            | 7                     |
 +----------------------+-----------------------+
-| Receita Patrocínio   | * NDA                 |
+| Apoios               | 5                     |
++----------------------+-----------------------+
+| Receita Patrocínio   | R$ 94.214,61          |
 +----------------------+-----------------------+
 
 
 Resumo
 ---------
 
-O evento será realizado em Outubro de 2016, em Florianópolis, Santa Catarina.
+O evento foi realizado em Outubro de 2016, em Florianópolis, Santa Catarina.
+Nos dias 13 e 14, respectivamente quinta-feira e sexta-feira, iniciaram os tutoriais na faculdade Cesusc.
+Entre os dias 15 e 17, ocorreu o evento principal no Centro de Convenções em 3 auditórios, com espaços comuns e food trucks.
+O último dia da conferência foi no prédio da incubadora Celta, com uma participação de mais de 100 pessoas no Sprint.
