@@ -47,3 +47,155 @@ O evento foi realizado em Outubro de 2016, em Florianópolis, Santa Catarina.
 Nos dias 13 e 14, respectivamente quinta-feira e sexta-feira, iniciaram os tutoriais na faculdade Cesusc.
 Entre os dias 15 e 17, ocorreu o evento principal no Centro de Convenções em 3 auditórios, com espaços comuns e food trucks.
 O último dia da conferência foi no prédio da incubadora Celta, com uma participação de mais de 100 pessoas no Sprint.
+
+Site: http://2016.pythonbrasil.org.br/
+
+Voluntários:
+
+* Mário Sérgio (Floripa)
+* Andre Pastore (Floripa)
+* Biguá (Brasília)
+* Leticia Portella (Ribeirão Preto)
+* Henrique Bastos (Niterói)
+* Cadu Leite (SJC)
+* Eric Hideki (São Paulo)
+* Giovanni Piazza (Floripa)
+* Edmar Araujo (Floripa)
+* Ivan Ogasawara (Floripa)
+* Helber Maciel Guerra (Floripa)
+* Guilherme Maba (Floripa)
+* Gustavo Carvalho (Teresina)
+* Otavio Carneiro (Brasília)
+* Luciano Ramalho (São Paulo)
+* Victor Koinski (Floripa)
+* Daniel Severo (Floripa)
+* Humberto Rocha (Brasília)
+* Igor Santos (Belo Horizonte)
+* Jairo Jair (Floripa)
+* Elias Dorneles (Floripa)
+* Talita Rossari (Floripa)
+* Júlia Machado (Floripa)
+* Melissa Weber Mendonça (Floripa)
+* Mariany Ferreira (Floripa)
+* Magnun Leno (Brasília)
+* Marco Rougeth (Ribeirão Preto)
+* Turicas (Três Rios)
+* Larissa Lautert (Floripa)
+* Massanori (SJC)
+* Fábio C. Barrionuevo da Luz (Palmas)
+* Guto Maia (Salvador)
+* Samuel Sampaio (São Paulo)
+* Valdir Stumm Junior (Floripa)
+* Daniella Helena (Floripa)
+* Vanessa Cardoso (Floripa)
+* Jonatas Baldin (Floripa)
+* Bernardo Fontes (São Paulo)
+* Stamatios Stamou Jr (Floripa)
+* Matheus Magrin (Floripa)
+* Ramiro Luz (Curitiba)
+* Ricardo Pascal (Floripa)
+* Leonardo Gregorio (Floripa)
+* Tânia Andrea (Brasília)
+* Layout da página - Designa
+* Michel Amaral (Designa / Pinda)
+* João Mateus Scarpa (Designa / Taubaté)
+* Pedro Henrique Cruz (Brasília)
+* Pedro Martins (Brasília)
+* Rodolfo Almeida (Floripa)
+
+**Os Keynotes:**
+
+Sergio Oliveira Campos - Programação Dinâmica
+
+Hanneli Tavante - Rust Type System - Quick intro
+
+Naomi Ceder - Obstáculos à Inclusão, Por que só diversidade não é suficiente
+
+Sam Agnew - Hacking Classic Nintendo Games with Python
+
+Russell Keith-Magee - Python all the things!
+
+**Principais atividades e destaques:**
+
+Durante o evento principal as nossas palestras relâmpagos deixaram o ambiente ainda mais divertido, pois as pessoas que estavam participando pela primeira vez da conferência foram convocadas a subirem no palco e darem o seu recado. Dessa forma, surgiu o jargão "E essa é a minha primeira Python Brasil".
+
+Neste ano o Prêmio Dorneles Treméa foi para **Paula Grangeiro** por todo o trabalho de inclusão feito a frente do grupo PyLadies Brasil <3
+
+As empresas patrocinadores tiveram os seu espaço para falar também no *jobfair* promovido no segundo dia do evento principal.
+
+Foram **consumidos mais de 400 litros de chopp** durante os três dias de evento principal no Centro de Convenções Centro Sul. \o/
+
+
+Patrocinadores
+------------------
+
++----------------------------+-----------------------+
+| Globo.com                  | * Platina             |
++----------------------------+-----------------------+
+| Python Software Foundation | * Ouro                |
++----------------------------+-----------------------+
+| LuizaLabs                  | * Ouro                |
++----------------------------+-----------------------+
+| Stone Pagamentos           | * Ouro                |
++----------------------------+-----------------------+
+| Google                     | * Prata               |
++----------------------------+-----------------------+
+| Evolux                     | * Bronze              |
++----------------------------+-----------------------+
+| Thoughtworks               | * Bronze              |
++----------------------------+-----------------------+
+| Toptal                     | * Bronze              |
++----------------------------+-----------------------+
+| Neoway                     | * Bronze              |
++----------------------------+-----------------------+
+| Necto Systems              | * Bronze              |
++----------------------------+-----------------------+
+ 
+
+Parceiros
+------------------
+
++------------------------------------------------+-------------------------------+
+| Cesusc                                         | Local dos tutoriais           | 
++------------------------------------------------+-------------------------------+
+| Celta                                          | Local dos Sprints             |
++------------------------------------------------+-------------------------------+
+| Moblee                                         | Desenvolvimento de app mobile |
++------------------------------------------------+-------------------------------+
+| Geekhunter                                     | Confecção de brindes          | 
++------------------------------------------------+-------------------------------+
+| Cianet                                         | Elaboração de artes e design  |
++------------------------------------------------+-------------------------------+
+| OCA Community                                  | Confecção de brindes          |
++------------------------------------------------+-------------------------------+
+| Novatec                                        | Venda de livros no evento     |
++------------------------------------------------+-------------------------------+
+
+Apoiadores
+------------------
+
++------------------------------------------------+-------------------------------+
+| Associação Python Brasil                       | Apoio fiscal e financeiro     | 
++------------------------------------------------+-------------------------------+
+| Myreks                                         | Reserva do local dos Sprints  |
++------------------------------------------------+-------------------------------+
+| Django Girls                                   | Organização dos tutorais      |
++------------------------------------------------+-------------------------------+
+| PyLadies                                       | Divulgação da conferência     |
++------------------------------------------------+-------------------------------+
+| Anitas                                         | Divulgação e apoio operacional|
++------------------------------------------------+-------------------------------+
+
+Vídeos e Fotos
+---------------
+
+Canal oficial no Youtube: https://www.youtube.com/watch?v=6P4v-rOexgA&list=PLDC3uVLxaEQ2QPRucgMwiK22QSgq0aIEJ
+
+Fotos oficiais: https://www.flickr.com/photos/pythonbrasil/albums/72157671939963093
+
+Textos
+-------
+
+Pessoas > Tecnologia: https://medium.com/@sergiomarioq/pessoas-tecnologia-ca688e139e9e
+
+O que a comunidade Python tem para te oferecer!: https://medium.com/@james.peres.s/o-que-a-comunidade-python-tem-para-te-oferecer-1391a8a06f51
