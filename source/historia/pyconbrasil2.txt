@@ -68,4 +68,4 @@ Inscrições
 Imagens
 ---------
 
-#TODO
+.. image:: ../imagens/pythonbrasil-2.jpg

@@ -20,7 +20,7 @@ Informações Gerais
 
 Números
 ---------------------
-                                           
+
 +----------------------+-----------------------+
 | Palestras            | * 30                  |
 +----------------------+-----------------------+
@@ -43,17 +43,17 @@ Números
 Resumo
 ---------
 
-A PyConBrasil[3] foi realizada em 2007, na SOCIESC, em Joinville/SC. 
+A PyConBrasil[3] foi realizada em 2007, na SOCIESC, em Joinville/SC.
 
 O evento foi organizado por Marco André Lopes Mendes, que liderou uma equipe de
 voluntários e contratados para a realização do evento.
 
-Foram três dias de evento, mais uma noite de pré-evento, quando foi 
-realizada a Assembléia da Associação Python Brasil para a eleição de uma 
+Foram três dias de evento, mais uma noite de pré-evento, quando foi
+realizada a Assembléia da Associação Python Brasil para a eleição de uma
 nova diretoria. O evento contou com de 235 inscritos.
 
-O programa continha 30 palestras (50 se contarmos as palestras-relâmpago que 
-faziam parte da grade) e 10 minicursos. 
+O programa continha 30 palestras (50 se contarmos as palestras-relâmpago que
+faziam parte da grade) e 10 minicursos.
 
 Esta edição foi a primeira a contar com um palestrante internacional, Nate Aune,
 e uma outra novidade foi a realização de uma feira de expositores.
@@ -61,8 +61,8 @@ e uma outra novidade foi a realização de uma feira de expositores.
 Comercialização
 ------------------
 
-Diferentemente do que havia ocorrido em Campinas e em Brasília, esta edição do 
-evento contou com a presença de patrocinadores. 
+Diferentemente do que havia ocorrido em Campinas e em Brasília, esta edição do
+evento contou com a presença de patrocinadores.
 
 A comercialização foi realizada pela empresa Solucto, remunerada em 25% do valor
 total dos patrocínios.
@@ -79,7 +79,7 @@ Inscrições
 +----------------------+------------------+
 | Individual           |      30,00       |
 +----------------------+------------------+
-                                           
+
 Patrocinadores
 ------------------
 
@@ -98,4 +98,4 @@ Patrocinadores
 Imagens
 ---------
 
-#TODO
+.. image:: ../imagens/pythonbrasil-3.jpg

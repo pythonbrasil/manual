@@ -83,3 +83,5 @@ Imagens do evento
 .. image:: ../imagens/senra.jpg
 
 .. image:: ../imagens/pyconday.jpg
+
+.. image:: ../imagens/pythonbrasil-1.jpg
