@@ -438,7 +438,7 @@ Agradecimentos Especiais
 
 
 Feedback dos Participantes
-------------------------
+--------------------------
 
 "PythonBrasil! It was awesome, now I am just messing around here."
 (Paul Hildebrandt, no Twitter @paulhildebrandt) em 6 de outubro de 2013
