@@ -52,10 +52,8 @@ A PythonBrasil é o evento anual da comunidade Python brasileira e tem como obje
 Qualquer proposta submetida **deve** endereçar este objetivos de maneira clara e
 objetiva para que seja avaliada durante o processo de escolha.
 
-.. note:: Estamos avaliando a possibilidade de escolher a sede próximos 2 anos
-          (2012 e 2013) para otimizar processo de organização do evento,
-          portanto, se houver interesse em sediar o evento por mais de um ano é
-          importante colocar isso na proposta.
+.. note:: A escolha da sede é feita com dois anos de antecedência para otimizar
+          o processo de organização.
 
 
 Detalhamento dos números
