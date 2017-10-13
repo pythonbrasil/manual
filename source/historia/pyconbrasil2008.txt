@@ -171,8 +171,6 @@ Imagens
 
 http://plone.python.org.br:8120/pycon/2008/sobre-o-evento/fotos/pyconbrasil2008/
 
-.. image:: ../imagens/pyconbrasil2008-oficial.jpg
-
 
 Feedback dos participantes
 ---------------------------
