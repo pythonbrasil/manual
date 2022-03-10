@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "Manual Python Brasil"
+version = "0.1.0"
+description = ""
+authors = ["Marco Rougeth <rougeth@users.noreply.github.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+Sphinx = "^4.4.0"
+myst-parser = "^0.17.0"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
