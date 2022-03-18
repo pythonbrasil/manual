@@ -5,7 +5,7 @@ description = ""
 authors = ["Marco Rougeth <rougeth@users.noreply.github.com>"]
 
 [tool.poetry.dependencies]
-python = "^3.9"
+python = "^3.8"
 Sphinx = "^4.4.0"
 myst-parser = "^0.17.0"
 
