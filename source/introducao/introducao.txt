@@ -24,7 +24,7 @@ Big Kahuna
 
 A 'Big Kahuna' é a gerente do projeto, responsável por formar a equipe de organização e gerenciar o seu trabalho coletivo. Também é responsável por coordenar e gerenciar todas as atividades inerentes a organização do evento, bem como ser a responsável fiscal.
 
-Para ocupar esse cargo, a pessoa deve ser da comunidade Python Brasil e associada a APyB.
+Para ocupar esse cargo, a pessoa deve ser da comunidade Python Brasil e `associada a APyB <associacao.python.org.br/>`_.
 
 O evento é fruto do trabalho de diversas pessoas, e é responsabilidade de todas o sucesso da empreitada.
 
