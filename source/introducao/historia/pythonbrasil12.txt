@@ -1,4 +1,4 @@
-PythonBrasil[12]
+Python Brasil 2016
 ========================
 
 Informações Gerais

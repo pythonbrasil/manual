@@ -1,4 +1,4 @@
-PythonBrasil[7]
+Python Brasil 2011
 ========================
 
 Informações Gerais
@@ -162,4 +162,4 @@ Apoiadores
 Imagens
 ---------
 
-.. image:: ../imagens/pythonbrasil7.jpg
+.. image:: ../../imagens/pythonbrasil7.jpg

@@ -1,4 +1,4 @@
-PythonBrasil[8]
+Python Brasil 2012
 ========================
 
 Informações Gerais
@@ -134,8 +134,8 @@ Apoiadores
 Imagens
 ---------
 
-.. image:: ../imagens/pythonbrasil8.jpg
-.. image:: ../imagens/pythonbrasil8-2.jpg
+.. image:: ../../imagens/pythonbrasil8.jpg
+.. image:: ../../imagens/pythonbrasil8-2.jpg
 
 
 Slideshare

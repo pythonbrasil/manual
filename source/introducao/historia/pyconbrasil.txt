@@ -1,5 +1,5 @@
-PyConDay / PyConBrasil
-========================
+PyConBrasil / PyConDay 2005
+===========================
 
 Informações Gerais
 ---------------------
@@ -80,8 +80,8 @@ Inscrições
 Imagens do evento
 --------------------
 
-.. image:: ../imagens/senra.jpg
+.. image:: ../../imagens/senra.jpg
 
-.. image:: ../imagens/pyconday.jpg
+.. image:: ../../imagens/pyconday.jpg
 
-.. image:: ../imagens/pythonbrasil-1.jpg
+.. image:: ../../imagens/pythonbrasil-1.jpg

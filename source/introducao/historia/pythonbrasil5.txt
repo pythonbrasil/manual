@@ -1,4 +1,4 @@
-PythonBrasil[5]
+Python Brasil 2009
 ========================
 
 Informações Gerais
@@ -113,4 +113,4 @@ Apoiadores
 Imagens
 ---------
 
-.. image:: ../imagens/pythonbrasil-5.jpg
+.. image:: ../../imagens/pythonbrasil-5.jpg
