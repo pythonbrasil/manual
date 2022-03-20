@@ -10,4 +10,4 @@ Este guia tem como objetivo auxiliar às comunidades desde seu interesse em cand
    
    introducao/introducao
    proposta/index
-   modelos/index
+   organizacao/index
