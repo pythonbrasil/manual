@@ -1,4 +1,4 @@
-PythonBrasil[9]
+Python Brasil 2013
 =======================================
 
 Informações Gerais
@@ -384,16 +384,16 @@ Todas fotos podem ser vistas no Flickr
 da Python Brasil: http://www.flickr.com/photos/pythonbrasil/
 
 **Foto Oficial:**
-.. image:: ../imagens/pybr9_fotooficial.jpg
+.. image:: ../../imagens/pybr9_fotooficial.jpg
 
 **Organizadores:**
-.. image:: ../imagens/pybr9_organizadores.jpg
+.. image:: ../../imagens/pybr9_organizadores.jpg
 
 **Painel dos Patrocinadores na abertura:**
-.. image:: ../imagens/pybr9_patrocinadores.jpg
+.. image:: ../../imagens/pybr9_patrocinadores.jpg
 
 **Kit dos Participantes:**
-.. image:: ../imagens/pybr9_kitparticipantes.jpg
+.. image:: ../../imagens/pybr9_kitparticipantes.jpg
 
 
 Agradecimentos Especiais

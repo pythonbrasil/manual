@@ -2,7 +2,7 @@
 Hangout sobre a história das Python Brasil
 *********************
 
-**Hangout com os antigos organizadores das Python Brasil ao longo dos anos falando sobre a conferência. O assunto pricipal é sobre a Python Brasil 11 [2015], em São José dos Campos.**
+**Hangout com ex-organizadoras das Python Brasil ao longo dos anos falando sobre a conferência. O assunto pricipal é sobre a Python Brasil 11 [2015], em São José dos Campos.**
 
 .. raw:: html
 
@@ -26,7 +26,7 @@ Hangout sobre a história das Python Brasil
 - Dicas de hotéis próximos
 - Como chegar ao local do evento pra quem não entende nada de SP :)
 - Por que patrocínios com brindes e sorteios não são aceitos?
-- [Código de Conduta APyB](https://github.com/pythonbrasil/codigo-de-conduta), um overview sobre o que é, para que server e onde se aplica dentro da PythonBrasil[11]
-- [Propostals para Plone Conference](https://plone.org/events/conferences/plone-conference-2016/2016-call-for-proposals)
-- [Mapa da Python Brasil](https://mapa-pybr11.herokuapp.com/)
-- [Prêmio Dorneles Trémea](https://www.youtube.com/watch?v=SlmB-g7uJdo)
+- `Código de Conduta APyB <https://github.com/pythonbrasil/codigo-de-conduta>`_, um overview sobre o que é, para que server e onde se aplica dentro da PythonBrasil[11]
+- `Propostals para Plone Conference <https://plone.org/events/conferences/plone-conference-2016/2016-call-for-proposals>`_
+- `Mapa da Python Brasil <https://mapa-pybr11.herokuapp.com/>`_
+- `Prêmio Dorneles Trémea <https://www.youtube.com/watch?v=SlmB-g7uJdo>`_

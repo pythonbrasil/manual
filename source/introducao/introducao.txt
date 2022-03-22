@@ -1,0 +1,54 @@
+*********************
+Introdução
+*********************
+
+Este documento foi criado originalmente em 2011 e passa por sucessivas modificações por parte da diretoria da Associação Python Brasil (APyB) e das organizações da Python Brasil ao longo dos anos. 
+
+O objetivo é auxiliar na organização de eventos futuros da APyB, sobretudo das edições futuras da Python Brasil. Sendo assim, é de responsabilidade das equipes organizadoras de cada Python Brasil atualizar este manual com os dados referentes a sua edição.
+
+Python Brasil
+=======================
+
+A Python Brasil é o evento anual da comunidade Python brasileira. Organizado pela Associação Python Brasil (APyB) desde sua terceira edição, já foi conhecido como PyConDays (apenas na primeira edição, em Campinas, 2005), e como PyConBrasil, nome utilizado até a quarta edição.
+
+O evento tem como objetivos:
+
+    * Ser o encontro da comunidade brasileira de Python;
+    
+    * Ser a porta de entrada nesta comunidade;
+    
+    * Financiar ações da APyB;
+
+Big Kahuna
+=====================
+
+A 'Big Kahuna' é a gerente do projeto, responsável por formar a equipe de organização e gerenciar o seu trabalho coletivo. Também é responsável por coordenar e gerenciar todas as atividades inerentes a organização do evento, bem como ser a responsável fiscal.
+
+Para ocupar esse cargo, a pessoa deve ser da comunidade Python Brasil e `associada a APyB <associacao.python.org.br/>`_.
+
+O evento é fruto do trabalho de diversas pessoas, e é responsabilidade de todas o sucesso da empreitada.
+
+História
+=====================
+
+Sabia sobre a história da Python Brasil na live promovida por ex-organizadoras em 2015: `Hangout sobre a história das Python Brasil <historia/video-explicacao>`_
+
+Nesta sessão estão disponíveis o resumo de cada Python Brasil.
+
+.. toctree::
+    :maxdepth: 1
+
+    historia/pyconbrasil
+    historia/pyconbrasil2
+    historia/pyconbrasil3
+    historia/pyconbrasil2008
+    historia/pythonbrasil5
+    historia/pythonbrasil6
+    historia/pythonbrasil7
+    historia/pythonbrasil8
+    historia/pythonbrasil9
+    historia/pythonbrasil10
+    historia/pythonbrasil11
+    historia/pythonbrasil12
+    historia/pythonbrasil13
+    historia/pythonbrasil14

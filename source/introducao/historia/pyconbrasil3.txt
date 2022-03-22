@@ -1,4 +1,4 @@
-PyConBrasil[3]
+PyConBrasil 2007
 ========================
 
 Informações Gerais
@@ -98,4 +98,4 @@ Patrocinadores
 Imagens
 ---------
 
-.. image:: ../imagens/pythonbrasil-3.jpg
+.. image:: ../../imagens/pythonbrasil-3.jpg
