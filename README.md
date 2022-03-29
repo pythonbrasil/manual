@@ -36,3 +36,6 @@ O manual está disponível online em [manual.pythonbrasil.org.br](https://manual
    ```
 ### Visualize o manual
 1. No seu navegador, abra o arquivo `build/html/index.html` em seu navegador.
+
+### Atualização e Complementação de conteúdo
+A cada nova Python Brasil este manual deve ser atualizado pela organização da PyBR com as informações referentes ao evento, seguindo as instruções do [Guia de Atualização do Manual](/CONTRIBUTING.md).
