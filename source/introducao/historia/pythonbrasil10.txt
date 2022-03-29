@@ -1,3 +1,6 @@
+.. index::
+    single: Python Brasil 2014
+
 Python Brasil 2014
 ========================
 

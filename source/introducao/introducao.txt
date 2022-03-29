@@ -1,3 +1,6 @@
+.. index::
+    single: Sobre a Python Brasil
+
 *********************
 Introdução
 *********************
@@ -19,6 +22,9 @@ O evento tem como objetivos:
     
     * Financiar ações da APyB;
 
+.. index::
+    single: Big Kahuna
+
 Big Kahuna
 =====================
 
@@ -27,6 +33,9 @@ A 'Big Kahuna' é a gerente do projeto, responsável por formar a equipe de orga
 Para ocupar esse cargo, a pessoa deve ser da comunidade Python Brasil e `associada a APyB <associacao.python.org.br/>`_.
 
 O evento é fruto do trabalho de diversas pessoas, e é responsabilidade de todas o sucesso da empreitada.
+
+.. index::
+    single: História
 
 História
 =====================
