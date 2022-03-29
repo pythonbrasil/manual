@@ -1,3 +1,6 @@
+.. index::
+    single: Python Brasil 2018
+
 Python Brasil 2018
 ========================
 

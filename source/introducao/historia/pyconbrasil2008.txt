@@ -1,3 +1,6 @@
+.. index::
+    single: PyConBrasil 2008
+
 PyConBrasil 2008
 ========================
 

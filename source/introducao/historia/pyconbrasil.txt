@@ -1,3 +1,6 @@
+.. index::
+    single: PyConDay 2005
+
 PyConBrasil / PyConDay 2005
 ===========================
 
