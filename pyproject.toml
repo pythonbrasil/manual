@@ -8,6 +8,7 @@ authors = ["Marco Rougeth <rougeth@users.noreply.github.com>"]
 python = "^3.8"
 Sphinx = "^4.4.0"
 myst-parser = "^0.17.0"
+sphinx-autobuild = "^2021.3.14"
 
 [tool.poetry.dev-dependencies]
 
