@@ -17,7 +17,7 @@ O manual está disponível online em [manual.pythonbrasil.org.br](https://manual
 
 ### Instalação
 
-1. Forke o [repositório original](https://github.com/[sua_usuaria]/manual.git)
+1. Forke o [repositório original](https://github.com/pythonbrasil/manual/fork)
 2. Clone o seu fork do repositório:
    ```
    git clone https://github.com/[sua_usuaria]/manual.git
