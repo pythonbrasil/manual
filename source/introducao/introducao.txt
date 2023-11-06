@@ -61,3 +61,8 @@ Nesta sessão estão disponíveis o resumo de cada Python Brasil.
     historia/pythonbrasil12
     historia/pythonbrasil13
     historia/pythonbrasil14
+    historia/pythonbrasil15
+    historia/pythonbrasil16
+    historia/pythonbrasil17
+    historia/pythonbrasil18
+    historia/pythonbrasil19
