@@ -108,6 +108,12 @@ Atividades:
    - Estrategia de comunicação (2023 adotamos evento educacional)
  - Definir Data e local e grade temporaria:
    - Grade temporaria seria um planejamento de slots quantos keynotes, quantas palestras, horarios, numeros de tutorias, dias de sprint, dias de tutorial
+   - o local para os tutorias devem incluir laboratorios de informatica.
+   - o local para as palestras seria bom contemplar 
+     - Banheiros
+     - Acessibilidade
+     - Sala para organização/keynotes
+     - Espaço para coffe break
  - Iniciar orçamentos junto com captação de recursos.
  - Iniciar chamada de trabalhos (C4P)
  - Iniciar votação interna de keynotes e viabilizar suas vindas
@@ -117,3 +123,16 @@ Atividades:
 Tenham sempre muito cuidado com paralelismo de atividades e concorrencia entre recursos, evitem sobrecarregar times especificos.
 
 
+Dentre todas as atividades é uma boa pratica fazer atas das reuniões e manter tudo organizado nos repositorios que são disponibilizados para o evento.
+
+### Outras dicas
+
+Concentre-se inicialmente em preparar e divulgar seu plano de patrocinio, tente definir rapidamente a identidade visual que sera adotada, assim ja tera uma base para tudo, lembre-se que empresas tem uma agenda complexa de pedido de patrocinio.
+
+Tente enviar o mais cedo possivel os planos para as empresas, e dee muita atenção as mesmas.
+
+Uma vez tendo viabilizado financeiramente, seu proximo foco deve ser as atividades e a grade, fazer o C4P e fazer as avaliações para pode divulgar cedo e confirmar cedo as palestras do evento.
+
+Chegando proximo ao evento concentre-se nos beneficios dos patrocinadores e em produzir todos os beneficios fisicos, exitem beneficios que precisam de entorno de 30 dias de antecipação como estandes, camisas, copos, alguns mais rapidos são as impressões como crachá, adesivos...
+
+A experiencia do evento deve correr sempre em paralelo mas no estagio final do evento isso sera muito necessario para finalizar compras (kit de banheiros, presente para palestrantes, keynotes, instrutores) e a organização atividades (pybar, algohave, djangogirls...).
