@@ -1,20 +1,24 @@
 # Organizando uma Python Brasil
 
-Vamos criar um manual para você que deseja organizar de uma Python Brasil tenha um norte. 
+Vamos criar um manual para você que deseja organizar uma Python Brasil tenha um norte. 
 Leia com atenção cada passo:
 
-Assim que você assumir essa responsabilidade, você precisa iniciar a organização do time os principais papéis necessarios são:
+Assim que você assumir essa responsabilidade, você precisa iniciar a organização do time que auxiliará a fazer o evento acontecer. 
+
+Os principais papéis necessarios são:
 
 #### Time de Captação Recursos
 O time de captação de recursos deve trabalhar na viabilização do evento, esse time deve trabalhar proximo ou compartilhar pessoas com o time de fiscal/financeiro, para que todos estejam sempre alinhados.
-- Buscar Parcerias 
+- Desenvolver Plano de Patrocinio
 - Buscar Patrocinios
-- Organizar Ingressos
+- Buscar Parcerias: 
+  - hoteis, restaurantes
+- Organizar Ingressos (Lotes, Codigos Promissionais)
 - Sistema de Check-in/Reembolso 
-- Desenvolver Media Kit/Plano de Patrocinio
 
 ####  Time de Financeiro/Fiscal
-Aqui vem uma parte burocrativa de manter sempre atualizado um fluxo de caixa e e um relacionamento proximo com a associação python brasil. Idealmente esse time deve ter uma proximidade tambem com o administrativo para que possam juntos trabalhar no custo previsto e total do evento.
+Aqui vem uma parte burocrática de manter sempre atualizado o fluxo de caixa e um relacionamento próximo com a associação python brasil(Apyb). 
+Idealmente esse time deve ter uma proximidade tambem com o administrativo para que possam juntos trabalhar no custo previsto e total do evento.
 - Organizar Fluxo de caixa
 - Previsibilidade de Custo
 - Fazer os pedidos de nota
@@ -23,11 +27,12 @@ Aqui vem uma parte burocrativa de manter sempre atualizado um fluxo de caixa e e
 
 ####  Time de Marketing/Publicidade
 Time que deve trabalhar junto com todos os demais para que a identidade do visual seja integralmente unificada, lembrando que o simples é sempre o melhor em todas as situações, dentre as muitas atividades algumas são:
+- Personalização e implantação da identidade visual no Plano de Patrocinio.
 - Gerenciar as Redes sociais
 - Fazer as postagens
 - Desenvolver a Identidade visual do evento
   - criar moockups para site
-  - criar moockups para redes
+  - criar moockups para redes (thumbs das redes sociais)
   - criar moockups para lonas
   - criar moockups para banners
   - criar moockups para paineis
@@ -38,19 +43,32 @@ Time que deve trabalhar junto com todos os demais para que a identidade do visua
   - linkedin
   - instagram
   - twitter
+  - facebook
+  - telegram
   - solução de ingressos (auxiliar nas resposta de duvidas)
   - solução de palestras (auxiliar nas resposta de duvidas)
-  - email
+  - e-mail
 
 ####  Time de Infraestrutura
-Essa galera vai ser fundamental quando mais proximo do dia estiver chegando, e é muito importante que estejam proximos ao local do evento para viabilizar melhor todas as situações, pessoas distantes da cidade sede podem ajudar mas seriam melhor alocadas em outros times, dentre as responsabilidades do time:
+
+Esse time vai ser fundamental próximo ao evento, e é muito importante que estejam proximos ao local do evento para viabilizar melhor todas as situações, pessoas distantes da cidade sede podem ajudar, mas seriam melhor alocadas em outros times, dentre as responsabilidades do time:
 - Orçar e fechar o Local do evento
+- Orçar e fechar equipe de limpeza (caso não esteja inclusa na contratação do local principal)
 - Orçar e fechar Internet
 - Orçar e fechar Fotografia
-- Organizar Transmissão online
+- Orçar e fechar equipe de som
+- Orçar e fechar equipe de filmagem
+- Orçar e fechar equipe de transmissão online (provavelmente será a mesma da de filmagem)
 - Orçar e fechar Tradução Simultanea
-- Orçar e fechar Comunicação no dia do evento
+- Orçar e fechar Comunicação no dia do evento 
+  - Radios ou um canal rapido de conversa para o operacional
 - Orçar e fechar time de Libras
+- Organizar transmissão
+  - Chaves do youtube 
+  - links para as transmissões
+  - programação de start e stop das trasnmissões
+- Buscar locais para realização dos tutoriais
+
 
 ####  Time de Experiencia do evento
 O time de experiencia do usuario deve conseguir integrar as pessoas e mostrar o carinho que a cidade sede quer transmitir, tentando organizar atividades espaços e experiencias para as pessoas que vem ao evento.
@@ -77,16 +95,35 @@ O time administrativo, deve conter principalmente pessoas de tomada de descisão
   - brindes
   - etc....
   - 
+
+
 ####  Time de Tecnico
 O time tecnico é de longe talvez o que mais pessoas va querer participar pois é um evento de tecnologia. Mas esse time tem a responsabilidade de:
-- Cuidar das atualizações do site
-- Cuidar dos acessos (senhas, tokens, sistemas)
-- Criar sistemas de notificação e auxilio aos demais times.
-    
+- Criar o site do evento utilizando a URL que a Apyb disponibiliza (aquela 2022.pyhtonbrasil, 2023.pythonbrasil, etc) com base na identidade visual criada pelo time de design.
+- Manter o site atualizado com todas as informações que forem passadas ao público (keynotes, plano de patrocinio, disponibilização da grade de palestras, local do evento, etc)
+- Cuidar dos acessos (Autorizar acessos a arquivos, sistemas e repositorios)
+- Criar sistemas de notificação, criando formas de facilitar para que os participantes possam facilmente receber noticias do evento
+  - Aplicativo
+  - Canais em chats 
+  - Notificar atualizações do site 
+- Criar integração com plataforma de ingressos e palestras.
+  - links ou outras integrações
+- Auxilio aos demais times.
+
+#### Time de Conteúdo
+
+Responsável por gerenciar a grade de atividades oficiais do evento como palestras, tutoriais, assembleias, keynotes.
+- Criação e configuração do evento na ferramenta de submissão de atividades (por padrão utilizamos a ferramenta pretalx)
+- Criação do formulário de submissão de atividades considerando apenas aquelas que as pessoas possam vir a submeter.
+- Avaliação de atividades para definir quais entram na grade
+- Criação e configuração do evento na ferramenta de ingressos (por padrão utilizamos o eventbrite)
+- Porta-voz de relacionamento com os keynotes
+  
 
 ## Gestão e organização
 
-Uma vez feito a descrição dos times defina uma agenda mensal/quinzenal/semanal conforme o evento se aproxima. Irei sugerir aqui uma ordem de trabalho mas não existe regra essa ordem esta sempre em discução e deve ser sempre atualizada:
+Uma vez feito a descrição dos times defina uma agenda mensal/quinzenal/semanal conforme o evento se aproxima. 
+Irei sugerir aqui uma ordem de trabalho mas não existe regra essa ordem esta sempre em discução e deve ser sempre atualizada:
 
 
 Atividades:
@@ -106,10 +143,11 @@ Atividades:
      - digitais
    - Cotas
    - Estrategia de comunicação (2023 adotamos evento educacional)
+
  - Definir Data e local e grade temporaria:
    - Grade temporaria seria um planejamento de slots quantos keynotes, quantas palestras, horarios, numeros de tutorias, dias de sprint, dias de tutorial
    - o local para os tutorias devem incluir laboratorios de informatica.
-   - o local para as palestras seria bom contemplar 
+   - o local para as palestras é necessário contemplar 
      - Banheiros
      - Acessibilidade
      - Sala para organização/keynotes

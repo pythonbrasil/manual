@@ -7,11 +7,11 @@ Python Brasil 2023
 +--------------+------------------------------+
 | Nome Oficial | Python Brasil 2023           |
 +--------------+------------------------------+
-| Local        | Online                       |
+| Local        | Presencial && Online         |
 +--------------+------------------------------+
-| Data         |                              |
+| Data         | 30/10/2023 á 05/11/2023      |
 +--------------+------------------------------+
-| Big Kahuna   |                              |
+| Big Kahuna   | Adriano Margarin             |
 +--------------+------------------------------+
 
 Números
@@ -21,7 +21,7 @@ Participantes
 `````````````
 
 +-----------------------+-----+
-| Inscritos             |  -  |
+| Inscritos             | 313 |
 +-----------------------+-----+
 | Mulheres inscritas    |  -  |
 +-----------------------+-----+
@@ -42,9 +42,9 @@ Atividades
 +---------------------+---+
 | Tutoriais           | - |
 +---------------------+---+
-| Sprint              | - |
+| Sprint              | 1 |
 +---------------------+---+
-| Django Girls        | - |
+| Django Girls        | ñ |
 +---------------------+---+
 
 Financeiro
@@ -57,14 +57,22 @@ Financeiro
 +--------------------------+---+
 | Receita Patrocinadores   | - |
 +--------------------------+---+
-| Número de Patrocinadores | - |
+| Número de Patrocinadores | 6 |
 +--------------------------+---+
 
 
 Patrocinadores
 ``````````````
 +-----------+----------+
-| -         | Diamante |
+| 1         | Diamante |
++-----------+----------+
+| 3         | Prata    |
++-----------+----------+
+| 1         | Bronze   |
++-----------+----------+
+| 1         | Cobre    |
++-----------+----------+
+| 1         | Apoio    |
 +-----------+----------+
 
 
@@ -72,6 +80,11 @@ Patrocinadores
 
 
 **Keynotes**
-
+- Julio Biason
+- Filipe Cifali
+- Gabriela Oliveira
+- Jeferson Fernando
+- Andreza Rocha
+- Érico Andrei
 
 **Prêmio Dorneles Treméa & Jean Ferri**
