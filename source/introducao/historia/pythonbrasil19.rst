@@ -4,15 +4,15 @@
 Python Brasil 2023
 ========================
 
-+--------------+------------------------------+
-| Nome Oficial | Python Brasil 2023           |
-+--------------+------------------------------+
-| Local        | Presencial && Online         |
-+--------------+------------------------------+
-| Data         | 30/10/2023 á 05/11/2023      |
-+--------------+------------------------------+
-| Big Kahuna   | Adriano Margarin             |
-+--------------+------------------------------+
++--------------+----------------------------------------+
+| Nome Oficial | Python Brasil 2023                     |
++--------------+----------------------------------------+
+| Local        | Presencial && Online                   |
++--------------+----------------------------------------+
+| Data         | 30 de outubro á 05 de novembro de 2023 |
++--------------+----------------------------------------+
+| Big Kahuna   | Adriano Margarin                       |
++--------------+----------------------------------------+
 
 Números
 -------
@@ -88,3 +88,9 @@ Patrocinadores
 - Érico Andrei
 
 **Prêmio Dorneles Treméa & Jean Ferri**
+- JS Bueno
+- Juliana Karoline
+- Alynne Ferreira
+- Ryllari Costa
+- Rafael Fontenelle
+- Ana Cecília Vieira

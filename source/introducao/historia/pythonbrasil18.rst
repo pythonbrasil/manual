@@ -7,9 +7,9 @@ Python Brasil 2022
 +--------------+------------------------------+
 | Nome Oficial | Python Brasil 2022           |
 +--------------+------------------------------+
-| Local        | Online                       |
+| Local        | Presencial && Online         |
 +--------------+------------------------------+
-| Data         |                              |
+| Data         | 17 a 23 de Outubro 2022      |
 +--------------+------------------------------+
 | Big Kahuna   |                              |
 +--------------+------------------------------+
@@ -64,14 +64,30 @@ Financeiro
 Patrocinadores
 ``````````````
 +-----------+----------+
-| -         | Diamante |
+| 1         | Ouro     |
 +-----------+----------+
-
+| 5         | Bronze   |
++-----------+----------+
+| 3         | Cupuaçu  |
++-----------+----------+
+| 6         | Cobre    |
++-----------+----------+
 
 **Voluntários**
 
 
 **Keynotes**
+- Eduardo Mendes
+- Elloá B. Guedes
+- Eulanda Miranda
+- Guilherme Felitti
+- Leticia Portella
+- Lidiane Monteiro
+- Mariatta
+- Valcléia Solidade
 
 
 **Prêmio Dorneles Treméa & Jean Ferri**
+- Bianca Rosa
+- Lidiane Monteiro
+- Melissa Weber

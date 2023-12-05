@@ -9,7 +9,7 @@ Python Brasil 2020
 +--------------+------------------------------+
 | Local        | Online                       |
 +--------------+------------------------------+
-| Data         |                              |
+| Data         | 02 a 08 de novembro de 2020  |
 +--------------+------------------------------+
 | Big Kahuna   |                              |
 +--------------+------------------------------+
@@ -72,6 +72,14 @@ Patrocinadores
 
 
 **Keynotes**
+- Melissa Weber Mendonça
+- Diana Rodriguez
+- Thais Viana
+- Álvaro Justen (Turicas)
+- Ana Paula Gomes
 
 
 **Prêmio Dorneles Treméa & Jean Ferri**
+- Débora Azevedo
+- Felipe de Morais
+- Mário Sérgio

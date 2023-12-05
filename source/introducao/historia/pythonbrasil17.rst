@@ -9,7 +9,7 @@ Python Brasil 2021
 +--------------+------------------------------+
 | Local        | Online                       |
 +--------------+------------------------------+
-| Data         |                              |
+| Data         | 11 a 17 outubro de 2021      |
 +--------------+------------------------------+
 | Big Kahuna   |                              |
 +--------------+------------------------------+
@@ -50,21 +50,25 @@ Atividades
 Financeiro
 ``````````
 
-+--------------------------+---+
-| Receita Total            | - |
-+--------------------------+---+
-| Receita Inscrições       | - |
-+--------------------------+---+
-| Receita Patrocinadores   | - |
-+--------------------------+---+
-| Número de Patrocinadores | - |
-+--------------------------+---+
++--------------------------+---------------+
+| Receita Total            | R$ 273.051,52 |
++--------------------------+---------------+
+| Receita Inscrições       | R$ 0,00       |
++--------------------------+---------------+
+| Receita Patrocinadores   | R$ 273.051,52 |
++--------------------------+---------------+
+| Número de Patrocinadores | 7             |
++--------------------------+---------------+
 
 
 Patrocinadores
 ``````````````
 +-----------+----------+
-| -         | Diamante |
+| 3         | Ouro     |
++-----------+----------+
+| 3         | Prata    |
++-----------+----------+
+| 1         | Bronze   |
 +-----------+----------+
 
 
@@ -72,6 +76,13 @@ Patrocinadores
 
 
 **Keynotes**
-
+- Kizzy Terra e Hallison Paz
+- Eduardo Cuducos
+- Anicely Santos
+- Gabi Cavalcante
+- Yasodara Córdova
 
 **Prêmio Dorneles Treméa & Jean Ferri**
+- Eduardo Mendes (Dunossauro)
+- Jessica Temporal
+- Letícia Portella
