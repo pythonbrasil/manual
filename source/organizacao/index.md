@@ -220,7 +220,7 @@ Dentre todas as atividades é uma boa pratica fazer atas das reuniões e manter 
 
 
 
-# Tretas comuns:
+# Tretas comuns
 
 
 #### Organização, Palestrantes, Ministrantes E os Ingressos
