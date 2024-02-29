@@ -235,13 +235,15 @@ Levem em consideração os seguintes pontos:
 > Deve-se deixar isso explicito a todos, pois o evento não tem orçamento proprio ele deve ser sempre autocontido mesmo as camisetas da organização saem do custo do evento.
 
 
-####  Codigo de conduta (CDC)
+####  Código de conduta (CDC)
 ---
-O comite de codigo de conduta é organizado e montado com ajuda da organização, mas é totalmente independente tendo poder até em cima da organização durante a realização do evento. 
+O Comitê de Código de Conduta é organizado e montado com ajuda da organização, mas é totalmente independente tendo poder até em cima da organização durante a realização do evento. 
 
-O CDC só cobre as atividades oficiais da python brasil (tutoriais, sprints, palestras, django-girls), todos os demais eventos extraofficiais (algorave, pybar, pos-evento) pode causar situações para os proximos dias mas o CDC não atua fora do evento (possiveis situações devem ser tratadas no evento). 
+O CDC só cobre as atividades oficiais da Python Brasil (tutoriais, sprints, palestras, Django Girls), todos os demais eventos extraoficiais (Algorave, PyBar, Pós-Evento) pode causar situações para os próximos dias, mas o CDC não atua fora do evento (possíveis situações devem ser tratadas no evento). 
 
 A comunidade se posiciona sempre e ajuda em outras situações, mas a organização do evento não pode se comprometer com isso.
+
+> Importante destacar que é imprescindível, que toda a organização e comitê estejam a par do conteúdo do [Código de Conduta](https://python.org.br/cdc/).
 
 #### Apoio a grupos subrepresentados
 ---
