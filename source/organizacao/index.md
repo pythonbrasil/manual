@@ -151,7 +151,7 @@ Empresas são pessoas só que mais burocráticas, pedindo com jeitinho e educaç
 
 ## Protótipo de roadmap
 
-Sugestão de trabalhos, as atividades e a ordem estão sempre em discussão e devem ser sempre atualizadas:
+> Sugestão de trabalhos, as atividades e a ordem estão sempre em discussão e devem ser sempre atualizadas:
 
 Atividades:
  - Definir calendario de reuniões (mensal, quinzenal, semanal)
