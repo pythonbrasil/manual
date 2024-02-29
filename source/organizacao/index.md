@@ -223,14 +223,16 @@ Dentre todas as atividades é uma boa pratica fazer atas das reuniões e manter 
 # Tretas comuns
 
 
-#### Organização, Palestrantes, Ministrantes E os Ingressos
+#### Os organizadores, palestrantes, ministrantes de tutorial, pagam ingresso?
 ---
-Os organizadores, palestrantes, ministrantes de tutorial, pagam ingresso? Todo ano é discutido esse tema para cada um desses grupos
+Essa decisão é tomada pela organização. Dessa forma, todo ano é discutido esse tema para cada um desses grupos.
+
+Levem em consideração os seguintes pontos:
  * Definam se organização paga ingresso e principalmente quem será considerado "organização". Uma opção é considerar que todas as pessoas que forem trabalhar no evento presencial não poderão aproveitá-lo, pois estarão ocupadas com as responsabilidades de org, então seria bom não pagarem.
- * Definam isso para palestrantes e ministrantes de tutoriais ANTES de abrir o Call For Pappers para já deixar explicito na submissão.
+ * Definam isso para palestrantes e ministrantes de tutoriais ANTES de abrir o Call For Papers para já deixar explicito na submissão.
  * Dependendo da situação econômica da região, do pais e da verba do evento, essa questão pode ser reconsiderada. 
 
-Deve-se deixar isso explicito a todos, pois o evento não tem orçamento proprio ele deve ser sempre autocontido mesmo as camisetas da organização saem do custo do evento.
+> Deve-se deixar isso explicito a todos, pois o evento não tem orçamento proprio ele deve ser sempre autocontido mesmo as camisetas da organização saem do custo do evento.
 
 
 ####  Codigo de conduta (CDC)
