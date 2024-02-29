@@ -245,14 +245,13 @@ A comunidade se posiciona sempre e ajuda em outras situações, mas a organizaç
 
 > Importante destacar que é imprescindível, que toda a organização e comitê estejam a par do conteúdo do [Código de Conduta](https://python.org.br/cdc/).
 
-#### Apoio a grupos subrepresentados
+#### Programas de apoio de custo e ingressos cortesia para grupos sub-representados
 ---
 
-Programas de apoio de custo e ingressos cortezia para grupos subrepresentados: esse tipo de programa é sempre bem vindo, mas a organização deve sempre olhar para o financeiro e a viabilização do evento. 
+Esse tipo de programa é sempre bem vindo, mas a organização deve sempre olhar para o financeiro e a viabilização do evento. 
 
-O evento estando alinhado pode-se ir atrás desses grupos e viabilizar a vinda deles atravez de iniciativas dos próprios grupos com o apoio da organização (apoiar na divulgação, alcance, e suporte no sentido de centralizar com o grupo "X").
+A organização estando definida e organizada, pode-se ir atrás desses grupos e viabilizar a vinda deles através de iniciativas dos próprios grupos com o apoio da organização (apoiar na divulgação, alcance e suporte para viabilizar a parceria).
 
-A organização não deve se comprometer com a criação desses programas, pois é uma atividade da comunidade. A organização sempre é e provavelmente sempre vai ser sobrecarregada com outras atividades.
-
+> A organização não deve se comprometer com a criação desses programas, pois é uma atividade da comunidade. A organização sempre é, e provavelmente sempre vai ser, sobrecarregada com outras atividades.
 
 **OBS**: Cuidado para não abrir precedentes que possam exigir que toda a organização faça pois a comunidade gostou.
