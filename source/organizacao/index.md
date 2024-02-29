@@ -156,10 +156,10 @@ Sugestão de trabalhos, as atividades e a ordem estão sempre em discussão e de
 Atividades:
  - Definir calendario de reuniões (mensal, quinzenal, semanal)
  - Definir tamanho do evento:
-  - Numero de trilhas
-  - Numero de pessoas
-  - Numero de tutoriais
-  - Numero de locais (Muitas vezes não é possivel achar um espaço que contemple tutorias e palestras)
+    - Numero de trilhas
+    - Numero de pessoas
+    - Numero de tutoriais
+    - Numero de locais (Muitas vezes não é possivel achar um espaço que contemple tutorias e palestras)
  - Definir Times
  - Definir Identidade Visual com principais elementos e ja com mockups.
     - Alguns mockups uteis:
