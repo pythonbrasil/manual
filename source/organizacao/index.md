@@ -115,11 +115,17 @@ O time tecnico é de longe talvez o que mais pessoas vão querer participar, poi
 ### Time de Conteúdo
 
 Responsável por gerenciar a grade de atividades oficiais do evento como palestras, tutoriais, assembleias, keynotes.
+
 - Criação e configuração do evento na ferramenta de submissão de atividades (por padrão utilizamos a ferramenta pretalx)
 - Criação do formulário de submissão de atividades
 - Avaliação de atividades para definir quais entram na grade
 - Definição de estratégias de seleção de keynotes (votação garantia que ja não tenha sido, alem de estrategia de marketing encima do keynote)
-  
+
+> É comum (apesar de não obrigatório) que a Assembleia Geral da APyB ocorra presencialmente
+> durante a Python Brasil. A convocação de Assembleias possui regras definidas no
+> [Estatuto](https://github.com/apyb/estatuto/) da Associação para que tenham validade
+> legal. Fiquem atentos, especialmente em relação a **prazos de divulgação** às pessoas
+> associadas para evitar problemas que impeçam sua realização.
 
 ## Definição do evento
 
