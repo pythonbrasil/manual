@@ -1,11 +1,8 @@
-Modelo de proposta
-=============================
+# Modelo de proposta
 
-Proposta para sediar a PythonBrasil[x]
----------------------------------------
+## Proposta para sediar a PythonBrasil[x]
 
-Racional da proposta
-^^^^^^^^^^^^^^^^^^^^^^
+### Racional da proposta
 
 A região metropolitana de São Paulo representa 12,38% do PIB brasileiro[1], é o 
 maior mercado de tecnologia da informação da América Latina e apresentando 
@@ -26,30 +23,27 @@ Além destes fatores vale lembrar que empresas como Serpro e Caixa possuem
 centros de desenvolvimento na cidade, o que aumenta o potencial para 
 participação de usuários de Python que não são próximos a comunidade.
 
-Data proposta
-++++++++++++++++++++++++
+#### Data proposta
 
 A PythonBrasil[x] deve ser realizada nos dias:
 
-    * 27 de Setembro (Treinamentos)
-    * 28 de Setembro (Treinamentos)
-    * 29 de Setembro (Conferência)
-    * 30 de Setembro (Conferência)
-    * 01 de Outubro (Conferência)
-    * 02 de Outubro (Sprints)
-    * 03 de Outubro (Sprints)
+* 27 de Setembro (Treinamentos)
+* 28 de Setembro (Treinamentos)
+* 29 de Setembro (Conferência)
+* 30 de Setembro (Conferência)
+* 01 de Outubro (Conferência)
+* 02 de Outubro (Sprints)
+* 03 de Outubro (Sprints)
 
 Este período não coincide com feriados religiosos ou feriados locais em nossa
 cidade.
 
-Visão sobre a Conferência 
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+### Visão sobre a Conferência
 
 Caso sejamos escolhidos como organizadores da PythonBrasil[x] nossa visão para
 cada um dos três objetivos propostos está detalhada abaixo.
 
-Encontro da Comunidade
-++++++++++++++++++++++++
+#### Encontro da Comunidade
 
 Como sempre, pretendemos propiciar um ambiente agradável aos pythonistas de
 longa data e incentivar aqueles que não participaram das últimas edições.
@@ -58,8 +52,7 @@ Incentivaremos a submissão de palestras de nível mais avançado e a realizaç�
 eventos paralelos à PythonBrasil para que este público se veja motivado a
 participar desta edição.
 
-Porta de entrada na comunidade
-++++++++++++++++++++++++++++++++
+#### Porta de entrada na comunidade
 
 Por outro lado devemos atrair novos participantes para a comunidade e com isto
 em mente usaremos os PythonCampus como forma de atrair estudantes da região
@@ -72,30 +65,27 @@ Nossa intenção é ter parceria com outras comunidades e eventualmente realizar
 promoções de venda cruzada de inscrições para outros eventos realizados na
 mesma cidade.
 
-Financiar a APyB
-++++++++++++++++++++++++
+#### Financiar a APyB
 
 Vislumbramos duas fontes de receita direta para a APyB provenientes desta edição
 da PythonBrasil: Royalties e Novas Associações.
 
-Royalties:
-    Nossa proposta, como declarado abaixo, é repassar 15% do valor líquido das 
-    inscrições -- excluindo-se as taxas dos gateways de pagamento -- para a APyB
-    ao final do evento. Em nossa planilha demonstramos uma previsão de qual
-    seria este valor.
+**Royalties:**
+Nossa proposta, como declarado abaixo, é repassar 15% do valor líquido das 
+inscrições -- excluindo-se as taxas dos gateways de pagamento -- para a APyB
+ao final do evento. Em nossa planilha demonstramos uma previsão de qual
+seria este valor.
 
-Novas Associações:
-    Ao apresentarmos um valor de inscrição mais baixo para associados da APyB do
-    que para qualquer outra categoria de inscritos -- mesmo Palestrantes ou 
-    Estudantes -- queremos incentivar que as pessoas se inscrevam na APyB e 
-    então façam a inscrição no evento. Esta abordagem deve ser bem sucedida caso
-    tenhamos um percentual grande de novos participantes no evento.
+**Novas Associações:**
+Ao apresentarmos um valor de inscrição mais baixo para associados da APyB do
+que para qualquer outra categoria de inscritos -- mesmo Palestrantes ou 
+Estudantes -- queremos incentivar que as pessoas se inscrevam na APyB e 
+então façam a inscrição no evento. Esta abordagem deve ser bem sucedida caso
+tenhamos um percentual grande de novos participantes no evento.
 
-Sobre o Local
-^^^^^^^^^^^^^^^^^
+### Sobre o Local
 
-Transportes e hotelaria
-+++++++++++++++++++++++++
+#### Transportes e hotelaria
 
 A região metropolitana de São Paulo é de fácil acesso para participantes vindos
 de todas as regiões do país e também do exterior. Contando com os Aeroportos de 
@@ -109,8 +99,7 @@ A estrutura hoteleira da região é a mais ampla e diversificada do país, sendo
 cidade hoje o principal destino turístico do país, graças a sua estrutura de 
 eventos e lazer.
 
-Local do evento
-++++++++++++++++++
+#### Local do evento
 
 Contrataremos um centro de convenções para a realização do evento. Com isto
 esperamos oferecer uma estrutura especializada e a oportunidade de patrocínio a
@@ -126,12 +115,10 @@ de opções locais para a montagem e gestão do espaço. Este problema não deve
 ocorrer em São Paulo, que usualmente recebe este tipo de eventos e é, ou é 
 próxima da, sede destas empresas.
 
-.. note:: A contratação de um centro de convenções está considerada na planilha
-          de custos anexa a esta proposta
+> **Nota:** A contratação de um centro de convenções está considerada na planilha
+> de custos anexa a esta proposta
 
-
-Modelo de trabalho
-^^^^^^^^^^^^^^^^^^^^^^^^
+### Modelo de trabalho
 
 Nossa proposta de trabalho é similar ao modelo utilizado pela Plone Foundation
 para a PloneConference. A responsabilidade por receitas e despesas ficará a 
@@ -142,8 +129,7 @@ Este modelo permite, em nossa visão, uma gestão mais efetiva da parte financei
 do evento, que contaria com investimento superior ao realizado nas edições 
 anteriores.
 
-Sobre a organização
-^^^^^^^^^^^^^^^^^^^^^^^^
+### Sobre a organização
 
 A organização do evento será encabeçada por **Érico Andrei**, sócio da Simples
 Consultoria, membro fundador da APyB, membro da Plone Foundation e 
@@ -155,13 +141,12 @@ sede seja definida.
 
 O restante da equipe de organização será composta por:
 
-    * **Karyn Nassif**, sócia da Diaspar. Organizadora do World Usability Day em 
-      São Paulo por dois anos, responsável pela gestão operacional do Plone 
-      Symposium South America e responsável pela comercialização da PythonBrasil 
-      5 e 6.
+* **Karyn Nassif**, sócia da Diaspar. Organizadora do World Usability Day em 
+  São Paulo por dois anos, responsável pela gestão operacional do Plone 
+  Symposium South America e responsável pela comercialização da PythonBrasil 
+  5 e 6.
 
-    * **André Nogueira**, sócio da Simples Consultoria. Organizador do World 
-      Plone Day em São Paulo durante os anos de 2008, 2009 e 2010. Participou da
-      equipe de organização do Plone Symposium South America e é o responsável
-      pelo design do site da PythonBrasil desde sua segunda edição.
-
+* **André Nogueira**, sócio da Simples Consultoria. Organizador do World 
+  Plone Day em São Paulo durante os anos de 2008, 2009 e 2010. Participou da
+  equipe de organização do Plone Symposium South America e é o responsável
+  pelo design do site da PythonBrasil desde sua segunda edição.
