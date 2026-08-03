@@ -1,0 +1,77 @@
+# Orientações Específicas
+
+## Primeiros Passos para Iniciar o Evento
+- Definir a equipe organizadora
+- Solicitar apoio da APyB preenchendo o [formulário](https://apyb.python.org.br/associados/guias/como-organizar-eventos/#como-funciona)
+- Definir a data (preferencialmente em fim de semana com emenda de feriado, para facilitar o translado dos participantes)
+- Escolher o local do evento principal (palestras)
+    - Obs: os locais para tutoriais e sprints não precisam ser necessariamente o mesmo das palestras e podem ser vistos depois
+- Criar o documento de patrocínio, também chamado de Media Kit
+- Divulgar o documento de patrocínio para empresas com potencial de patrocínio
+- Reuniões periódicas (online ou presencialmente). Sugestão de periodicidade:
+    - Faltando 12 a 8 meses: mensalmente
+    - Faltando 7 a 4 meses: quinzenalmente
+    - Faltando 3 meses até o evento: semanalmente
+
+## Sugestões (baseado em experiências prévias)
+- Local do Evento
+    - Evento principal (Palestras)
+        - Normalmente há pelo menos 2 trilhas de palestras, então procure locais que comporte isso
+        - Se houver verba, veja a necessidade de um espaço infantil para os pais poderem participar do evento tranquilamente
+    - Tutoriais
+        - Pode ser em local diferente do evento principal, já que a estrutura requer um outro formato: carteiras para apoiar notebook e tomadas, projetor, projetor, mesa e cadeira para o ministrante e internet
+    - Sprint
+        - Pode ser em qualquer espaço com mesas, cadeiras e internet
+- Preparando o local do evento
+    - Tenha placas para indicar o nome de cada sala/auditório, isso facilita para os participantes se localizarem
+    - Dependendo do local, também é interessante colocar setas pelo caminho indicando onde é o evento
+    - Caso alguém da organização se disponibilize a levar, ter uma impressora à disposição ajuda a criar cartazes que sejam necessários de última hora
+- Site
+    - Utilize os widgets do Pretalx para embutir a programação no site, assim caso haja modificações na grade não é necessário alterar em dois locais separados
+    - O site será acessado majoritariamente pelo celular durante o evento, ter um layout responsivo é indispensável
+- Credenciamento
+    - O pico de participantes costuma ser no primeiro dia do evento principal. Evite filas se preparando com antecedência:
+        - Tenha diversos computadores com acesso ao sistema de ingressos e tenha voluntários em quantidade suficiente para operá-los
+        - Os kits dos participantes devem ser organizados com antecedência, para evitar atrasos na abertura do evento
+- Coffee break
+    - Café: tenha sempre e em grandes quantidades
+    - Recomenda-se que sejam feitas postagens nas redes sociais do evento incentivando cada participante a levar uma caneca própria para evitar o uso de descartáveis
+    - Se for o Caipyra, é altamente recomendado que se tenha paçoquinha e quentão, pois está na divulgação do evento
+    - Perguntar no formulário de inscrição se os participantes têm restrições alimentares
+    - Sempre tenha itens veganos: salgados e doces
+    - Se possível, tenha itens diet para diabéticos
+    - Salgados fritos funcionam melhor à tarde
+    - Salgados assados funcionam em qualquer horário
+    - Pão de queijo costuma ter boa saída e ótimo custo benefício
+    - Bolos não costumam ter boa saída
+    - Docinhos como brigadeiro e beijinho costumam ter melhor aceitação
+    - Caso precise de refrigeração, veja se o local possui e fornece ou se precisará levar bolsas térmicas
+    - Planilha de estimativa    
+        - Crie uma planilha modularizada, com os possíveis itens a serem comprados e em cada dia, especificando o fornecedor, o valor de cada item, a quantidade estimada que cada participante consome, atrelando a uma quantidade estimada de participantes total por dia. 
+        - Varie o tipo dos salgados e doces por período e dia, se possível, para não ficar repetitivo e enjoativo
+        - A quantidade de pessoas veganas pode ser estimada por uma porcentagem do total de participantes no dia, entre 10 e 15% é uma estimativa que funciona bem pelo histórico
+            - Pessoas com alergias e restrições alimentares também costumam se beneficiar dos itens veganos, por isso esta porcentagem acima
+- Kit do participante
+    - Camisetas
+        - É interessante utilizar uma cor para os participantes, outra cor que dê destaque para a organização e uma distinta para a equipe de resposta do CDC. Sugere-se usar cor branca no silk das camisetas para que seja criada uma única tela de silkagem, mudando apenas a cor da camiseta
+        - Colocar o logo dos patrocinadores na camiseta é uma contrapartida complexa, dado que nem sempre os contratos de patrocínio são fechados antes da confecção das camisetas, patrocinadores atrasam o envio da logo vetorizada, e outros imprevistos podem acontecer
+    - Crachás
+        - Para otimizar o fluxo no credenciamento, sugere-se que os crachás possuam um campo em branco para que **cada participante** escreva seu nome e pronome, além de deixar a cargo dos participantes a inserção do barbante ou o que for segurar o crachá no pescoço
+        - Caso a verba permita, tenha adesivos para colar nos crachás para indicar:
+            - Pronomes, por exemplo?
+                - Ela/Dela
+                - Elu/Delu
+                - Ile/Dile
+                - Ele/Dele
+            - O quanto a pessoa está apta para conversas, por exemplo:
+                - Pode chegar!
+                - Prefiro ficar na minha
+                - Prefiro tomar a iniciativa
+                - ... 
+            - Palestrante
+            - Primeiro evento
+    - Caso o kit tenham muitos itens (caneca, adesivos, material de divulgação de empresas, etc), pode ser útil ter uma sacola. As de TNT costumam ser mais em conta que as ecobags de tecido, porém são menos duráveis
+- Participação da APyB
+    - Ter um stand (ou mesa) para a APyB divulgar a associação e conseguir novos associados
+    - Nos slides da organização do evento, salientar a importância da APyB para realizar os eventos da comunidade Python e incentivar as pessoas a se associarem
+    - Reservar 5min em horário nobre (antes do primeiro Keynote ou durante a abertura) para a APyB se apresentar
