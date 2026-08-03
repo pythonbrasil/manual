@@ -1,0 +1,51 @@
+# PyConBrasil / PyConDay 2005
+
+## Informações Gerais
+
+| Item | Detalhe |
+|------|---------|
+| Nome Oficial | PyConDay |
+| Local | Unicamp, Campinas, São Paulo |
+| Data | 28/04/2005, 29/04/2005 |
+| Organizador | Rodrigo Senra |
+
+## Números
+
+| Item | Valor |
+|------|-------|
+| Palestras | 14 |
+| Palestrantes | N/D |
+| Treinamentos | 0 |
+| Inscritos | ~ 90 |
+| Receita Inscrição | R$1.380,00 |
+| Patrocinadores | 0 |
+| Apoiadores | 1 |
+| Receita Patrocínio | R$0,00 |
+
+## Resumo
+
+O PyConDay foi realizada no Centro de Computação da Unicamp, em 2005, sob a organização do Rodrigo Senra e Rubens Queiroz (responsável pela dicas-l) e contou com cerca de 90 participantes.
+
+Planejada inicialmente para ser um encontro de um dia, foi denomindada PyConDay, mas o evento se expandiu para dois dias de palestras e foi conhecido como 1o. PyConBrasil.
+
+## O Outro PyConDay
+
+Ainda no mesmo ano, no dia 18 de outubro, houve um evento de um dia, organizado pela equipe do SERPRO/RJ: Giuseppe Romagnoli, Maria-Prado Lima, Luis Guilherme Aldabalde, entre outros. Este evento se chamou PyConDay e foi realizado no Serpro RJ, mostrando o vigor da comunidade e a demanda por uma conferência de Python periódica e de abrangência regional.
+
+Este evento não é considerado **oficialmente** na contagem da PythonBrasil, mas é utilizado para a explicação do índice que parece começar em 1 no logotipo das edições mais recentes. -- ex: PythonBrasil[5] (deveria ser PythonBrasil[4]).
+
+## Inscrições
+
+| Categoria | Até 11/04/2005 | Até 18/04/2005 | Até 25/04/2005 | Depois de 26/04 |
+|-----------|----------------|----------------|----------------|-----------------|
+| Individual | 15,00 | 20,00 | 25,00 | 30,00 |
+
+> **Nota:** Todo o faturamento com inscrições foi revertido para a Casa de Repouso Bom Pastor.
+
+## Imagens do evento
+
+![Rodrigo Senra](../imagens/senra.jpg)
+
+![PyConDay](../imagens/pyconday.jpg)
+
+![Python Brasil 1](../imagens/pythonbrasil-1.jpg)

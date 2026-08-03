@@ -1,0 +1,71 @@
+# Python Brasil 2009
+
+## Informações Gerais
+
+| Item | Detalhe |
+|------|---------|
+| Nome Oficial | PythonBrasil[5] |
+| Local | UCS, Caxias do Sul, Rio Grande do Sul |
+| Data | 10/09/2009, 11/09/2009, 12/09/2009 |
+| Organizador | Dorneles Treméa |
+
+## Números
+
+| Item | Valor |
+|------|-------|
+| Palestras | 26 |
+| Palestrantes | N/D |
+| Keynotes | 2 |
+| Treinamentos | 9 |
+| Inscritos | 132 |
+| Receita Inscrição | N/D |
+| Patrocinadores | #TODO |
+| Apoiadores | #TODO |
+| Receita Patrocínio | R$16.250,00 |
+
+## Resumo
+
+Em 2009 o nome sofre alteração e temos a PythonBrasil [5], a quinta edição do evento, realizada em Caxias do Sul, na UCS, Universidade de Caxias do Sul, durante os dias 10, 11 e 12 de Setembro de 2009.
+
+O Big Kahuna foi Dorneles Treméa, contando com o apoio da equipe da UCS.
+
+Jacob Kaplan-Moss, co-criador do Django, e Collin Winter, engenheiro do Google foram os palestrantes internacionais deste ano.
+
+Gustavo Niemeyer, desenvolvedor Python, e Rodrigo Bamboo de Oliveira, criador da linguagem Boo também estiveram presentes.
+
+Neste ano as seções de OpenSpaces passaram a fazer parte da programação oficial do evento.
+
+Foi realizada a assembléia geral da APyB e eleita a nova diretoria para o biênio 2010-2011.
+
+## Comercialização
+
+Seguindo o modelo dos anos anteriores, para a edição de Caxias do Sul foi contratada a Diaspar Serviços de Informações LTDA como empresa responsável pela comercialização do evento.
+
+A remuneração da empresa foi de 15% sobre o faturamento proveniente de cotas de patrocínio.
+
+## Inscrições
+
+| Categoria | Até 04/09/2009 | Até 11/09/2009 | Até 17/09/2009 | No evento |
+|-----------|----------------|----------------|----------------|-----------|
+| APyB /Estudantes | 25,00 | 32,00 | 40,00 | 47,00 |
+| SBC / Abraweb | 35,00 | 45,00 | 56,00 | 66,00 |
+| Individual | 45,00 | 58,00 | 72,00 | 85,00 |
+
+> **Nota:** Parte da receita de cada ingresso (R$5,00) comercializado foi revertido para a ONG 'Lar São Francisco de Assis', entidade de auxílio à terceira idade, da cidade de Caxias do Sul.
+
+## Patrocinadores
+
+| Patrocinador | Valor |
+|--------------|-------|
+| INdT | R$5.000,00 |
+| Globo.Com | R$5.000,00 |
+| SERPRO | R$5.000,00 |
+| Propus | R$1.250,00 |
+
+## Apoiadores
+
+#TODO
+
+## Imagens
+
+![Python Brasil 5](../imagens/pythonbrasil-5.jpg)
