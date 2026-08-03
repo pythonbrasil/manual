@@ -3,6 +3,7 @@ name = "Manual Python Brasil"
 version = "0.1.0"
 description = ""
 authors = ["Marco Rougeth <rougeth@users.noreply.github.com>"]
+package-mode = false
 
 [tool.poetry.dependencies]
 python = "^3.8"
@@ -10,8 +11,6 @@ Sphinx = "^4.4.0"
 myst-parser = "^0.17.0"
 sphinx-autobuild = "^2021.3.14"
 furo = "^2022.3.4"
-
-[tool.poetry.dev-dependencies]
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]
