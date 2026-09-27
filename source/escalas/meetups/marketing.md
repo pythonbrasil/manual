@@ -2,11 +2,11 @@
 
 ## Canais essenciais
 
-1. **Meetup.com ou similar**: plataforma principal para inscrições
+1. **Pretix da APyB**: plataforma principal para inscrições
 2. **Instagram**: divulgue palestrantes, bastidores, fotos dos eventos
 3. **Telegram/WhatsApp**: grupo da comunidade para anúncios
 4. **LinkedIn**: alcance profissional, compartilhe com empresas
-5. **Listas da APyB**: se existir lista regional, use para divulgação
+5. **Listas da APyB**: se existir lista regional, use para divulgação - entrar em contato com a APyB
 
 ## Estratégia de divulgação
 

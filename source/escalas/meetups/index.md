@@ -14,10 +14,9 @@ Meetups são o coração de qualquer comunidade Python. Encontros regulares cria
 Considere organizar um evento regional quando:
 
 - Você tem **encontros regulares há pelo menos 6 meses**
-- A comunidade tem **mais de 50 pessoas ativas**
+- A comunidade tem **mais de 20 pessoas ativas**
 - Você tem uma **equipe de 5+ pessoas** dispostas a se dedicar
-- Já existem **patrocinadores recorrentes** que acreditam na comunidade
-- A comunidade tem **visibilidade regional** (pessoas de várias cidades)
+- Os organizadores participaram de outros eventos regionais, para terem referência de como é um evento regional
 
 Se ainda não chegou nesse ponto, **continue fortalecendo os meetups**. A base sólida é o que garante o sucesso de eventos maiores.
 

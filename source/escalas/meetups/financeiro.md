@@ -27,3 +27,9 @@ Para empresas, prepare uma proposta simples (1 página):
 - Quantas pessoas participam dos meetups
 - O que a empresa ganha (logo, fala, networking)
 - Quanto custa (valor fixo ou cobertura de custos específicos)
+
+## Como negociar com a empresa
+
+- Propor agradecimentos iniciais e finais para a empresa.
+- Colocar algum qr-code ou cartaz sobre as vagas disponíveis.
+- Colocar uma janela para apresentação de alguém da empresa falar sobre a empresa.

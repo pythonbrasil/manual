@@ -1,41 +1,46 @@
 # Financeiro e Patrocínio
 
-## Orçamento típico por escala
+## Orçamento base
 
-| Item | 100 pessoas | 250 pessoas | 500 pessoas |
-|------|-------------|-------------|-------------|
-| Local | R$ 3.000-8.000 | R$ 8.000-20.000 | R$ 15.000-40.000 |
-| Audiovisual | R$ 2.000-5.000 | R$ 5.000-12.000 | R$ 10.000-25.000 |
-| Coffee break | R$ 2.000-4.000 | R$ 5.000-10.000 | R$ 10.000-20.000 |
-| Camisas | R$ 1.500-3.000 | R$ 3.000-6.000 | R$ 5.000-10.000 |
-| Brindes/adesivos | R$ 500-1.000 | R$ 1.000-2.500 | R$ 2.000-5.000 |
-| Keynotes (passagem/hospedagem) | R$ 2.000-5.000 | R$ 5.000-12.000 | R$ 10.000-20.000 |
-| **Total estimado** | **R$ 11.000-26.000** | **R$ 27.000-62.500** | **R$ 52.000-120.000** |
+Itens que compõem o orçamento:
+- Local do evento
+  - Preferência por locais gratuitos (por exemplo, universidades), com infraestrutura adequada (cadeiras, salas divididas, sala principal que comporte todas as pessoas do evento, banheiro e acessibilidade)
+- Coffee break
+- Audio visual:
+  - Projetores
+  - Microfones
+- Kit do participante
+
+## Plano de patrocínio
+
+Elabore um documento com o contexto do evento, com fotos e dados de edições anteriores, e contrapartidas que façam sentido para as empresas. O plano de patrocínio não deve ser escrito em pedra, alterações podem e devem ser feitas rapidamente para se adaptar a situação socio-econômica da época.
+
+## Gestão financeira
+
+- **Conta separada**: use a conta bancária da APyB para receber todo o dinheiro do evento
+- **Planilha de fluxo de caixa**: acompanhe entradas e saídas em tempo real
+- **Notas fiscais**: emita NF para cada despesa (exigência para prestação de contas)
+- **Prestação de contas**: ao final do evento, divulgue um relatório financeiro transparente
+
+
+## Dicas financeiras
+
+- Concentre-se inicialmente em preparar e divulgar seu plano de patrocínio, tente definir rapidamente a identidade visual que será adotada, assim já terá uma base para tudo. Lembre-se que empresas têm uma agenda complexa de pedido de patrocínio.
+- Tente enviar o mais cedo possível os planos para as empresas, e dê muita atenção às mesmas.
+- Uma vez tendo viabilizado financeiramente, seu próximo foco deve ser as atividades e a grade, fazer o C4P e fazer as avaliações para poder divulgar e confirmar cedo as palestras do evento.
+- Chegando próximo ao evento concentre-se nos benefícios dos patrocinadores e em produzir todos os benefícios físicos. Existem benefícios que precisam de 30 dias de antecipação como estandes, camisas, copos, e alguns mais rápidos como impressões de crachá e adesivos.
 
 ## Estratégias de receita
 
 ### 1. Ingressos
 
-Faixa de preço sugerida (por pessoa):
+Tenha faixas de ingressos de acordo com os participantes, como meia-entrada para estudantes e ingressos empresariais.
 
-| Lote | Preço sugerido | Observações |
-|------|----------------|-------------|
-| Estudante | R$ 40-80 | Com comprovação |
-| Profissional | R$ 80-150 | |
-| Enterprise | R$ 150-300 | Para empresas que enviam funcionários |
-
-**Dica**: ofereça ingressos solidários (pessoa paga extra para subsidiar outra)
+**Dica**: ofereça também ingressos solidários (pessoa paga extra para subsidiar outra)
 
 ### 2. Patrocínio
 
-Cotas típicas para eventos regionais:
-
-| Cota | Valor | Benefícios |
-|------|-------|------------|
-| **Diamante** | R$ 5.000-15.000 | Estande, fala, logo em tudo, 10 ingressos |
-| **Ouro** | R$ 3.000-8.000 | Logo no site/crachá, 5 ingressos |
-| **Prata** | R$ 1.000-3.000 | Logo no site, 3 ingressos |
-| **Bronze** | R$ 500-1.000 | Logo no site, 1 ingresso |
+Espace as cotas de patrocínio para que se adequem à vários tamanhos de empresas. Empresas maiores conseguem arcar com mais verba, mas também é interessante ter cotas menores para empresas locais.
 
 **Dica regional**: adapte os valores à realidade econômica da região. No Norte/Nordeste, os valores podem ser menores; em SP/RJ, maiores.
 
@@ -46,9 +51,3 @@ Cotas típicas para eventos regionais:
 - **Transporte**: parcerias com empresas de ônibus/avião para descontos
 - **Universidades**: uso de espaço em troca de visibilidade
 
-## Gestão financeira
-
-- **Conta separada**: use o CNPJ da APyB ou crie uma conta específica
-- **Planilha de fluxo de caixa**: acompanhe entradas e saídas em tempo real
-- **Notas fiscais**: emita NF para cada despesa (exigência para prestação de contas)
-- **Prestação de contas**: ao final do evento, divulgue um relatório financeiro transparente

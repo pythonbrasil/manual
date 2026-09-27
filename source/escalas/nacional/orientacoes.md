@@ -1,4 +1,9 @@
-# Orientações específicas
+# Orientações Gerais
+---
+- Espaço Infantil
+    - Ver [Espaço Infantil/Espaço Kids](http://192.168.18.79:8000/escalas/regionais/orientacoes.html#espaco-infantil-espaco-kids) detalhado em Eventos Regionais
+
+## Orientações Específicas
 
 #### Os organizadores, palestrantes, ministrantes de tutorial, pagam ingresso?
 ---
