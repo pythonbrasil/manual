@@ -1,3 +1,9 @@
 # Ferramentas
 
-- {doc}`pretix` - Ferramenta de organização de eventos.
+Ferramentas úteis para a organização de eventos Python.
+
+```{toctree}
+:maxdepth: 1
+
+pretix
+```

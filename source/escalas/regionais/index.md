@@ -110,4 +110,5 @@ times
 orientacoes
 financeiro
 marketing
+ferramentas
 ```
