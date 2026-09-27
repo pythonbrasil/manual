@@ -39,6 +39,7 @@ Responda as perguntas abaixo para descobrir qual guia é mais adequado para o mo
 | **Frequência** | Mensal/Bimestral | Anual | Anual |
 | **Orçamento típico** | R$ 0-500 | R$ 50.000-100.000 | R$ 200.000-500.000+ |
 | **Patrocínios** | Opcionais, locais | Necessários, regionais e nacionais | Essenciais, nacionais e internacionais |
+
 ---
 
 ## Progressão Natural
