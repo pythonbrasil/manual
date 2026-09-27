@@ -13,7 +13,7 @@ Se você não sabe por onde começar, use nosso {doc}`checklist interativo <esca
 ```{toctree}
 :maxdepth: 2
 
-introducao/introducao
+introducao/index
 escalas/index
 ferramentas/index
 historia/index

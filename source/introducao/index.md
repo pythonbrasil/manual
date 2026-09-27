@@ -25,3 +25,12 @@ O evento tem como objetivos:
 ## História
 
 A história completa da Python Brasil, desde a primeira edição em 2005, está disponível na seção: {doc}`/historia/index`.
+
+
+```{toctree}
+:maxdepth: 1
+
+../meetups/index
+../regionais/index
+../nacional/index
+```

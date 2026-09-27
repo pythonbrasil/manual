@@ -73,14 +73,14 @@ Esse time vai ser fundamental próximo ao evento, e é muito importante que este
 
 ## Time de Experiência do evento
 
-O time de experiência do usuário deve conseguir integrar as pessoas e mostrar o carinho que a cidade sede quer transmitir, tentando organizar atividades espaços e experiências para as pessoas que vem ao evento.
+O time de experiência do usuário deve conseguir integrar as pessoas e mostrar o carinho que a cidade sede quer transmitir, tentando organizar atividades, espaços e experiências para as pessoas que vêm ao evento.
 - Coffee Break
   - organizar coffee vegano
   - organizar coffee vegetariano
   - organizar coffee omnívoro
   - organizar coffee celíaco
 - Kit banheiro
-- Lighttalk
+- Lightning Talks
 - Guarda Volumes
 - Coworking
 - Sleep/Relax space
@@ -99,7 +99,7 @@ O time administrativo, deve conter principalmente pessoas de tomada de decisão,
 
 ## Time Técnico
 
-O time técnico é de longe talvez o que mais pessoas vão querer participar, pois é um evento de tecnologia. Esse time tem a responsabilidade de:
+O time técnico é o que mais pessoas vão querer participar, pois é um evento de tecnologia. Esse time tem a responsabilidade de:
 - Criar o site do evento utilizando a URL que a APyB disponibiliza (aquela 2022.pythonbrasil, 2023.pythonbrasil, etc) com base na identidade visual criada pelo time de design.
 - O site deve ser um HTML estático, pode ser usado algum framework para ajudar como: Pelican, Hugo, Jekyll... ou mesmo escrever diretamente o HTML e o CSS.
 - Manter o site atualizado com todas as informações que forem passadas ao público (keynotes, plano de patrocínio, disponibilização da grade de palestras, local do evento, etc)
