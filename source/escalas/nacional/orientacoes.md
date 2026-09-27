@@ -1,5 +1,6 @@
 # Orientações Gerais
 ---
+- Ver as orientações gerais descrita em [Orientações Gerais](http://192.168.18.79:8000/escalas/regionais/orientacoes.html) em Eventos Regionais. A escala do evento nacional é bem maior que uma regional, mas as orientações para organizar são as mesmas.
 - Espaço Infantil
     - Ver [Espaço Infantil/Espaço Kids](http://192.168.18.79:8000/escalas/regionais/orientacoes.html#espaco-infantil-espaco-kids) detalhado em Eventos Regionais
 
