@@ -15,6 +15,7 @@ Se você não sabe por onde começar, use nosso {doc}`checklist interativo <esca
 
 introducao/introducao
 escalas/index
+ferramentas/index
 historia/index
 ```
 
