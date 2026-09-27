@@ -8,3 +8,7 @@ A ferramenta é hospedada pela APyB e pode ser utilizada de forma gratuíta.
 ## Requisitos
 Para mais informações sobre os requisitos para poder usar a ferramenta e encontrar os links acesse:
 [Guia APyB](https://apyb.python.org.br/associados/guias/como-organizar-eventos)
+
+
+## Como usar
+TODO
