@@ -1,6 +1,16 @@
 name: Preview de PR
 
+# Dois triggers de propósito:
+# - pull_request: roda o workflow da branch da PR; usado para PRs do MESMO
+#   repositório (token com escrita). É o que permite preview em PRs que ainda
+#   não têm este arquivo na master.
+# - pull_request_target: roda o workflow da master; usado para PRs de FORKS
+#   (o token de pull_request em fork é somente-leitura e não conseguiria
+#   publicar o preview).
+# As condições nos jobs garantem que apenas um dos dois executa por evento.
 on:
+  pull_request:
+    types: [opened, synchronize, reopened, closed]
   pull_request_target:
     types: [opened, synchronize, reopened, closed]
 
@@ -9,7 +19,7 @@ permissions:
   pull-requests: write
 
 concurrency:
-  group: pr-preview-${{ github.event.pull_request.number }}
+  group: pr-preview-${{ github.event_name }}-${{ github.event.pull_request.number }}
   cancel-in-progress: true
 
 env:
@@ -18,7 +28,13 @@ env:
 
 jobs:
   publicar:
-    if: github.event.action != 'closed'
+    if: >
+      github.event.action != 'closed' && (
+        (github.event_name == 'pull_request' &&
+         github.event.pull_request.head.repo.full_name == github.repository) ||
+        (github.event_name == 'pull_request_target' &&
+         github.event.pull_request.head.repo.full_name != github.repository)
+      )
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -81,7 +97,13 @@ jobs:
             }
 
   limpar:
-    if: github.event.action == 'closed'
+    if: >
+      github.event.action == 'closed' && (
+        (github.event_name == 'pull_request' &&
+         github.event.pull_request.head.repo.full_name == github.repository) ||
+        (github.event_name == 'pull_request_target' &&
+         github.event.pull_request.head.repo.full_name != github.repository)
+      )
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
