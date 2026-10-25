@@ -1,26 +1,18 @@
-# Minimal makefile for Sphinx documentation
+# Minimal makefile for MkDocs documentation
 #
 
-# You can set these variables from the command line, and also
-# from the environment for the first two.
-SPHINXOPTS    ?=
-SPHINXBUILD   ?= sphinx-build
-SOURCEDIR     = source
-BUILDDIR      = build
+MKDOCS ?= uv run mkdocs
 
 # Put it first so that "make" without argument is like "make help".
 help:
-	$(SPHINXBUILD) -M help "$(SOURCEDIR)" "$(BUILDDIR)" $(SPHINXOPTS) $(O)
+	@echo "Uso:"
+	@echo "  make live    - servidor local com recarga automática (http://localhost:8000)"
+	@echo "  make deploy  - gera o site estático em ./site"
 
-.PHONY: help Makefile
+.PHONY: help live deploy
 
 live:
-	sphinx-autobuild --host 0.0.0.0 "$(SOURCEDIR)" "$(BUILDDIR)" $(SPHINXOPTS) $(O)
+	$(MKDOCS) serve --dev-addr 0.0.0.0:8000
 
 deploy:
-	@$(SPHINXBUILD) -M html "$(SOURCEDIR)" "$(BUILDDIR)" $(SPHINXOPTS)
-
-# Catch-all target: route all unknown targets to Sphinx using the new
-# "make mode" option.  $(O) is meant as a shortcut for$(SPHINXOPTS).
-%: Makefile
-	$(SPHINXBUILD) -M $@ "$(SOURCEDIR)" "$(BUILDDIR)" $(SPHINXOPTS) $(O)
+	$(MKDOCS) build

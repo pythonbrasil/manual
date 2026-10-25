@@ -1,0 +1,96 @@
+site_name: Manual do Big Kahuna
+site_description: Guia para a organização de eventos Python
+site_url: https://manual.pythonbrasil.org.br/
+repo_url: https://github.com/pythonbrasil/manual
+repo_name: pythonbrasil/manual
+edit_uri: edit/master/docs/
+
+docs_dir: docs
+site_dir: site
+
+theme:
+  name: material
+  language: pt
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: deep blue
+      toggle:
+        icon: material/brightness-7
+        name: Mudar para modo escuro
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: deep blue
+      toggle:
+        icon: material/brightness-4
+        name: Mudar para modo claro
+  features:
+    - navigation.top
+    - navigation.indexes
+    - content.code.copy
+
+markdown_extensions:
+  - admonition
+  - footnotes
+  - pymdownx.details
+  - pymdownx.snippets:
+      base_path: !relative $docs_dir
+      check_paths: true
+  - toc:
+      permalink: true
+
+exclude_docs: |
+  orientacoes-gerais.md
+
+nav:
+  - Manual do Big Kahuna: index.md
+  - Introdução: introducao/index.md
+  - Escalas de Eventos:
+      - escalas/index.md
+      - Meetups:
+          - Guia de Meetups Python: escalas/meetups/index.md
+          - Processo e Governança: escalas/meetups/governanca.md
+          - Times e Organização: escalas/meetups/times.md
+          - Financeiro e Patrocínio: escalas/meetups/financeiro.md
+          - Marketing e Divulgação: escalas/meetups/marketing.md
+      - Eventos Regionais:
+          - Guia de Eventos Regionais Python: escalas/regionais/index.md
+          - Processo e Governança: escalas/regionais/governanca.md
+          - Times e Organização: escalas/regionais/times.md
+          - Orientações Gerais: escalas/regionais/orientacoes.md
+          - Financeiro e Patrocínio: escalas/regionais/financeiro.md
+          - Marketing e Divulgação: escalas/regionais/marketing.md
+          - Ferramentas: escalas/regionais/ferramentas.md
+      - Python Brasil:
+          - Organizando uma Python Brasil: escalas/nacional/index.md
+          - Proposta de Candidatura: escalas/nacional/candidatura.md
+          - Modelo de proposta: escalas/nacional/modelo.md
+          - Processo e Governança: escalas/nacional/governanca.md
+          - Times e Organização: escalas/nacional/times.md
+          - Orientações Gerais: escalas/nacional/orientacoes.md
+          - Financeiro e Patrocínio: escalas/nacional/financeiro.md
+          - Marketing e Divulgação: escalas/nacional/marketing.md
+  - Ferramentas:
+      - ferramentas/index.md
+      - Pretix: ferramentas/pretix.md
+  - História da Python Brasil:
+      - historia/index.md
+      - PyConBrasil / PyConDay 2005: historia/pyconbrasil.md
+      - PyConBrasil 2006: historia/pyconbrasil2.md
+      - PyConBrasil 2007: historia/pyconbrasil3.md
+      - PyConBrasil 2008: historia/pyconbrasil2008.md
+      - Python Brasil 2009: historia/pythonbrasil5.md
+      - Python Brasil 2010: historia/pythonbrasil6.md
+      - Python Brasil 2011: historia/pythonbrasil7.md
+      - Python Brasil 2012: historia/pythonbrasil8.md
+      - Python Brasil 2013: historia/pythonbrasil9.md
+      - Python Brasil 2014: historia/pythonbrasil10.md
+      - Python Brasil 2015: historia/pythonbrasil11.md
+      - Python Brasil 2016: historia/pythonbrasil12.md
+      - Python Brasil 2017: historia/pythonbrasil13.md
+      - Python Brasil 2018: historia/pythonbrasil14.md
+      - Python Brasil 2019: historia/pythonbrasil15.md
+      - Python Brasil 2020: historia/pythonbrasil16.md
+      - Python Brasil 2021: historia/pythonbrasil17.md
+      - Python Brasil 2022: historia/pythonbrasil18.md
+      - Python Brasil 2023: historia/pythonbrasil19.md
