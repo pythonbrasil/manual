@@ -1,0 +1,52 @@
+name: Deploy
+
+on:
+  push:
+    branches: [master]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: gh-pages
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: astral-sh/setup-uv@v7
+        with:
+          python-version: "3.13"
+
+      - name: Build
+        run: |
+          uv sync --frozen
+          uv run mkdocs build --strict
+
+      - name: Publicar em gh-pages (raiz)
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -e
+          REPO_URL="https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
+          if git ls-remote --exit-code --heads origin gh-pages; then
+            git clone --depth 1 --branch gh-pages "$REPO_URL" gh-pages
+          else
+            mkdir gh-pages
+            git -C gh-pages init -b gh-pages
+          fi
+          # apaga conteúdo antigo da raiz, preservando os diretórios de preview (pr-*)
+          rsync -a --delete --exclude '/pr-*' --exclude '.git' site/ gh-pages/
+          cd gh-pages
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "Nenhuma mudança para publicar."
+          else
+            git commit -m "Deploy de ${GITHUB_SHA::7}"
+            git push "$REPO_URL" HEAD:gh-pages
+          fi

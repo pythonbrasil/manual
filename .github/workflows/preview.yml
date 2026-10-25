@@ -1,0 +1,106 @@
+name: Preview de PR
+
+on:
+  pull_request_target:
+    types: [opened, synchronize, reopened, closed]
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: pr-preview-${{ github.event.pull_request.number }}
+  cancel-in-progress: true
+
+env:
+  PR: ${{ github.event.pull_request.number }}
+  PREVIEW_URL: https://manual.pythonbrasil.org.br/pr-${{ github.event.pull_request.number }}/
+
+jobs:
+  publicar:
+    if: github.event.action != 'closed'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.pull_request.head.sha }}
+
+      - uses: astral-sh/setup-uv@v7
+        with:
+          python-version: "3.13"
+
+      - name: Build
+        env:
+          SITE_URL: ${{ env.PREVIEW_URL }}
+        run: |
+          uv sync --frozen
+          uv run mkdocs build
+
+      - name: Publicar em gh-pages/pr-$PR
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -e
+          REPO_URL="https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
+          if git ls-remote --exit-code --heads origin gh-pages; then
+            git clone --depth 1 --branch gh-pages "$REPO_URL" gh-pages
+          else
+            mkdir gh-pages
+            git -C gh-pages init -b gh-pages
+          fi
+          rsync -a --delete site/ "gh-pages/pr-${PR}/"
+          cd gh-pages
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "Nenhuma mudança no preview."
+          else
+            git commit -m "Preview da PR #${PR}"
+            git push "$REPO_URL" HEAD:gh-pages
+          fi
+
+      - name: Comentar na PR com o link do preview
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const marker = "Preview da documentação";
+            const body = [
+              `📖 **${marker}**: ${process.env.PREVIEW_URL}`,
+              ``,
+              `Atualizado a cada push nesta PR (commit ${context.sha.substring(0, 7)}).`,
+            ].join("\n");
+            const { owner, repo } = context.repo;
+            const issue_number = context.payload.pull_request.number;
+            const comments = await github.paginate(github.rest.issues.listComments, { owner, repo, issue_number });
+            const existing = comments.find((c) => c.body?.includes(marker));
+            if (existing) {
+              await github.rest.issues.updateComment({ owner, repo, comment_id: existing.id, body });
+            } else {
+              await github.rest.issues.createComment({ owner, repo, issue_number, body });
+            }
+
+  limpar:
+    if: github.event.action == 'closed'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Remover preview de gh-pages/pr-$PR
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -e
+          git ls-remote --exit-code --heads origin gh-pages || exit 0
+          REPO_URL="https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
+          git clone --depth 1 --branch gh-pages "$REPO_URL" gh-pages
+          cd gh-pages
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git rm -r --ignore-unmatch "pr-${PR}"
+          if git diff --cached --quiet; then
+            echo "Nada para remover."
+          else
+            git commit -m "Remove preview da PR #${PR}"
+            git push "$REPO_URL" HEAD:gh-pages
+          fi
