@@ -1,0 +1,84 @@
+# Python Brasil 2010
+
+## Informações Gerais
+
+| Item | Detalhe |
+|------|---------|
+| Nome Oficial | PythonBrasil[6] |
+| Local | UFPR, Curitiba, Paraná |
+| Data | 21/10/2010, 22/10/2010, 23/10/2010 |
+| Organizador | Ramiro Batista da Luz |
+
+## Números
+
+| Item | Valor |
+|------|-------|
+| Palestras | 55 |
+| Palestrantes | 52 |
+| Keynotes | 2 |
+| Treinamentos | 6 |
+| Inscritos | 250 |
+| Receita Inscrição | N/D |
+| Patrocinadores | 5 |
+| Apoiadores | 9 |
+| Receita Patrocínio | R$21.900,00 |
+
+## Resumo
+
+A Associação Python Brasil promoveu entre os dias 21 e 23 de outubro, na Universidade Federal do Paraná (UFPR) em Curitiba (PR), a 6a edição da Python Brasil, Encontro Brasileiro da Comunidade Python.
+
+O Big Kahuna foi Ramiro Batista da Luz, contando com apoio de uma comissão formada por Osvaldo Santana, Arthur Furlan e Paulo Henrique Santana.
+
+A cerimônia de abertura foi realizada no dia 21 de outubro de 2010, com a participação Dorneles Treméa presidente da Associação Python Brasil à época do evento, Ramiro Batista da Luz e Luis Carlos Erpen de Bona representante do Departamento de Informática da UFPR.
+
+Ao todo foram 49 palestras divididas em 2 auditórios, além de 6 mini-cursos e diversas palestras relâmpagos durante os 3 dias de evento.
+
+Como keynotes do evento foram convidados Leah Culver, co-fundadora e principal desenvolvedora da rede social e site de micro-blogging Pownce, e Facundo Batista, um dos líderes da PyAr, Core-Developer do Python e membro da Python Software Foundation.
+
+Inicialmente estava prevista a participação de Ian Bicking, membro conhecido da comunidade Python, mas que por motivos familiares teve que declinar do convite.
+
+O representante de outra linguagem foi Fábio Akita que discorreu sobre Ruby.
+
+Durante o evento foi realizada a assembléia geral da APyB onde foram eleitos novos conselheiros e foi definida a sede da edição seguinte da PythonBrasil.
+
+## Comercialização
+
+Assim como a edição de Caxias do Sul, a comercialização do evento foi realizada pela Diaspar Serviços de Informações LTDA.
+
+A remuneração da empresa foi de 25% sobre o faturamento proveniente de cotas de patrocínio
+
+## Inscrições
+
+| Categoria | Até 31/07/2010 | Até 31/08/2010 | Até 30/09/2010 | Depois de 01/10 |
+|-----------|----------------|----------------|----------------|-----------------|
+| APyB /Estudantes | 25,00 | 32,00 | 40,00 | 47,00 |
+| SBC / Abraweb | 35,00 | 45,00 | 56,00 | 66,00 |
+| Individual | 45,00 | 58,00 | 72,00 | 85,00 |
+
+## Patrocinadores
+
+| Patrocinador | Valor |
+|--------------|-------|
+| Globo.Com | R$10.000,00 |
+| SERPRO | R$5.000,00 |
+| Liberiun | R$3.900,00 |
+| LZT | R$2.000,00 |
+| Caelum | R$1.000,00 |
+
+## Apoiadores
+
+| Apoiador | Contribuição |
+|----------|--------------|
+| APyB | Organização / Temário |
+| Simples Consultoria | Web site do evento |
+| Tríveos | Divulgação e brindes |
+| Elaborata | Divulgação e banners |
+| UFPR | Apoio institucional |
+| CEI - UFPR | Apoio à organização |
+| Rev. Espírito Livre | Apoio Mídia |
+| Linux New Media | Apoio Mídia |
+| 91 Radio Rock | Apoio Mídia |
+
+## Imagens
+
+![Python Brasil 6](../imagens/pythonbrasil6.jpg)

@@ -1,0 +1,43 @@
+# PyConBrasil 2006
+
+## Informações Gerais
+
+| Item | Detalhe |
+|------|---------|
+| Nome Oficial | PyConBrasil 2006 |
+| Local | Interlegis, Brasília, Distrito Federal |
+| Data | 01/06/2006, 02/06/2006 |
+| Organizador | Jean Rodrigo Ferri |
+
+## Números
+
+| Item | Valor |
+|------|-------|
+| Palestras | 16 |
+| Palestrantes | N/D |
+| Treinamentos | 8 |
+| Inscritos | ~ 180 |
+| Receita Inscrição | R$0,00 |
+| Patrocinadores | 0 |
+| Apoiadores | 0 |
+| Receita Patrocínio | R$0,00 |
+
+## Resumo
+
+A PyConBrasil 2006 foi realizada no Interlegis, em Brasília, sob organização de Jean Rodrigo Ferri e sua equipe. Foram cerca de 180 participantes.
+
+Nessa edição foram incluídos os minicursos de quatro horas de duração em paralelo às palestras.
+
+Outra novidade foram as palestras-relâmpago, com cinco minutos de duração, que são tradicionais em eventos da comunidade Python ao redor do mundo.
+
+## Inscrições
+
+| Categoria | Até o evento |
+|-----------|--------------|
+| Individual | N/A |
+
+> **Nota:** As normas do Interlegis impedem a cobrança pelas inscrições bem como a comercialização de produtos.
+
+## Imagens
+
+![Python Brasil 2](../imagens/pythonbrasil-2.jpg)

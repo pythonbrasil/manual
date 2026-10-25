@@ -1,9 +1,0 @@
-*************************
-Proposta de Candidatura
-*************************
-
-.. toctree::
-   :maxdepth: 1
-   
-   introducao
-   modelo
